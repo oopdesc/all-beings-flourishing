@@ -66,14 +66,8 @@
 
 訂正や研究の提案は[投稿方法](CONTRIBUTING.md)へ。投稿は確認してから本文へ反映します。多くの賛同や有名な著者名だけで、正しいと決めることはしません。反論や未解決の点も記録します。
 
-## 確認範囲
+## 出典について
 
-文献調査の基準日は2026年10月26日です。これは選択的な調査であり、全関連文献を網羅した系統的レビューではありません。各研究カードに、要旨・本文など実際に確認した範囲を記録しています。原著全体の精読やデータの独立再解析を済ませたという表示ではありません。
+文献調査の基準日は2026年10月26日です。本文で参照した研究と、実際に読んだ範囲は研究記録にまとめています。計算例は架空の条件を使い、研究計画は提案として記しています。
 
-本文の小さな計算例は架空で、研究計画は未実施です。科学的な知見と、本書が選ぶ価値を同一視しません。最終真理や、世界一という比較評価を認定する本でもありません。
-
-Kindle版の出版状況は[こちら](PUBLICATION_STATUS.md)。無料公開と同じ利用条件を適用する方針です。Kindleの申請・登録状態は出版状況ページに記録します。
-
-本名・住所・旧原稿・認証情報・第三者論文の全文PDFは、このリポジトリには含めません。
-
-Open book and research notes in Japanese. Reuse and adaptation are permitted under CC BY-SA 4.0 with attribution and share-alike conditions. See CONTRIBUTING.md for corrections and research proposals.
+[Kindle版の出版状況](PUBLICATION_STATUS.md)
