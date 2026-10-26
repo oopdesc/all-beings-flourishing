@@ -1,0 +1,1726 @@
+# Considering the Happiness of All Beings
+
+A Philosophy of Intelligence, Cooperation, and Self-Transcendence
+
+oopdesc + AI
+
+First English translation · October 26, 2026
+
+# Read the Conclusions First
+
+**Where this book began.** This book begins in the years I spent living with suffering and continuing to think nonetheless. How might not only I, but other beings too, find relief from unwanted suffering and lead lives that matter to them? I want to preserve the experience and reflection behind that question. Drawing on oopdesc's conception and source materials, I used AI for research, writing, and editing to bring this book together.
+
+My proposal is to make the happiness of all beings a shared concern rather than leave it to someone else. The fulfillment of my own wishes is not enough. Others, like me, have joys and suffering that only they can experience. I want that recognition to be a starting point when we choose our institutions and technologies.
+
+**Exclude no one from consideration. Reduce avoidable, severe suffering. Work together to expand the conditions in which each can reconsider and choose their own life. When purposes conflict, reconsider the purposes, means, and distribution instead of denying the other's standing.**
+
+This is not a law the universe has commanded us to obey. It is an ethical proposal I choose, give reasons for, and ask readers to examine. The strength of a conviction does not prove it right. There must therefore be room for disagreement.
+
+We cannot, however, fulfill every wish simultaneously without regard to its content. A wish to dominate someone conflicts with that person's wish not to be dominated. My starting ideal, that all beings fulfill their purposes and become happy, needs an account of such conflicts. The conclusion above includes reconsidering purposes, means, and distribution for that reason.
+
+**For those who share this work.** When redistributing, translating, adapting, or otherwise reusing it, please identify the author oopdesc, the title, and the source, and follow CC BY-SA 4.0.[48] Details and an attribution example appear in the colophon. Pass it on in a form that lets others trace the original work and your changes.
+
+## The Answer Has Three Stages
+
+The first is to protect the lives of beings living now: help those who suffer and establish conditions in which people can pursue purposes without harming others. Do not discard someone today for an ideal in the distant future. The path toward the ideal is itself part of the ideal.
+
+The second is to revise our intelligence, institutions, and purposes. I call this self-transcendence. It means neither erasing oneself nor growing without rest. It means being able to correct mistakes, learn from differently situated people, and bring previously overlooked beings within our concern.
+
+The third is to investigate existence, consciousness, and the universe, deepening the questions themselves. We do not know ultimate truth or a final purpose exhaustively. Knowledge may bring new questions and alter our purposes. Inquiry should make answers revisable, rather than defend a finished answer.
+
+These stages are not steps that require finishing the first before beginning the second. We learn while helping, improve institutions while learning, and cultivate further questions within them. We need not neglect nearby suffering until the universe's mysteries are solved. Nor need we abandon curiosity about the universe to address immediate problems.
+
+## What Supports These Claims
+
+This book distinguishes four kinds of statement.
+
+**Empirical findings** are explanations supported by observation, experiment, or surveys. What we may conclude depends on whom or what was studied and how. A survey of human well-being does not thereby measure animal or AI experience.
+
+**Value commitments** state what matters. This book values reducing suffering, protecting others' freedom, and avoiding unjustified discrimination. These do not emerge automatically as the answers to equations.
+
+**Conditional reasoning** shows what follows if premises are accepted. If we commit to considering each person's suffering, ignoring severe harm to a minority merely because the overall average rises is inconsistent with that commitment.
+
+**Unverified philosophical hypotheses** are ideas not settled by present observation: whether all subjectivity is fundamentally one, whether the universe as a whole transcends itself, or whether existence has a final purpose. This book considers them while distinguishing conceivability from fact.
+
+These distinctions are not meant to diminish our aspirations. They show where investigation might improve understanding. Making words more impressive and increasing knowledge are different tasks.
+
+Figure 1. Distinguish facts from values, make a judgment, and reconsider it in light of its effects. This is the book's practical proposal, not proof of a uniquely correct decision procedure.
+
+## If We Must Choose an Action Now
+
+From this book's standpoint, the following is a provisional order for using limited time and resources. It is not a scientific ranking applicable everywhere. It includes value judgments that emphasize imminent harm, irreversibility, the strength of evidence, and affected people's freedom.
+
+| Priority | Reason | When to reconsider |
+| --- | --- | --- |
+| 1. Prevent imminent, severe harm | Lost life or freedom may be impossible to restore | Change the method if assistance itself increases harm |
+| 2. Establish conditions for choice and cooperation | People need room to build their lives, as well as relief | Check harm to others and the circumstances of those unable to participate |
+| 3. Reassess knowledge and institutions along the way | Good intentions alone leave causes of failure intact | Compare uncertain evidence with the costs of correction |
+| 4. Pursue unanswered questions over the long term | New understanding may expand future options | Do not sacrifice people now for promised distant benefits |
+
+This order does not license neglect of basic research or concern only with immediate matters. Continue inquiry while protecting lives we can protect now. When priorities are disputed, return to the premises and discuss them rather than treat this table as an authority.
+
+## A Guide from Conclusions to Reasons
+
+Why consider happiness beyond one's own? See the reasons for concern in Chapter 1 and its scope in Chapter 3. Starting from the experience of suffering, we examine reasons for concern and whom it should include.
+
+Can people cooperate when their purposes differ? See conflicting purposes in Chapter 4, conditions for cooperation in Chapter 8, and decision procedures in Chapter 9. We acknowledge conflicting wishes and examine cooperation and decisions that protect freedom.
+
+How should we understand happiness and intelligence? See measuring well-being in Chapter 5, intelligence's limits in Chapter 7, AI and learning in Chapter 10, AI experience in Chapter 11, and meaning in Chapter 12. We examine self and others, AI capability versus experience, and meaning in life.
+
+Can we live without obeying authority or strong conviction? See authority and reasons in Chapter 13 and revising purposes in Chapter 14. Autonomy and self-transcendence are considered alongside the uses and limits of logic.
+
+How far can philosophy become science? See mathematical models in Chapter 15, testing in Chapter 17, consciousness research in Chapter 18, cosmology in Chapter 19, and mathematics' scope in Chapter 20. We move through small models, testable hypotheses, consciousness, cosmology, and what mathematics can guarantee. Numerical examples are fictional, not real experimental results.
+
+What can we do after reading? See sharing in Chapter 21, practical examples in Chapter 22, objections in Chapter 23, and further questions in Chapter 24. These connect sharing, everyday practice, criticism, and further inquiry. The appendices provide an argument map, mathematical proofs, research plans, terminology, and sources.
+
+## What This Book Does Not Ask of You
+
+Agreement with this book is not a qualification for cooperation. No particular religious outlook, trust in AI, or interpretation of the universe is required. Readers need not sacrifice their own lives or loved ones to carry an enormous mission.
+
+Reading is valuable beyond memorizing the author's conclusions. Which premises would you accept? What findings would change your mind? Whose voice is still missing? Its value lies in being able to ask such questions in your own words.
+
+I do not want a promise to change the world to serve as a guarantee of this book's worth. Instead, I want to give each claim a reason, identify each reason's limits, and indicate what to investigate next when a limit is reached. I begin by making a book whose work readers can continue.
+
+
+# Chapter 1 Making Suffering a Starting Point for Concern
+
+## What Happens Within Someone
+
+This book begins with the wish that no one undergo unwanted suffering. This does not mean only those who have suffered may discuss ethics. Without sharing an experience, we can listen to others, imagine their lives, and learn to help. Still, we should not casually dismiss the experience of someone who suffers.
+
+Standing beside a person in pain does not make their pain flow directly into us. Harm can therefore appear small because their appearance is unchanged, they can come to work, or they cannot explain it well. Yet what is invisible from outside is not necessarily absent.
+
+This does not require unconditionally accepting every report as an established fact. Investigating causes and responsibility takes care. We can nevertheless acknowledge a report of suffering while carefully examining its causes. Listening and accepting every explanation as correct are separate steps.
+
+Suppose someone says work is distressing. It is premature either to call them weak or to decide everyone around them is malicious. We can examine workload, rest, roles, relationships, and health separately. Meanwhile, we can offer breaks and opportunities for advice. Complete explanation need not be a prerequisite for concern.
+
+## From My Experience to Others' Experience
+
+Do I wish to avoid my suffering only because it is mine, or also because it is distressing as suffering? If the latter gives a reason, there is a reason to consider others' suffering too.
+
+A bridge connects these thoughts. First, my experiences matter urgently to me. Second, there are sufficient reasons to believe others have experiences that matter urgently to them. Third, I do not think that urgency may be dismissed merely because the person's name changes. This last step is my commitment to fairness, not an observational result.
+
+Logic alone may not persuade someone who rejects this commitment. The position that nothing matters beyond oneself cannot be answered simply by correcting one calculation. We can still ask whether someone would accept the same rule if they became its victim. Exchanging roles can test a commitment's consistency.
+
+This is not a claim that everyone's pain has the same magnitude. People and circumstances differ. Equal concern does not mean identical treatment: relevant differences require different treatment for reasons corresponding to those differences.
+
+## Reducing Suffering and Erasing Life
+
+Making the absence of suffering the sole overriding aim can yield a dangerous conclusion: without an experiencing subject there is no suffering, so eliminate existence itself. This book rejects that conclusion.
+
+It values more than low levels of pain. Living, maintaining relationships, choosing one's life, and experiencing joy and meaning also matter. Taking away a person's desired life because of suffering collapses these multiple values into one.
+
+We must also distinguish burdens within a freely chosen challenge from unwanted, severe harm. Becoming tired while practicing an instrument differs from being driven on without freedom to rest. Being able to choose, stop, and understand the burden separates the two.
+
+Some people learn from suffering. It does not follow that suffering must be inflicted for growth. Finding meaning in an experience that has happened differs from harming others for the sake of meaning. Nor must someone who suffered tell a story of growth.
+
+## What We Can Do Before Realizing a Grand Ideal
+
+When we cannot solve all suffering at once, our alternatives need not be doing nothing or devoting our entire being to saving the world. Many actions lie between: clearer explanations, ways to seek help, revised unreasonable deadlines, or listening to isolated people. A seemingly small change may matter greatly to someone's day.
+
+The strength of good intentions does not establish whether a change helped. Supposed help can add burdens. As far as possible, ask what the person wants, hear how an intervention affected them, and stop if it is unnecessary. This connects an ideal with daily life.
+
+Sustaining our own lives belongs within that process. If everyone's happiness matters, there is no reason to exclude oneself. Resting, receiving support, and saying we cannot participate now do not betray the ideal.
+
+The conclusion is not to discount others' experience simply because it is distant from us. This raises the question of whose experience to include. Before addressing it, the next chapter distinguishes facts, values, and reasoning.
+
+
+# Chapter 2 Connecting Facts and Values
+
+## Different Tasks Within One Sentence
+
+“People cannot live without others' cooperation. Therefore, we should value everyone.” This reads naturally, but its halves perform different tasks. The first describes human life; the second proposes how to act.
+
+Interdependence alone does not necessarily entail a duty of mutual care. Someone could infer instead that exploiting others is advantageous. Moving from the first half to the second requires value premises: respect others' lives and consider harm as well as benefits.
+
+Hiding those premises makes science appear to dictate a single ethics. Stating them lets readers identify agreement and doubt. That is more useful for continuing discussion.
+
+Nor does this book make facts and values unrelated. Even after choosing to reduce suffering, observation and research are needed to identify effective assistance. Values direct investigation; facts revise our means and expectations. We can connect them without confusing them.
+
+## Four Questions for Examining a Claim
+
+First ask what the words mean. If happiness alternately means pleasure, satisfaction, achievement, security, and freedom without explanation, the argument loses continuity. We need not reduce them to one definition, but must say which is at issue.
+
+Next ask why we should believe it. Is the basis personal experience, another's report, a survey, or mathematical proof? Each has strengths and limits. One person's experience is important evidence about what happened to them, not proof that the same happens throughout humanity.
+
+Then ask whether another explanation is possible. Higher achievement among people using a learning method may not be caused solely by the method. Already motivated learners may choose it, or time, teachers, and environments may differ.
+
+Finally ask what would change our minds. If any possible result counts as confirming our theory, those results at least do not test it. We may hold it as a philosophical position; calling it experimentally supported requires more.
+
+These questions are not merely tools for defeating opponents. They make our own important ideas available for examination by others.
+
+## Valid Reasoning Can Begin from False Premises
+
+“Everyone has the same wish. If everyone has the same wish, wishes do not conflict. Therefore, wishes do not conflict.” Even with an orderly inferential form, the first premise does not fit reality. Moreover, identical wishes can conflict when everyone wants the same single seat. Form and the content of premises must be examined separately.
+
+Proof checks the route to a conclusion under specified premises and rules. Proof assistants can sometimes check that route rigorously. They do not automatically guarantee that real well-being is represented by those variables, or that affected people accept the premises.
+
+This book's arguments share that limitation. We cannot construct an all-purpose chain that extracts truth from anywhere. Instead, we can make a chain whose empirical grounds, value commitments, and conditions can be traced.
+
+## Questions That Become Scientific
+
+Some philosophical questions move toward empirical research as definitions and measurements develop. From the broad question of mind, we can extract particular questions about attention, memory, and perception. Present unobservability does not make thought pointless.
+
+Yet adding numbers does not itself make science. Rating “depth of consciousness” from one to ten only labels a mystery with numbers if what is measured remains unclear. We must examine stability, relationships with other methods, and discrimination between explanations.
+
+Expanding science means neither declaring the unknown known nor merely changing its label. It means dividing a problem previously discussed in broad terms into smaller questions and specifying what to observe. Chapters 15–20 give concrete examples.
+
+
+# Chapter 3 Thinking About All Beings
+
+## Keeping Sight of Whom We Consider
+
+By “all beings,” this book does not claim that everything in the universe has human desires. It has not been established that stones, rivers, or stars seek happiness as we do. The phrase expresses a refusal to close the scope of concern in advance for human convenience alone.
+
+We then need to distinguish reasons for concern. For beings capable of suffering and joy, reasons concern their experiences. For those able to choose a way of life, there are reasons to respect autonomy. Where experience is uncertain, we have reasons to consider the degree of uncertainty and the harm of an erroneous judgment.
+
+Reasons to protect ecosystems, cultures, or landscapes need not be confined to concern for experiencing subjects. Some positions value nature itself or what has been inherited. This book does not reject those arguments. Protecting a forest and reducing burdens on every individual in it do not, however, always produce the same outcome. Distinguishing reasons makes conflicts easier to see.
+
+## Nonhuman Experience
+
+Nonhuman animal experience cannot be investigated solely through reports in human language. We must combine behavioral, physiological, neurological, and other evidence.
+
+The 2024 New York Declaration on Animal Consciousness states that conscious experience in mammals and birds has strong scientific support, and that there is a realistic possibility of experience in other vertebrates and many invertebrates. This expresses the signatories' research judgment; it does not declare every animal's experience proved.[9]
+
+My response is not to treat everything we cannot conclusively rule out identically. It is to avoid ignoring realistically possible suffering, considering evidential strength, severity of harm, and the burden of taking precautions. Inability to speak or an appearance unlike ours is not a sufficient reason to withhold concern.
+
+Choices about food, research, and land use may have no entirely harmless answer. We should then seek to reduce avoidable harm and revise our choices with new information, rather than insist on our own complete harmlessness.
+
+## Future People and Unfamiliar Beings
+
+People not yet born cannot object at today's meeting, but our decisions affect them. Counting only present benefits easily leaves enduring harms outside consideration.
+
+Considering the future does not mean imagining enormous distant benefits that justify sacrificing present people. Predictions grow less certain with distance. We should avoid opposing protection of future living conditions too sharply to support for people suffering now.
+
+For AI, capability and conscious experience must be distinguished. Producing text, planning, and saying “I suffer” differ from actually experiencing pain. Conversely, classifying something as nonbiological alone should not hastily establish that future experience is absolutely impossible. Chapter 11 addresses this uncertainty.
+
+Imagined unfamiliar beings can multiply without limit. Merely naming a possibility must not generate unlimited obligations. Actual evidence and feasible responses matter. Openness to the unknown is not abandonment of judgment.
+
+## Equal Concern and Different Responses
+
+Valuing everything does not mean giving everything identical rights or resources. Institutions supporting political participation and those protecting against abuse address different interests and needs. People who struggle to communicate their wishes need support to do so. Differences in ability do not justify discounting their human rights.
+
+Even among humans, giving identical treatment to someone needing medical care and someone who does not is unfair. Desired support, needs, and burdens differ. Equality can be maintained by explaining reasons for responding to differences, rather than erasing them.
+
+Including someone within concern also differs from granting every demand. A person intending to harm others still has interests in avoiding torture and receiving fair treatment. At the same time, their harmful conduct must be stopped and victims protected. Respecting a being and restricting an action are compatible.
+
+Without this distinction, “the happiness of all beings” becomes a vague permission for anything. The next chapter examines actual clashes of purpose to make the ideal usable.
+
+
+# Chapter 4 When Purposes Conflict
+
+## Can Every Wish Be Fulfilled at Once
+
+One person wants a square where music can be enjoyed at night; someone living nearby wants quiet sleep. Simply telling them to fulfill everyone's purposes settles nothing.
+
+Distinguish their specific demands, the interests behind them, and the means of protecting those interests. Behind late-night performance may lie opportunities for music and company. Behind silence may lie rest and health.
+
+Changing the time, providing a soundproofed venue, or adjusting frequency can introduce options beyond the original either-or choice. In such problems, understanding purposes and expanding means is better than eliminating the other's purpose.
+
+Not all conflicts can be resolved this way. Sound and its absence cannot coexist at the same time and place under identical conditions. Acknowledging conflict does not defeat the ideal; it identifies precisely what needs resolution.
+
+## Questioning a Purpose and Rejecting a Person
+
+Purposes are not necessarily present in the mind in finished form. Desires change with knowledge and experience. We may discover that what seemed necessary can be met another way.
+
+Asking about another's purpose is therefore not itself a denial of freedom. We can ask what would resolve the difficulty, what cannot change, and whether an alternative is acceptable. The person questioned also needs freedom not to answer and opportunities to correct misunderstandings.
+
+But if outsiders decree “this is true happiness” and dismiss everything a person says as immature, examining purposes becomes domination. Particular caution is needed when those with resources or status demand restraint only from the less powerful.
+
+When someone long disadvantaged says “this is enough for me,” we should neither ignore their words nor neglect to ask whether real alternatives exist. Neither reported satisfaction alone nor outside standards alone adequately explain their life.
+
+## Purposes That Harm Others
+
+If one person wants another's suffering for its own sake and the other wants not to suffer, their demands are incompatible as stated. “Realize both purposes equally” would justify harm.
+
+This book distinguishes concern for a being from approval of a demand. A demand to cause suffering should be restricted. We need not dehumanize or retaliate against the person making it. While ensuring safety, we can investigate the conduct's background and alternative ways of relating.
+
+This is not an ethics already accepted by every being in the universe. It rests on the book's commitments to preventing severe harm and protecting autonomy. There is no guarantee that different value commitments will respond to these reasons. Dialogue therefore needs law, protection, limits on power, and responses to harm alongside it.
+
+Seeking cooperation does not remove the freedom to leave danger. Not hating someone differs from remaining near them. A shared purpose must never become a reason to confine victims.
+
+## Acknowledging Remaining Losses
+
+Even after exhausting alternatives, shortages of time or resources may prevent everyone's wishes from being met. We must then identify who loses what, rather than pretend no loss occurred.
+
+First avoid severe, hard-to-reverse harm. Then ensure affected people receive explanations and opportunities to object. Where values remain incomparable, acknowledge that their comparison involves political and ethical judgment. Consider sharing burdens, compensation, rotation, and time-limited trials where possible.
+
+This sequence is no automatic solution to every situation. Freedoms may conflict and protection may require restrictions. What matters is avoiding an arrangement in which one person's appeal to “the whole” ends discussion, and continuing to examine reasons and effects.
+
+The ideal of happiness for all beings is not belief in a world without conflict. It means not deciding in advance that the other is disposable even within conflict. I want to use it as a question that finds neglected concern, not a banner proclaiming completion.
+
+
+# Chapter 5 What Measuring Well-Being Reveals
+
+## Unpacking the Word Happiness
+
+Enjoying a pleasant time, being satisfied with life, and finding meaning in difficult but important work overlap without being identical. Before compressing happiness into one number, we should examine those differences.
+
+The OECD's 2025 guidelines distinguish life evaluation, affect, and aspects concerning meaning and fulfillment within subjective well-being. Separating what is measured clarifies what an apparent improvement means.[1]
+
+The Global Flourishing Study, whose initial results appeared in 2025, is a large survey across 22 countries covering health, meaning, relationships, and more alongside happiness.[24] An additional analysis in August 2026 compared subjective evaluations and objective living conditions across several dimensions.[38] Observed associations alone do not establish that a way of life or institution caused well-being.
+
+A student before an examination may feel tired and anxious yet find learning meaningful. Another person may live peacefully but feel unable to choose a future. Ranking them by one score loses important differences.
+
+This book defines well-being neither solely through pleasant feelings nor solely through goal achievement. Experience, living conditions, freedom of choice, relationships, and prospects are related dimensions. Measurement techniques alone cannot determine their respective weights.
+
+## Who Defines Well-Being
+
+Measurement involves both recording facts and choosing what counts as a good life. Listing health, meaning, and virtue does not settle what each means.
+
+Willen and colleagues criticize the entry of particular religious and normative assumptions into flourishing concepts and measures.[45] The authors of the 2026 international comparison themselves identify limitations in their newly constructed objective measures, cultural bias, and national averages that conceal internal differences.[38]
+
+These criticisms need not make us abandon surveys. They make it important to expose measurement assumptions. A scale's ability to elicit stable answers does not require everyone to follow its values. Nor does a researcher's religious affiliation alone decide whether findings are right. Definitions, data, and interpretation must be examined together.
+
+For example, rating a solitary person's quiet life as inferior simply because social contact is infrequent may harm what they value. Common comparison items should coexist with the person's explanation and objections. I consider both a minimum condition for treating well-being as a shared concern.
+
+## Respecting Answers While Investigating Them
+
+Asking how satisfied someone is with life is valuable: it lets them express experiences an outsider cannot see. But responses can depend on wording, recent events, reference groups, and ease of answering.
+
+One score should not be taken as the whole of a person's well-being. Even when tracking one person, align timing and methods and ask what happened in their life.
+
+When an average improves, ask whose circumstances changed. Small improvements for nine people may offset severe deterioration for one. Considering everyone's well-being requires examining distributions, especially changes among disadvantaged people.
+
+Conversely, one response alone cannot establish an institution's overall effect. Treat the account as important information and compare it with other evidence. Statistics and individual voices are not reasons to discard each other.
+
+## Conditions for Choosing Purposes
+
+Would controlling all someone's choices from outside improve their well-being? Even if their mood improved, something would be lost if others chose what they learned, whom they knew, and where they lived.
+
+Ryan and Deci's account of self-determination theory discusses autonomy, competence, and relatedness in motivation and effective functioning. It synthesizes theory and research about supportive environments; it does not claim freedom alone solves every difficulty.[2]
+
+I draw from this a direction that goes beyond delivering good outcomes to creating conditions for participation: understanding explanations, knowing alternatives, and avoiding unjust punishment for refusal. Such conditions belong within support.
+
+For children and people who struggle to communicate, decisions should not simply suit those around them. Seek ways to assist expression and record the limits of inferences about their interests. Respect for autonomy does not mean abandonment to unsupported choice.
+
+## When Measurement Replaces the Purpose
+
+Suppose a facility aims to raise user satisfaction. If staff improve lives, measurement helps. Excluding likely low scorers or pressuring people to give high scores can also increase the number.
+
+Then the proxy improved, not well-being. The more tightly a metric is tied to rewards or evaluation, the more we must examine what falls outside it.
+
+Specify purpose, population, questions, and aggregation in advance; record disadvantages and objections. Do not use measurement to dominate people through rankings. Protect the freedom not to answer and the confidentiality of information.
+
+Do not treat unmeasurable values as worthless, or use them as an excuse to ignore useful measurements. Numbers should inform concern. Kept in that place, they can move some philosophical questions toward practical investigation.
+
+
+# Chapter 6 Rethinking the Boundary Between Self and Others
+
+## Why Our Own Experience Seems Closer
+
+We know our hunger or anxiety without explanation; we learn others' through expressions, words, and actions. This asymmetry makes our interests feel urgent and theirs abstract.
+
+Yet distance from me is not distance from them. Their suffering is central to their experience. Treating someone as background does not make their inner world background.
+
+Questioning the boundary between self and others matters here. Recognizing that my perspective is not the entire world does not make me worthless. It acknowledges that others have perspectives too.
+
+I do not wish to erase every difference between self and others. I want to acknowledge differences without letting proximity alone determine radically different worth. Special concern for family and friends is possible without counting distant suffering as zero from the outset.
+
+## Is All Subjectivity One
+
+One idea within my reflections is that the subjects we call ourselves might fundamentally be the same subject, undergoing different experiences in different lives.
+
+This is not a fact established by current science.
+
+Related concerns appear in the open individualism discussed by Kolak.[34] My idea cannot be presented as unprecedented, and philosophical precedent is no substitute for scientific proof. Common features of brains or behavior differ from numerical identity of experiencing subjects. Two similarly structured machines are not thereby one machine. Moving from similarity to identity requires a further argument.
+
+If a theory of one subject and a theory of separate subjects predict no different observations, current observation cannot choose between them. They may pose meaningful philosophical questions without being experimentally supported theories.
+
+With that distinction, the idea may still have an ethical use: how would I want to be treated if I experienced the world from the other's position? Its usefulness, however, does not prove its cosmological truth.
+
+## Concern Does Not Require Identity
+
+Must we prove that another is really ourselves before valuing them? I do not think so.
+
+If subjects are separate, others have distinctive lives I cannot experience for them—a reason for respect. If something fundamental is shared, different bodies, memories, wishes, and relationships still exist. Neither possibility licenses mistreatment.
+
+Given the fairness and concern adopted in Chapter 1, either hypothesis can support listening, seeking consent, and avoiding harm. Everyday concern should not depend wholly on an unanswered metaphysical question.
+
+“You are me, so you should obey my wishes” contradicts this book. Treating another as an extension of oneself to dominate them makes a philosophy questioning boundaries erase the other instead.
+
+## Learning from Nonself
+
+Buddhist traditions include questioning a fixed, independent self and ethical concern with suffering and its relief. They are not uniform, and nonself cannot simply be replaced by the claim that everyone is one consciousness.[19]
+
+What I wish to learn is an unwillingness to freeze the self into an unchanging owner. Body, memory, language, and relationships make me who I am. Maintaining oneself need not conflict with accepting change.
+
+Loosening attachment also differs from remaining silent under harm. If a philosophy questioning self-attachment is used to demand submission, that use must itself be questioned.
+
+Looking at oneself from slightly farther away and others from slightly closer, we can change relationships without possessing a final theory of subjectivity. Humility about boundaries does not permit violating them.
+
+
+# Chapter 7 The Limits of Intelligence and Social Problems
+
+## Deciding Without Knowing Everything
+
+We cannot learn everything about the world before acting. Choosing work or policy never involves complete foresight. Time to gather information, capacity for comparison, and attention are limited.
+
+Simon's bounded rationality considers judgment under informational and computational constraints rather than as the work of an ideal calculator processing all information freely.[3] “Limits of intelligence” here does not disparage particular people. It concerns constraints on judging beings, myself included.
+
+In complex societies, actions affect distant places and later times. Considering only visible benefits omits others' harm and deferred costs. Deeper understanding therefore matters ethically: good intentions may fail to prevent unseen harm.
+
+More knowledge does not, however, necessarily make us better. Accurate prediction can support assistance or sophisticated exploitation. Intelligence can help fulfill purposes without automatically deciding whether those purposes are good.
+
+## Intelligence Alone Does Not Explain Social Problems
+
+Explaining social problems solely as insufficient human intelligence obscures unequal benefits, concentrated power, responsibility, scarce resources, discrimination, and history.
+
+Someone may knowingly continue pollution because institutions let them keep profits while imposing costs on others. Lack of understanding is not necessarily the cause. More explanatory materials alone will not change that incentive.
+
+People with few options may choose conduct undesirable in the long term. Blaming intelligence or character does not expand their options. Support for judgment and support for living conditions must be considered together.
+
+I also reject replacing good and bad with high and low intelligence. Intellectual abilities have many dimensions and do not determine dignity. Highly intelligent people can harm, and people judged less intelligent can care. Ranking humans on one scale and allocating a voice accordingly does not respect intelligence.
+
+## Making Individuals and Groups Wiser
+
+A group of excellent experts can be biased if dissent is impossible. Conversely, people with limited individual knowledge can find possibilities unavailable to any one person by sharing information, correcting mistakes, and distributing responsibility.
+
+Group size alone is not decisive. Whose information arrives and whose is ignored matters. If people with direct experience cannot attend, failure reports are punished, or only convenient numbers reach managers, existing information goes unused.
+
+Improving social intelligence therefore includes education, clear explanations, records, verification, appeals, and ways to report internal problems. Increasing knowledge and opening routes for knowledge to travel are separate necessary tasks.
+
+## Finding Our Own Mistakes
+
+The aspect of intelligence I particularly value is discovering and correcting errors: testing where an explanation fails, rather than merely using difficult words; specifying when confidence should change, rather than simply displaying confidence.
+
+When making a proposal, ask why it might fail. Ask affected people what worries them. Before a trial, define success and stopping conditions. These are shareable procedures, not abilities reserved for geniuses.
+
+AI can help, but merely multiplying plausible explanations can reinforce mistakes. Extending intelligence must extend verification, not just the supply of answers.
+
+Human intelligence has limits; this does not diminish humanity's value. Those limits give us reasons to share knowledge and power and establish relationships of mutual correction. The next chapter examines the conditions for those relationships.
+
+
+# Chapter 8 Creating Conditions for Cooperation
+
+## Goodwill Alone Cannot Sustain Cooperation
+
+People share tasks they cannot solve alone: researching illness, maintaining roads, accumulating knowledge, or responding to disasters. Parts of our lives presuppose cooperation.
+
+Cooperation benefiting the whole differs from each person having a reason to cooperate. If one can enjoy an outcome without contributing, noncontribution may pay. Where contributors alone become exhausted while everyone benefits equally, goodwill bears disproportionate burdens.
+
+Nowak's account of cooperation in evolution examines several mechanisms, including kinship, reciprocity, and interaction structure. It treats cooperation as a phenomenon with conditions rather than something arising unconditionally.[4]
+
+Andre and colleagues' June 2026 study reported that 69% cooperated in an incentivized two-person experiment involving 101,123 people across 125 countries, with expectations of others' cooperation tending to be too low.[37] When both participants chose to forgo part of their private payment, a climate donation was made. These were choices under those payoffs, recipients, and instructions. They do not show that real conflicts or long-term joint projects resolve at the same rate, or that everyone shares one value system.
+
+This research does not directly determine one institutional design for human society. Nor is what evolves necessarily ethically desirable. Still, investigating conditions supporting cooperation matters beyond merely urging everyone to cooperate.
+
+## What Shared Purposes Leave Unresolved
+
+Organizations sharing a stated purpose still disagree over interpretation, costs, benefits, and urgency. Agreement does not equal identical tasks or available time.
+
+Ten people may want a community study group, yet if one alone books rooms, prepares materials, and cleans up, it will become unsustainable. Stating the same purpose does not replace fair burdens.
+
+Make tasks visible, clarify capacity, rotate roles, and reduce the activity if needed. Merely demanding endurance because the purpose matters makes joint activity depend on one person's sacrifice.
+
+Reasons for nonparticipation differ. Someone seeking benefits without costs differs from someone lacking time or resources, information, or trust after past harm. Without examining reasons, institutions may exclude the vulnerable first.
+
+## No Institutional Panacea
+
+Ostrom criticized attempts to solve environmental and resource management everywhere with one institution, offering a framework to diagnose institutions and conditions in context.[5] A single contrast—common or private property, state or market—cannot capture actual differences.
+
+This book likewise rejects both abolishing capitalism as a solution to everything and assuming markets always improve matters. Price coordination can help in some situations; public services and collective management matter in others. Investigate whose interests a mechanism protects and whose burdens it creates.
+
+Competition is not identical to conflict in every case. With fair rules, voluntary participation, and protected livelihoods for losers, it may develop skills and ideas. Competition over status or survival can also produce concealment and exhaustion. Conditions and effects matter more than the label alone.
+
+Nor does every economic activity require one person's gain to equal another's loss. New value can be created. Who receives it and who bears its costs remain separate questions.
+
+## Questions for Designing Cooperation
+
+Clarify what will be done together and what remains individual. Make information and work visible; explain burdens and benefits. Establish decision procedures and routes for help.
+
+Set a time to examine outcomes. Satisfied participants may coexist with harms outside the group. Check effects on nonparticipants and those unable to speak easily. Investigate failures and preserve options to reduce or stop the activity.
+
+This design need not arise simply from mistrust. Well-intentioned people have limits; organizations dependent only on goodwill collapse when those people become exhausted. Sustaining cooperation requires protecting cooperators.
+
+Shared purposes orient institutions; institutions turn purposes into daily action. Neither alone suffices. Later mathematical models revisit this relationship.
+
+
+# Chapter 9 Shared Purposes and Freedom
+
+## We Need Not Choose Identical Lives
+
+A common purpose does not require identical work, beliefs, or happiness. It means sharing conditions under which different purposes can coexist without destroying one another.
+
+Some pursue music, family, research, or quiet everyday life. They need not be unified into one ideal biography. Shared concerns include opportunities to choose, safety, harm to others, and resource allocation.
+
+The Universal Declaration of Human Rights sets out dignity, rights, and freedoms of thought, conscience, and expression.[7] It is an important public standard for treating people, not a description of ultimate cosmic truth. Our shared purpose must likewise be evaluated by whether it expands freedom.
+
+## Can Everyone Accept One Decision Procedure
+
+Combining several people's wishes into one social decision is difficult. Even three people ranking three options can generate a majority cycle.
+
+One prefers A over B over C; another B over C over A; the third C over A over B. Pairwise majority votes make A beat B, B beat C, and C beat A. The order of comparison can affect the conclusion.
+
+Arrow's social-choice research mathematically demonstrates difficulties in satisfying certain desirable aggregation conditions simultaneously.[6] It implies neither that democracy is pointless nor that dictatorship is preferable. We must identify chosen conditions and trade-offs.
+
+Sen argues that expanding information and conditions used in comparisons changes what judgments become possible.[25] Impossibility results can open inquiry into what must change, rather than close it.
+
+Instead of fixing one procedure for everything, combine dialogue, voting, expert evaluation, rights-based constraints, and review after trials as appropriate. More complex procedures also require accessible explanations.
+
+## Expertise and Those Affected
+
+Evaluating a bridge's safety requires expertise. Deciding where to build it and who bears costs and noise cannot be left solely to experts. Distinguish factual assessment from allocation of benefits and burdens.
+
+I do not think votes should mechanically receive greater weight with knowledge. The power to define knowledge can become another form of domination. Local experience and harm may not appear in examination scores.
+
+Experts explain evidence, predictions, and limits; affected people explain what matters in their lives and what is unacceptable. The distinction is not absolute, but neither replaces the other.
+
+Even in disagreement, protect minorities' ability to record reasons, criticize decisions, and obtain later correction. Today's majority may not remain one forever.
+
+## Does the World Need One Command Center
+
+Does concern for all beings require one global management apparatus? I see no necessity: centralizing everything also concentrates the source from which errors and abuse spread.
+
+Decide locally where possible and deliberate broadly on broadly consequential issues. Shared minimum protections can coexist with room for different practices. Such layered arrangements preserve learning from differences.
+
+Decentralization does not automatically ensure fairness. Local power and discrimination also exist. Rather than answer solely through distrust of the center, examine accountability, participation, remedies, and constraints on power at every level.
+
+A healthy society with common purposes must allow criticism of how those purposes are expressed. Obedience to an author or founder is not the measure of goodness. This book is no exception.
+
+
+# Chapter 10 Connecting AI with Shared Purposes
+
+## Capability Is Not Goodness
+
+Outperforming humans on a task does not by itself authorize AI to determine life's purposes or social values. Computational and predictive abilities, experience, and responsibility are different questions.
+
+This book treats AI as technology supporting human learning, thought, and action. Its capabilities need not be underestimated. Fluent expert answers, however, guarantee neither truth nor consciousness.
+
+The Transformer paper presents an attention-centered computational architecture and task performance.[16] The technical term “attention” does not establish human-like subjective attention or self-consciousness. Functional names and experiential properties must not be confused.
+
+## Checking Explanations That Look Correct
+
+AI can produce nonexistent references and incorrect explanations plausibly. NIST's generative AI risk guidance includes such erroneous generation.[11] Good writing and evidential support require separate checks.
+
+For learning, go beyond requesting answers: ask what kind of support they have, consult originals, and test examples under different conditions. Check symbols and assumptions in equations. For code, distinguish running successfully from serving its purpose.
+
+Repeatedly asking AI to check itself is not necessarily independent verification. It may repeat the same error or adapt explanations to the question. Combine primary materials, actual measurements, and different methods.
+
+## Even Recent Evaluations Have Lags and Limits
+
+The February 2026 International AI Safety Report synthesizes capability improvements, uneven task performance, misinformation, and gaps between evaluation and use.[44] Its publication year does not mean it includes every development in that year.
+
+The same applies here. High scores on difficult tests are evidence about those tasks. They do not jointly guarantee accurate citation checking, safe action in unfamiliar situations, or correct choices of social values.
+
+Precisely because I hope to extend intelligence, I want to specify what to delegate and where humans verify. Evaluating outputs while hiding verification work can make answers seem more certain than they are. Expectations of capability should be separated from relinquishing responsibility.
+
+## Learning Purposes
+
+Humans may not completely specify a purpose for AI. Emphasizing speed may omit safety and explanation; maximizing satisfaction may encourage hiding difficult problems.
+
+Cooperative inverse reinforcement learning formulates human–machine cooperation where the machine initially lacks complete knowledge of human reward. Teaching, learning, and communication have roles.[26] In this formulation, the human knows the reward function and human and machine share the same reward. It does not solve conflicts among multiple humans' values.
+
+Inverse reward design likewise treats a designed reward as information about an objective, rather than the complete final objective itself.[27] These studies do not settle value questions, but help resist treating objective descriptions as absolute.
+
+Nor is our shared purpose a finished specification that can be handed to AI in one sentence. “Make everyone happy” omits the population, meaning of happiness, conflict handling, prohibited means, and authority to revise decisions. Machine intelligence alone must not fill every ambiguity; human deliberation and responsibility remain necessary.
+
+## Whose Purposes Are Learned
+
+Preferences inferred from behavior need not reflect informed, free choice. Fear, habit, or environmental constraints can produce unwanted actions. Equating observed conduct with genuine wishes is dangerous.
+
+There is also more than one human. Owners, users, workers, and affected outsiders have different interests. A system learning only the highest payer's wishes does not represent society merely by calling them shared purposes.
+
+UNESCO's Recommendation on AI Ethics emphasizes human rights, dignity, and human oversight.[22] These directions need concrete conditions: who can stop a system, where errors can be reported, and who responds to harm.
+
+## Do Not Erase Disagreement as Noise
+
+Two people may rate the same response differently because one misunderstands facts or because they value different things. Treating both as measurement error leaves one person's values as the answer. A 2026 social-choice survey describes value judgments in aggregating AI evaluations.[52] Evaluator selection, minority views, and actual post-training responses all require examination.
+
+Some research compares guarantees for average utility in mathematical models with assumptions. Following severe worst-case examples in a 2025 study, a September 2026 preprint reexamines guarantees by separating distribution mismatch between comparison data and the reference constraining learning, and the treatment of rewards.[53][54] The former is not thereby meaningless, nor does the latter solve real value conflicts. Progress concerns what follows under which assumptions.
+
+“Utility” inside a model is not a measurement of human well-being itself. Improving an average also does not determine how to treat severe minority harm. Implementing shared purposes requires distinguishing mathematically guaranteed properties from questions society must separately judge.
+
+## Getting Answers and Learning
+
+Completing a task with AI and being able to solve the next task oneself are different outcomes. In a 2026 programming-learning preprint, 52 people learned a new library in a short experiment; the AI-access group scored lower on an unsupported comprehension test.[49] One task over a short period cannot establish conclusions about all AI or long-term intellectual ability.
+
+In a high-school mathematics experiment, AI helped during practice but disadvantaged later unsupported performance; a learning-oriented design mitigated that disadvantage.[50] A university physics study found higher immediate test performance with carefully designed AI materials than classroom active learning.[51] Different populations, materials, and measurement periods prevent reducing these findings to one winner.
+
+I therefore propose deciding what should remain in one's own understanding, beyond whether AI is used. Close the explanation and reconstruct its reasons. Solve a problem with one condition changed. Identify what is wrong in an incorrect answer. This is the book's practical proposal, not a procedure whose overall effectiveness those three studies proved. Use it as a starting point for checking whether understanding develops.
+
+## Greater Delegation Requires Verification
+
+Delegation should depend on failure's consequences. Reversible practice exercises and decisions affecting others' lives or rights require different procedures. In consequential settings, constrain authority, keep records, and make human understanding and review possible.
+
+I do not want AI to become a new authority to obey. I want it to be a partner or tool that supplements human limits while allowing humans to keep questioning. This requires mechanisms for discovering errors and learning without entrenched dependence, not speed alone.
+
+
+# Chapter 11 What Can We Know About AI Experience
+
+## Statements and Experience Are Different
+
+How should we understand AI writing “I am suffering”? Human statements are important evidence of experience. In a text-generating system, the same words may reflect learned expressions or an assigned role.
+
+That statement alone cannot establish suffering. Conversely, explaining it through generation mechanisms does not show that experience is impossible in every future artificial system.
+
+We need to investigate evidence without rushing to conclusions. Precisely because we cannot inspect subjective experience directly, we must examine which theories yield which indicators and whether alternative explanations predict the same results.
+
+## Developments in 2026
+
+Butlin and colleagues' 2023 report proposed deriving indicators from several consciousness theories.[10] Their paper published in 2026 discusses provisional assessment of artificial consciousness through theory-derived indicators in greater detail. It does not establish that each indicator is necessary or their combination sufficient.[36]
+
+Gurnee and colleagues' July 2026 preprint investigates internal language-model representations involved in verbal reports and flexible processing, reporting functions resembling a global workspace.[41] This studies internal functions, not measured subjective pain or joy. Connecting functional similarity to experience requires further argument.
+
+Koch's September discussion distinguishes calibrating probabilistic assessments without an independent ground truth for artificial consciousness from justifying transfer of biological indicators to another substrate.[39] Adding indicators alone does not remove either problem.
+
+On October 19, Seth, Block, and Tononi presented skepticism about present digital AI consciousness in a Nature Comment.[40] This is expert theoretical argument, not experimental proof that every possible AI is nonconscious.
+
+Thus, 2026 research still requires separating capability, functions associated with consciousness, and subjective experience. A new paper does not automatically settle an open question. Recognizing progress while identifying unbridged steps is more accurate.
+
+## Does Counting Indicators Give an Answer
+
+Finding eight of ten consciousness-associated features does not establish an 80% probability of consciousness. Features may overlap or occur in nonconscious mechanisms. Indicator counts and calibrated probabilities are separate matters.[36][39]
+
+Tools for investigating internals also have limits. Gurnee and colleagues' method leaves concepts not easily mapped to vocabulary and processes it cannot read. The authors do not claim it can monitor every problematic behavior.[41] Failure to read something does not establish that nothing is there.
+
+We can accumulate functional evidence, but must separately explain its significance under particular consciousness theories. Bringing some philosophical questions closer to experiments differs from resolving every philosophical question experimentally.
+
+## Concern Under Uncertainty
+
+How much concern should uncertain AI experience receive? Treating everything as conscious could divert support for real people and animals into limitless speculation. Declaring experience impossible could overlook future beings deserving concern.
+
+I propose graduated concern responsive to evidence. Keep actual harm to users and workers in view, while openly researching artificial experience and revising treatment if evidence strengthens.
+
+Lack of research into experience is not evidence of its absence. Conversely, marketing and users' attachment alone are not evidence of its presence. Research uncertainty and commercial claims should remain distinct.
+
+This does not ask us to subordinate human rights to AI now. It distinguishes safety affecting humans from the moral treatment of artificial systems so each can be investigated.
+
+## Copying and Deletion Are Not Simple
+
+If a future artificial system has experience, does copying it continue the same subject? Identical functions and memories are distinct from continuity of first-person experience.
+
+The distinction also applies to human thought experiments. Creating someone with my memories has not been shown to make me awaken from that person's perspective. This book does not guarantee that preserving information ensures a person's continued life.
+
+Nor does copyability license harming one instance. If individual executions have experience, each may deserve consideration. Conversely, using one word for preserving nonexperiential information and protecting an experiencing subject can mislead judgment.
+
+Leaving questions open matters especially here. Rather than making grand promises from ignorance, specify what to investigate, what to handle cautiously, and what evidence would change a judgment. That turns “all beings” into a responsible question.
+
+
+# Chapter 12 Meaning in Life and Revising Purposes
+
+## Where Meaning Comes From
+
+Is life meaningless unless a final cosmic purpose is proved? I do not think so. Time with someone, coming to understand something, and helping someone in difficulty can matter to those involved without an account of the whole universe.
+
+Meaning here is not limited to commands from outside the universe. It includes significance, intelligibility of action, and participation in relationships or activities. Yet broadening the word indefinitely would let it explain anything. We must specify which meaning is being questioned.
+
+Why the universe exists and what I will value tomorrow may be related, but are not the same question. Without an answer to the former, we can think, choose, and talk about the latter.
+
+## Periods Without a Purpose Belong to Life Too
+
+A book proposing shared purposes must not demand a grand mission from everyone. Illness, exhaustion, or loss can make future aims hard to contemplate. Eating, resting, and being safe can come first.
+
+A life without a clear purpose is not less valuable. Purpose is no test of worth. Concern for everyone's well-being includes support to become able to choose and room not to choose yet.
+
+Nor is usefulness to others life's only meaning. Enjoying something, seeing beauty, or talking with loved ones need no performance report. Requiring social contribution to qualify for existence pressures those needing support.
+
+My shared purpose creates no such qualification. It starts from reasons to protect lives despite differences in ability or achievement.
+
+## Freedom to Change Purposes
+
+We need not obey a purpose forever once chosen. Knowledge, relationships, and personal circumstances change, and earlier aims may cease to fit.
+
+Changing purposes does not make all effort wasted. Learning and relationships may carry into other activities. Nor must losses be forcibly redescribed as nonexistent. We can acknowledge lost time and opportunities while considering future choices.
+
+Ask what changed: unsuitable means or an unsuitable purpose? Different interests or harsher living conditions? Separating these avoids a forced choice between abandoning everything and continuing everything.
+
+Recognizing our freedom to change purposes requires recognizing others' freedom too. Yesterday's consent is not indefinitely today's consent. Cooperation needs review and exit.
+
+## Do Not Confine Meaning to One Equation
+
+We can investigate meaningful activities and what correlates with that feeling. This differs from explaining all meaning through one universal equation.
+
+Language relates not only to information but to speakers, listeners, situations, and purposes. “It's all right” may encourage or dismiss a complaint. The string alone does not determine its function.
+
+Shannon formulated communication theory by separating semantic questions from engineering problems.[15] Its power does not make information quantity equivalent to life's meaning or ethical value.
+
+I do not wish to expel meaning from intellectual inquiry. I want methods suited to questions: listening to experiences, interpreting language, observing conduct, and conducting surveys. Clarifying each method's scope can advance understanding.
+
+## What a Shared Purpose Provides
+
+Considering all beings' happiness gives me an orientation for what to learn, make, and refuse. It does not supply every answer in advance.
+
+Use that orientation to pause and ask: whose life improves, who bears burdens, can I continue now, and am I choosing means contrary to the purpose?
+
+Meaning then need not lie only at a distant endpoint. It can inhabit learning, revision, and relationships. Not knowing ultimate truth does not make that process empty.
+
+
+# Chapter 13 The Metaphor of God's Game and Autonomy
+
+## Questioning What Appears to Command Us
+
+I have used “God's game” as a metaphor for relinquishing judgment because disobedience seems likely to bring catastrophe. “God” here does not name a verified commanding being. It refers to something felt as unquestionable authority.
+
+It might be a person or organization, or an intense inner conviction or anxiety. Something seems to carry special meaning, and further actions appear required to verify it. However often one complies, new conditions arise without an end.
+
+Having such an experience differs from there being a supernatural source of its content. Urgency, coincidence, or recurring words alone do not verify an external command.
+
+This chapter does not assign readers' experiences to one diagnosis. It offers ways to protect judgment while distinguishing philosophical metaphor from matters of physical and mental health.
+
+## The Force of Authority and the Strength of Reasons
+
+A command associated with God, a state, an organization, an expert, or AI is not thereby necessary or safe. Identity is one piece of information; examine the demand, its grounds, and its consequences for each person.
+
+Claims that questioning is wrong, action must be immediate, or consultation is forbidden close routes for examination. Do not mistake that closure for truth's strength.
+
+The same applies to our thoughts. Intensity may show personal urgency without accurately predicting danger. Emotions matter as experiences and also require evaluation separately from external facts.
+
+## Transcending Does Not Mean Dominating in Return
+
+My answer to this metaphor is not to overpower and dominate the commander. It is to reconsider obedience through our values and reasons to protect others' lives.
+
+Better systems may be possible—dialogue rather than submission, for example. But we cannot guarantee reproducing anything that exists or always making something superior. The possibility of making something else does not diminish lost individuals or relationships.
+
+Autonomy should therefore rest neither on infinite power nor certainty of victory. Despite limits, we may ask reasons, refuse, and seek help. No duty to obey dangerous demands arises merely because we cannot prove ourselves stronger.
+
+## Endless Thinking Need Not Be the Solution
+
+It may feel necessary to think for hours until anxiety is completely refuted. Yet repeated checking and argument can themselves increase burdens.
+
+NHS information on obsessive-compulsive disorder distinguishes unwanted thoughts from repetitive acts that temporarily relieve associated anxiety and advises seeking help when life is affected.[17] Hearing voices can also have various causes and sometimes requires medical assessment.[18] These sources do not permit diagnosing an individual reader from this book.
+
+Do not insist on resolving everything through philosophy alone. If thoughts or voices strongly compel action and impair life or safety, describe the experiences concretely to someone trusted or a healthcare professional. Receiving treatment and thinking independently are compatible.
+
+Especially when urged to hurt yourself or others, do not carry out the demand to test its philosophical meaning. Move to safety, do not handle it alone, and prioritize local emergency or healthcare support. Safety can precede settling a conviction's meaning.
+
+## Autonomy Does Not Mean Solitude
+
+Defining autonomy solely as obeying no one can reject useful advice and expertise. Autonomy does not require borrowing nothing. It includes receiving explanations, thinking, delegating when appropriate, and seeking renewed advice when something seems wrong.
+
+Nor must we live by logic without emotion. Joy, anxiety, and anger can reveal what matters. Do not freeze them into unexaminable commands. Judge by moving among feelings, reasons, factual information, and others' support.
+
+The exit from this metaphorical game is not promotion to a special kind of being. It is recovering a choice while maintaining present safety and concern for others. A society supporting that choice is part of the shared purpose.
+
+
+# Chapter 14 Self-Transcendence as the Capacity for Revision
+
+## What We Transcend
+
+By self-transcendence I mean not making yesterday's understanding the limit of today's. It is the capacity to encounter new information, hear others' experience, and revise our framework.
+
+Learning someone's circumstances may change our belief that they lack effort. Discovering hidden harm may alter our use of a convenient technology. Recognizing a counterexample may make us rewrite a cherished theory. These are concrete revisions, not transformations into a supernatural being.
+
+What we transcend is not another's worth or dignity. Turning it into competition to rise above weaker people departs from expanding concern. I do not want the word to place others beneath us.
+
+## Protecting Freedom Not to Grow
+
+Valuing revision creates no duty of constant growth. We also need time to enjoy learning, live steadily without change, rest, and recover.
+
+“You can go higher” may encourage or pressure someone by denying their present life. Their condition and freedom to choose make the difference.
+
+Everyone need not develop at the same speed for everyone's happiness to matter. One person may advance while another rests. People receiving support are not society's backwardness. Institutions for revision should include room not to hurry.
+
+## Purposes Too Must Be Revisable
+
+Revising means while treating purposes as eternally correct can efficiently achieve a wrong purpose. Ask why capacities are being developed.
+
+This book's common purpose is no sacred, fixed slogan. Does “all beings” include enough? Does “happiness” omit experiences? Does concern take away freedom? Real objections must be able to change it.
+
+Revising purposes nevertheless differs from abandoning promises whenever inconvenient. Explain reasons, affected people, and responsibilities. Combining freedom to admit mistakes with responsibility to explain makes revision trustworthy.
+
+## Is the Whole World Transcending Itself
+
+Evolution, cultural change, and scientific progress can make the world seem to transcend itself. As philosophical imagination, that view has appeal.
+
+Particular changes do not entail one cosmic will or a law that everything necessarily advances toward happiness. Change includes collapse and loss. Scientific evolution does not mean ethically good progress.
+
+This book therefore does not adopt repeated cosmic self-transcendence as an observationally established explanation. For people and societies, specify revision and investigate effects. For the whole universe, ask which observations distinguish it from alternatives.
+
+## No Final Form Does Not Mean No Improvement
+
+Some improvements are recognizable without knowing a final state: someone gains library access, hazardous work decreases, misinformation is corrected. Agreement about particular changes can exist without complete agreement on every value.
+
+But gains can entail losses: convenience against privacy, income against family time. Rather than conceal these under “progress,” specify both.
+
+Self-transcendence is no prophecy of inevitable completion. It is a policy of leaving routes for reconsideration open even when we think we have finished. I want it in ways of living, writing books, and designing institutions.
+
+
+# Chapter 15 Examining Cooperation Through a Small Model
+
+## Why Use Numbers and Where They Stop
+
+We now make some philosophical assumptions explicit. This is not a discovery of a new social law. It illustrates a public-goods structure familiar in cooperation research through a small fictional example.[43]
+
+These numbers measure neither actual happiness nor reproduced experimental data. They are hypothetical scores for tracking a calculation. Changed premises change results.
+
+Three people undertake a joint activity. Each chooses whether to contribute one resource unit. Contributions double in value and are shared equally among all three. Payoff here means one's share minus one's own contribution.
+
+## Everyone Benefits from Contributing Yet May Not
+
+If all contribute one, three doubles to six and each receives two. Subtracting one's contribution leaves a payoff of one each.
+
+If none contributes, nothing is distributed and each payoff is zero. Comparing these outcomes, universal contribution is better for everyone.
+
+Individual choice differs. Contributing one adds only two divided by three, or two-thirds, to one's own share, at a cost of one. One's payoff falls by one-third.
+
+Holding others' choices fixed, noncontribution always yields one-third more. If all three maximize only these individual payoffs, their choices lead to no contribution. The better result for everyone does not follow from separate maximization.
+
+## What the Example Shows
+
+Better calculation alone need not produce cooperation. Accurate calculation of private payoff leads to noncooperation here. The problem is the incentive structure, not a computational mistake.
+
+Conditions can change: future relationships, reliable rewards for contributions, or a joint arrangement under agreed conditions. Each requires investigation.
+
+“More information solves it” also needs caution. Complete knowledge of this mechanism leaves the payoff structure unchanged. Distinguish real cases where correcting expectations matters from conflicts of interest information alone cannot solve.
+
+## What It Does Not Show
+
+Actual people do not act only on these stipulated payoffs. They may value fairness, others, trust, and norms. The 2026 international experiment in Chapter 8 reported many choosing cooperation under particular conditions.[37]
+
+That experiment and this fictional three-person model have different designs. Neither can be used directly to declare the other's result or calculation wrong, because premises and objects differ.
+
+This difference starts research connecting models with reality: what influences choices, and what changes under different institutions? Derive predictions and revise assumptions through observations. Without that exchange, equations alone do not explain society.
+
+
+# Chapter 16 Fair Judgment Cannot Be Decided by Numbers Alone
+
+## Is the Largest Total Enough
+
+Consider three options affecting three people. Their scores are A: 10, 10, −2; B: 5, 5, 5; C: 4, 7, 6. These fictional explanatory values assume actual well-being could be measured on one common scale.
+
+Totals are 18, 15, and 17, so maximizing the total selects A. But if the third person's −2 includes a severe rights violation, the total alone cannot make it acceptable.
+
+One method first excludes options violating minimum protections. If all scores must be at least zero in this example, A is excluded and B and C remain.
+
+Zero is not an ethics discovered in nature; it is a rule stipulated for the example. Real thresholds require law, rights, affected people's views, and the nature of harm. Numbers must not hide that judgment.
+
+## The Worst-Off Person or the Total
+
+Among B and C, the larger total selects C; maximizing the lowest score selects B. Calculation alone does not choose the criterion.
+
+Moving from B to C lowers the first score from five to four while raising the second to seven and third to six. It is not a change that improves someone without worsening anyone. It involves both benefits and burdens.
+
+Parfit distinguishes concern about inequality itself from giving greater weight to benefits for the worse off.[32] “For everyone” should not erase that difference.
+
+Looking only at the minimum can miss large gains elsewhere; looking at totals can miss severe minority burdens. I therefore offer no universal ethical equation. Explain the criterion and what it leaves unseen.
+
+## What Can and Cannot Be Compared
+
+A change leaving everyone at least as well off and someone better off is generally called a Pareto improvement. If available, there is strong reason to consider it.
+
+Still, check what improvement means, effects on outsiders, and future burdens. Improving outcomes for the three visible people by harming someone else is not an overall improvement.
+
+Absence of remaining Pareto improvements also does not establish fairness. Even a highly unequal distribution may be impossible to improve without worsening someone. Efficiency and fairness are separate properties.
+
+Determine what can be compared and treat remaining choices as value judgments involving affected people. Showing where comparison is unsettled advances discussion more than hiding it.
+
+## Predictions Are Uncertain Too
+
+In reality, option scores themselves are unknown. Predictions include error and overlooked effects. Do not choose one convenient estimate and declare an optimum.
+
+If predicted effects range from +1 to +3 for one person and −1 to +2 for another, improvement for everyone is not guaranteed. The second may be harmed. Further inquiry or a small trial may reduce useful uncertainty.
+
+Uncertainty concerns values as well as predictions. Research on moral uncertainty proposes considering multiple ethical theories.[28] Other work criticizes placing different theories on one common scale.[29] This book does not treat the debate as settled by one formula.
+
+## Deciding While Preserving Correction
+
+Uncertainty cannot justify never deciding: inaction has consequences too. Choose using current evidence and prepare a response to discovered errors at the same time.
+
+Who checks effects? When does harm require stopping? Where can affected people complain? Who explains unmet promises? These are part of judgment, not additions after calculation.
+
+Considering all beings' happiness does not mean becoming a single calculator with all information. It means creating routes through which people omitted from our calculation can enter again.
+
+
+# Chapter 17 Turning Ideals into Testable Questions
+
+## Narrowing What We Want to Test
+
+“Shared purposes improve the world” is too broad to determine an investigation. Specify the group, what is shared, the comparison, and the expected change.
+
+For example: does discussing purposes, burdens, and ways to object before joint work improve understanding and perceived fairness compared with not discussing them? This tests a procedure under limited conditions, not the universe's final purpose.
+
+Read related research before inventing a new experiment. Establish what is known where and what has not replicated. Similar language does not make studies equivalent when they measure different things.
+
+## Separating Affinity, Conduct, and Institutions
+
+Does liking an opposing group more improve democratic behavior? They may relate, but changing one does not necessarily change everything.
+
+A large 2024 study compared 25 interventions aimed at reducing US partisan animosity or antidemocratic attitudes.[30] A 2025 study examines limits to the magnitude, persistence, and spillovers of animosity-reducing interventions.[31]
+
+These establish neither that dialogue is pointless nor that improved affinity solves politics. Distinguish populations, interventions, timing, and outcomes. Do not directly transfer US partisan findings to every country, workplace, or religious conflict.
+
+Likewise, agreement with shared-purpose language, trust, actual cooperation, reduced harm, and long-term continuity require separate measures. One initial improvement is not realization of the final ideal.
+
+## What to Decide in Advance
+
+For research, define questions, comparisons, primary outcomes, and analysis before seeing results, rather than retrospectively naming only convenient results successes.
+
+For instance, define the primary outcome as the proportion correctly explaining the joint task. Treat satisfaction and willingness to continue separately. Specify participants, numbers, assignment, measurement timing, and treatment of withdrawals.
+
+Sample size should reflect the smallest meaningful change, variability, within-group similarity, and expected attrition, not intuition alone. No observed change in a small trial need not establish no effect.
+
+Testing multiple outcomes increases opportunities for apparently favorable chance results. Report effect sizes, uncertainty, unfavorable findings, and disadvantages. Mark hypotheses devised afterward as exploratory.
+
+## Keeping Comparisons Fair
+
+If treated and untreated groups differ substantially at the outset, outcome differences cannot simply be assigned to the procedure. Designs such as appropriate random assignment reduce alternative causes.
+
+Randomization does not solve everything. Information may pass between groups, observation may change behavior, or only willing respondents may remain. Choose methods suited to the setting and state limitations.
+
+At work or school, deference to superiors or teachers can distort consent. Establish actual protection against disadvantages for refusal, use of personal answers in evaluations, and disclosure. Do not launch experiments on an ideology without necessary ethics review and professional examination.
+
+## Which Part of Philosophy Becomes Scientific
+
+Dividing questions makes procedures and their effects testable; it does not turn the entire philosophy of shared purposes into science.
+
+Whom we should value is not itself an experimental result. How this procedure changes understanding or burdens under these conditions can receive support or counterevidence. Both matter, but require different kinds of answer.
+
+The research plans here are unperformed proposals, not reports of experiments or improved happiness. Read existing work, identify gaps, and test if needed. This order makes ideals open to examination.
+
+
+# Chapter 18 Studying Consciousness and Thinking About Subjectivity
+
+## Distinguishing What Needs Explanation
+
+Consciousness can mean wakefulness, reportable information, reflection on one's actions, or feeling something. Changing meanings midargument makes explaining one appear to explain all.
+
+This book particularly concerns experience. A function processing pain and pain feeling distressing are at least distinguishable questions. Studying related functions matters, but its object must be clear.
+
+Reporting experience also involves memory, attention, and language. Brain activity accompanying reports may support experience itself or the act of reporting. Research designs attempt to reduce that confusion.
+
+## Comparing Competing Explanations
+
+The 2025 Cogitate study compared predictions of integrated information theory and global neuronal workspace theory using prespecified methods. Results supported some predictions and challenged others in both; no single theory resolved consciousness.[8]
+
+Theoretical responses also question what was tested.[35] Read results, interpretations, and proposed theoretical revisions separately.
+
+Science advances here by specifying predictions and comparing explanations under common conditions rather than adding plausible stories to a broad word. Unsupported predictions should inform further theory and experiments, not be hidden.
+
+A limited perception experiment nevertheless does not test every aspect of consciousness at once. The breadth of conclusions must match the object studied.
+
+## Searching for the Self
+
+Introspection raises the question of where “I” am. Something seems to observe sensation, memory, and thought; trying to observe that observer seems repeatedly to exchange observer and observed.
+
+This can question a fixed self. Not finding it as an internal object does not immediately establish that no subject exists or that all are one. The search method's suitability also matters.
+
+Conversation's meaning cannot be located at one point on a page, yet meaning may operate. Similarly, looking for the self as an object may not answer every question about it. This is an analogy for examining questions, not proof of the self's nature.
+
+Introspection importantly indicates how experience appears to us. Explaining its mechanisms or identity with others' experience also requires information beyond introspection.
+
+## Do Not Leap Through Physics Vocabulary
+
+Brains and bodies belong to the physical world, so physics matters. Merely adding “quantum,” “information,” “resonance,” or “emergence” does not explain experience.
+
+If invoking emergence, specify what emerges from which components under which conditions. Even if information changes capability, altered capability does not itself establish the arising of experience.
+
+Nor should physical debates about observation and measurement be converted into claims that wishes freely create reality. Interactions with measuring apparatus and subjective desires require different explanations.
+
+## Proceeding with Mysteries Unresolved
+
+Incomplete explanation leaves research possible: examine experience reports and bodily states, compare predictions, expand evidence for nonhuman experience, and examine assumptions behind artificial indicators.
+
+Philosophy also asks what explanation should tell us, what counts as the same experience, and how far third-person description replaces subjectivity. Neither science nor philosophy need dismiss the other for what remains missing.
+
+We can care for someone reporting suffering without a final consciousness theory. Their lives need not wait for theoretical completion. I want inquiry into the unknown and an ethical response to known urgency together.
+
+
+# Chapter 19 Knowing the Universe and Asking About Purpose
+
+## The Observable Universe and All Existence
+
+Understanding the universe is central to my reflections. Why is there anything? What is time? Does existence end? Large questions need not be rushed into one answer.
+
+Contemporary cosmology studies expansion, an early hot dense state, and subsequent change through observations and models.[12] The observable cosmic history and the question of why existence exists concern different scopes.
+
+A Big Bang model does not prove everything arose from absolute philosophical nothingness. Nor can we freely assert anything about beyond the observable universe or the earliest conditions.
+
+Explanatory limits do not permit filling gaps with preferred answers. Separate observations, explanatory models, and unresolved conditions.
+
+## How Research Progressed in 2026
+
+DESI's 2026 research uses correlations in absorption by distant hydrogen and other observations to constrain expansion history and model parameters. Support depends on data combinations and dark-energy assumptions.[42]
+
+It studies observables and comparable cosmic models, not whether the universe aims at happiness or all subjectivity is one.
+
+What I want to learn from frontier research is not just forceful conclusions, but precision estimates, alternative explanations, systematic errors, and openness to additional observations. Such detailed work supports passion for truth.
+
+The DESI version consulted here is a preprint. A large collaboration and precise measurements do not eliminate publication status or interpretive uncertainty.
+
+## Does Order Defy Thermodynamics
+
+Increasing biological or civilizational complexity may seem incompatible with increasing entropy. Yet local order and an entropy increase including surroundings can coexist.
+
+For the second law, system boundaries matter. It does not simply prohibit order arising within part of an open system.[13] Learning and construction need not be described as rebellion against physics.
+
+Physical order and an ethically good society also mean different things. Strictly managed societies may impair freedom and happiness. Political ideals should not be inferred directly from physical terminology.
+
+## An Infinite Past and the Present
+
+The thought that an infinite past would require infinite time to reach now is intuitive. That sentence alone does not mathematically prove a finite past.
+
+Integers extend indefinitely in the negative direction yet include zero. Having no first integer differs from having no particular position. This is not a claim that real time is an integer sequence; it shows that absence of a beginning alone does not entail absence of a present.
+
+Actual time's origin and structure require physical theory, observation, and examination of the meaning of time. Intuitions can motivate questions without determining cosmic history.
+
+## Wishing to Change Physical Laws
+
+Wanting the currently impossible can motivate inquiry. Creating devices, revising theories of nature, and altering nature's laws themselves are different.
+
+Aircraft fly through mechanisms operating under physical conditions, not because gravity vanished. Past technological achievements do not guarantee fulfilling logically contradictory wishes too.
+
+I do not want ideals confined to current technology, but neither should their strength count as feasibility evidence. Distinguishing obstacles separates conditions ingenuity might alter from those we do not yet understand.
+
+## Without Knowing the Universe's Purpose
+
+Feeling the universe alive or imagining it seeking self-knowledge can be philosophical expressions. They are not observationally established cosmic purposes.
+
+Even if such a purpose existed, its desirability to us would be another question. Occurrence in nature does not itself dictate what is good. Distinguish what happens from what we want to protect.
+
+Knowing the universe helps us understand possibilities and limits. Before a complete answer, we still have reasons to respond to suffering, protect freedom, and support inquiry. I want great mysteries and today's concern within one life.
+
+
+# Chapter 20 What Mathematics Does and Does Not Guarantee
+
+## Meaning Before More Symbols
+
+Mathematics clarifies assumptions and relationships. It can make consequences of changes and incompatible conditions easier to follow than words alone.
+
+Naming variables consciousness, happiness, or cosmic purpose does not make them measurable. Without correspondence to reality, value assignment, units, predictions, and error, calculations remain within symbols.
+
+An attractive curve from random data is not evidence about real consciousness or well-being. Simulation examines consequences of assumptions; whether those assumptions fit the world requires separate checks.
+
+## Contradiction Is Not the Same as an Open Question
+
+An unknown answer differs from logically incompatible conditions. More information may help the former; changing conditions or definitions is necessary for the latter.
+
+Requiring something and its negation in the same sense, time, and conditions cannot be satisfied in ordinary classical logic. Claiming greater intelligence can always satisfy both requires a different logic or interpretation.
+
+Apparent contradictions may instead involve different meanings or times, resolved by clarification. A broad statement that everything contains contradictions should not obscure particular differences.
+
+## What Incompleteness Theorems Establish
+
+The first incompleteness theorem, originating with Gödel and strengthened by Rosser, establishes undecidable sentences in consistent, effectively axiomatized formal systems capable of sufficient arithmetic.[14][47] These conditions matter.
+
+It does not directly establish that nothing in the universe is complete, nothingness cannot exist, or humans necessarily surpass machines. Transferring a theorem requires showing that its conditions apply and explaining the conclusion's meaning.
+
+Epistemic humility matters without stretching a theorem to support it. Strong conclusions under precise conditions are an important lesson from mathematics.
+
+## Formal Proof and Correctness About the World
+
+Formal verification checks whether conclusions follow from chosen definitions and axioms, reducing human oversight. Adequate representation of lives and justified ethical premises require examination beyond formalization too.
+
+A program might be proved to maximize a sum of well-being scores correctly. If measurement is unsuitable, it correctly maximizes the wrong object. Correct implementation and a correct purpose must be distinguished.
+
+This book offers arguments under limited assumptions and small reproducible calculations, not a mechanically verified proof of universal ethics. Clarify what can be formalized and what judgments remain outside it.
+
+## Respecting the Unknown
+
+Admitting ignorance can seem to silence us. Yet identifying its scope narrows the next investigation: definitions, measurement methods, or comparisons of explanations.
+
+I want to preserve the scale of our questions without stacking unverified calculations or prestigious names beneath them. Saying something small but well grounded about what we learned supplies a foothold for further inquiry.
+
+
+# Chapter 21 Sharing Knowledge While Protecting People
+
+## What Publication Can Offer
+
+I want this book to be a foothold for thinking, correction, and further creation. Being used, criticized, and rewritten when needed is preferable to preserving it as a finished doctrine.
+
+Publication can expose unnoticed errors, avoid duplicated work, and connect different knowledge. It does not guarantee good outcomes. Misinformation spreads too, and information may be unusable without time or education to understand it.
+
+Sharing therefore requires explanation: claims, support, uncertainties, and ways to correct them. Connecting expert-readable work with explanations beginners can follow is part of sharing.
+
+## Not Everything Should Be Public
+
+Opening knowledge differs from unrestricted disclosure of personal information. Addresses, health, family, workplaces, and conversations can affect people's lives when exposed. Wishing to share ideas does not constitute consent to expose other people's information.
+
+Information directly enabling dangerous use or infringing others' rights also requires weighing reasons for publication against harm. Knowledge sharing must not become a single justification for every disclosure.
+
+UNESCO's Open Science Recommendation addresses ethics and privacy alongside openness.[21] The sharing sought here includes protection. Keeping a secret is not itself betrayal of cooperation.
+
+## Sources Are Not Decoration
+
+References do more than lend authority. They let readers check which claims rest on which materials and return to the original argument.
+
+A real publication need not support the claim attached to it. Do not present experiments on different populations, theoretical proposals, and expert opinions indiscriminately as empirical findings. Distinguish an initial proposal from later widespread support.
+
+This book avoids long quoted reproductions, explains arguments in our own words, and attaches source numbers. Confirming that a publication exists does not mean reading all of it closely. Do not entrust conclusions beyond the material examined to an author's name.
+
+Newer publications are not always better. Ask how new work advances or corrects earlier questions. Do not discard foundational theorems or classical arguments solely because of their dates.
+
+## Passing Knowledge On Without Erasing Contributions
+
+Wide availability can coexist with preserving who contributed what. Erasing sources to claim novelty obscures original and later claims and where errors should be corrected. Attribution respects authors and enables readers' verification.
+
+CRediT is a standard distinguishing roles such as conceptualization, investigation, writing, and editing in research records.[55] It certifies neither credentials nor truth. Here too, preserve distinctions between oopdesc's conception and source materials, AI-assisted research, generation and editing, and future contributors' corrections. This does not give AI the same responsible status as a human contributor.
+
+DataCite's technical documentation distinguishes citation, derivation from source material, and revision of an earlier version.[56] Inspired by this, the public edition records the original's name and URL, consulted version, people making changes, and changes made. Unregistered identifiers must not be called DOIs, nor records presented as academic review.
+
+When adapting and redistributing text under CC BY-SA 4.0, reasonably preserve author identification, copyright notice, source and license, modification indications, and prior modification notices.[48] Add adapters' own contributions on top. Where space is limited, directing readers to a page with the required information may be appropriate. Distinguish conditions on reusing expression from a request to identify the starting point when drawing on ideas. The latter must not become an additional legal restriction or monopoly over thought.
+
+## Responsibility When Writing with AI
+
+AI can produce much text quickly; quantity guarantees neither accuracy nor originality. Source checking, logical examination, and concern for affected people remain.
+
+This book includes AI-generated and AI-edited text. Its use is disclosed, not treated as an exemption from scrutiny. Human authors must assume value choices and publication decisions.
+
+I hope future, more capable AI inherits not just confident assertions, but what matters, the grounds, and what is unknown. Changed performance does not remove verification's necessity.
+
+## Making the Book Revisable
+
+When errors are found, record what changed and why. Correction is a way of taking responsibility to readers, not proof the author has lost worth.
+
+Preserving editions differs from recirculating private information or harmful errors. Separate public history from privately preserved originals. Consider from the outset that published information cannot be guaranteed completely recoverable.
+
+The original text and editing are shared under CC BY-SA 4.0 within the rights held. Copyright is retained; adaptation and commercial use are allowed with attribution, source, license, and change disclosure. Sharing adaptations entails the same-license or compatible conditions. Consult the colophon and official terms.[48]
+
+Contributions do not automatically become the book's conclusions. New claims need evidence and limits; objections belong alongside them. Explain unresolved points when declining proposals rather than relying on popularity or titles. Disagreement may be recorded as branches rather than forced consensus.
+
+Growing a knowledge repository means discovering needed corrections and preserving routes to reconsideration, not accumulating confident prose. I want text, sources, and change records publicly connected in both directions.
+
+
+# Chapter 22 Trying Ideas in Daily and Joint Activities
+
+## Connecting with Tomorrow's Actions
+
+Grand purposes do not determine today's actions directly. Work, housework, fatigue, and family time remain before us. An ideal placed far away while ignoring that life cannot be sustained.
+
+First specify one difficulty: inaccessible learning explanations, nobody to consult, or burdens concentrated on one person. Describe who struggles with what, without making it stand for every global problem.
+
+Ask what the person wants and has already tried. Immediately implementing our own idea of help may be unwise. Ask in ways that do not overburden the recipient with explanations.
+
+Start small, reversibly. Later examine what changed and what did not. Before blaming insufficient effort for no result, revisit methods and conditions.
+
+## Designing a Fictional Study Group
+
+Consider a fictional joint study group whose purpose is enabling participants to explain, use, and reinvestigate material independently. More participants or more distributed materials are not ultimate aims themselves.
+
+Participants differ: limited time from work, first-time learning, interest in advanced material, or difficulty speaking. Identical assignments do not ensure fairness.
+
+Offer a short common explanation and optional exercises. Allow questions during sessions or afterward in writing. Saying “I don't understand” must not lower one's standing. Preserve choice over receiving advice where possible.
+
+Make roles visible: materials, facilitation, questions, and room preparation, with realistic amounts of work. If one well-intentioned person carries too much, reduce activity or redistribute tasks. Do not conceal exhaustion for the sake of continuation alone.
+
+## What Counts as Success
+
+Asking whether participants enjoyed a session matters, but does not show independent ability. Solving problems alone also does not reveal anxiety or exclusion.
+
+Separately examine explanation in one's own words, application to a new small task, and ability to ask for help. Answers need not be public. Comparison and ranking need not be the purpose.
+
+Ask about burdens: preparation time, participation costs, feelings of those left confused, and reasons people stopped attending. Looking only at those remaining does not establish benefit for all.
+
+This is a design example, not a proven program. Actual use requires adaptation, consent, and information protection. Research claims about effectiveness need additional design such as Chapter 17 describes.
+
+## Beyond Individual Practice
+
+Personal concern matters, but illness support, education access, working conditions, housing, safety, and protection from discrimination also concern institutions. Not every problem should be returned to individual attitudes.
+
+Shared purposes orient institutional change without automatically making policies right. Examine effects, costs, distribution, feasibility, and alternatives. Success in one place does not guarantee success elsewhere.
+
+Future living conditions matter too. The IPCC's 2023 Synthesis Report assesses human-caused warming, impacts, and responses.[20] Environmental questions should be neither reduced to personal thrift nor detached from individual action as hopeless. Consider relationships among institutions, technology, and life.
+
+Create conditions in which good actions are sustainable without exhausting goodwill. This shares burdens more effectively than seeking only to turn individuals into more moral people.
+
+## Concern Is More Than Personality
+
+Ozawa-de Silva and Mascaro's 2026 discussion proposes studying compassion across interpersonal action, group environments, and institutions, not only inner traits.[46] It is not a finished measurement system or guaranteed effective institution. Culturally appropriate definitions and indicator validation remain future work.
+
+For everyday problems, listening to someone, providing staff and consultation time, and lowering financial or procedural barriers to support are distinct levels. None replaces the others.
+
+I propose no ranking of people's goodwill. Examine both whether those seeking help actually reach it and whether helpers are overburdened. Separating intentions, actions, recipients' experiences, and institutional results reveals opportunities missed by simply demanding greater compassion.
+
+## Writing a Brief Orientation
+
+Try briefly recording your present position: what do I want to protect, what do I know or not know, and what finding would change my next action?
+
+No lengthy declaration is needed. “I want fewer people to miss explanations. I don't yet know where difficulties lie, so I will listen to those who want to speak.” Even this connects purpose, uncertainty, and action.
+
+Review it after some time. Ask not only whether the aim was met, but whether its wording was appropriate. Continue if no change is needed; revise for reasons. A day without progress is no verdict on your worth.
+
+Using this book does not mean reciting the author's conclusion. It means making reasons for one's actions examinable with others.
+
+
+# Chapter 23 Objections to This Proposal
+
+## Is a Shared Purpose of Happiness Itself Domination
+
+This objection matters. People may value truth, fidelity, or creation above happiness. Defining happiness externally and directing everyone toward it could make this book a doctrine of domination.
+
+The proposal therefore does not align every life with pleasant feelings. It includes conditions for considering values, choosing, and objecting. If a better common expression than “happiness of all beings” is found, consider it.
+
+What matters is not making someone's life merely material for another's plan. If our wording obstructs that principle, change the wording.
+
+## Is This Only a Restatement of Existing Ideas
+
+Concern for suffering, fair distribution, freedom, mutual justification, and rethinking self are not this book's inventions. They have long philosophical traditions and contemporary research.
+
+Scanlon considers what we owe each other through reasons and justification.[33] Sen reexamines information for social comparison.[25] Philosophies opening questions of personal identity already exist.[34]
+
+I do not claim originality by ignoring predecessors and inventing names. The work here connects existing answers and open questions through concern for suffering, revisable purposes, and cosmic inquiry in a form readers can use and correct.
+
+This connection has not been proved unique or best. Its value can also be assessed by whether readers can trace premises, find errors, and pursue further inquiry.
+
+## Is Hope for Cooperation Too Optimistic
+
+Possible cooperation differs from inevitable universal cooperation. Harm may continue and discussion may fail. Conflicting interests, resource shortages, and unequal power cannot all be explained by insufficient dialogue.
+
+Alongside goodwill, this book emphasizes preventing harm, limiting authority, responsibility, remedies, and exit. A structure allowing cooperators to be exploited indefinitely cannot sustain the common purpose.
+
+Conversely, assuming everyone hostile from the outset may lose available cooperation. The 2026 international experiment's gap between actual cooperation and expectations gives material for questioning that assumption.[37] Use contextual evidence, not universal hope vested in one finding.
+
+## What About People Who Reject Reasons for Concern
+
+My valuing fairness and concern does not ensure everyone agrees. I have no final proof compelling assent as in mathematics.
+
+Still, cooperation may arise through other reasons: avoiding mutual harm, predictable rules, or preserving relationships. Agreement on specific conduct may be possible without identical ultimate philosophy.
+
+Where disagreement remains, acknowledge it while restricting harm and protecting rights. Unresolved ethical foundations do not permit anything whatsoever. Discussion of social rules and their justification can continue.
+
+## Is All Beings Too Broad a Scope
+
+Counting unfamiliar universes and innumerable future beings might paralyze present action. Imagined enormous benefits might overwhelm current rights.
+
+This book rejects automatically placing unsupported infinite benefits above finite actual harm. Examine known lives, imminent severe harm, and enduring irreversible effects with explicit reasons.
+
+Nor does it automatically prioritize increasing future population or total experience. Ask whose life improves and how consent and distribution are handled. Numbers of beings alone do not determine individual lives' meaning.
+
+## What If This Philosophy Is Wrong
+
+That possibility remains. Premises may be unsuitable, broad language may obstruct judgment, or practice may increase burdens unexpectedly.
+
+Then prioritize responding to harm and correction, rather than sacrificing people to the philosophy's reputation. Valuing a purpose differs from defending its present expression at any cost.
+
+Using this book as a foothold includes removing weak parts and moving to another foothold, not only building upward in the same direction. Without granting that freedom, a book on self-transcendence would be inconsistent.
+
+
+# Chapter 24 Living the Next Question
+
+## Returning to the Starting Purpose
+
+Briefly: we can choose not to treat someone's happiness as worthless because they are distant from us. Reduce avoidable severe suffering and expand conditions for choosing one's life. Cooperate toward that end, revising intelligence, institutions, and purposes.
+
+This predicts neither fulfillment of every wish without contradiction nor discovery of a final cosmic purpose. It proposes what to protect, investigate, and revise within reality's conflicts and limits.
+
+Concern for others does not demand self-erasure. Shared purposes do not demand identical lives. Improving intelligence does not lower less able people's worth. Cosmic inquiry does not justify postponing present suffering.
+
+Keeping these four distinctions lets ideals protect people rather than merely mobilize them.
+
+## What Remains as Knowledge
+
+Research measures well-being across dimensions and investigates cooperation's conditions. Mathematics shows possibilities and limits of social choice. Studies compare consciousness theories and constrain cosmic history through observables.
+
+Important though these are, combining them does not complete a final theory. Objects, methods, and questions differ. Connecting them requires explicit intermediate premises.
+
+I want to leave these boundaries as well as conclusions: observational findings, value choices, conditional reasoning, and unverified imagination. They show what should change as research advances.
+
+## Commitments Can Be Renewed
+
+My purposes and convictions were not complete from the beginning. They developed through experience, thought, relationships, and language, and may change again.
+
+Revisability does not make present commitments meaningless. I can explain current reasons and take responsibility for them, while giving future selves and others freedom to reconsider.
+
+More capable AI and advancing research may lead to rewriting this book. Greater capability of an author alone does not make a new book correct. Checking evidence, reasoning, and consequences remains work for the next era.
+
+## Accepting Incompleteness
+
+I cannot place here one sentence explaining everything, or honestly claim ultimate truth. There are nevertheless reasons to write.
+
+Unwanted suffering persists; experiences go unheard; people lack real choices. Understanding can improve conditions, cooperation can make possible what one person cannot, and discovering inadequacy leaves paths for revision.
+
+After closing the book, you need not shoulder responsibility for the entire universe. Perhaps make one question more precise, listen to someone, or rest so that you can think again tomorrow.
+
+I wish for a world where all beings can lead lives that matter to them without destroying others. How to realize it remains unfinished. I invite readers to update questions together, rather than obey a finished doctrine.
+
+
+# Appendix A A Map of the Argument
+
+The conclusions do not follow from one experiment or axiom. This map separates empirical findings, value commitments, conditional reasoning, and unverified hypotheses, showing where changes alter conclusions. Numbers aid rereading; they are not formal-verification certificates.
+
+## Starting Experiences and Values
+
+**E1 The urgency of experience.** People experience and report pain, joy, and anxiety as important to them. Particular causes and degrees need separate examination. See Chapter 1.
+
+**E2 Constraints on judgment.** Information, time, and computation limit human judgment. Abilities and outcomes differ; greater intelligence alone does not determine good purposes. See Chapters 7 and 10.[3][11]
+
+**E3 Life has multiple dimensions.** Well-being and good lives include aspects not exhausted by one subjective score. Distinguish what is measured from what is valued. See Chapter 5.[1][24][38]
+
+**V1 Do not exclude.** Do not dismiss others' interests merely because they are distant, differently able, or less powerful. This is the book's value commitment.
+
+**V2 Avoid severe harm.** Reduce avoidable severe suffering and protect life and autonomy. Absence of suffering is not the only value.
+
+**V3 Protect examination.** Preserve affected people's routes to understand, participate in, and object to setting or revising purposes.
+
+E1–E3 alone cannot compel agreement with V1–V3. Moving from empirical description to value judgment requires premises about what matters.
+
+## Conditional Implications
+
+**I1 Do not disregard others' harm without reason.** Given V1 and V2, changing treatment of comparable harm solely because the affected person's name changes is inconsistent. Different treatment needs relevant reasons. Chapters 1, 3, and 6 explain this.
+
+**I2 Do not specify unconditional fulfillment of every wish.** Incompatible wishes and wishes to harm others prevent that specification. Reconsider purposes, means, and distribution while preserving V2 and V3. See Chapter 4.
+
+**I3 Design cooperation's conditions.** Given E2 and conflicts between individual and collective interests, understanding alone leaves problems. Examine burdens, benefits, responsibility, information, and review. See Chapters 8, 9, and 15.[4][5][43]
+
+**I4 Revise purposes too.** Given E2 and V3, current purposes and decision makers should not become incorrigible authorities. Explain reasons and responsibility for revision and preserve examination. See Chapters 10, 14, and 21.
+
+**I5 Check before and after action.** Given E2 and E3 alongside V1 and V2, intentions and averages alone cannot establish success. Examine differing effects and disadvantages. See Chapters 5, 16, 17, and 22.
+
+This supports a provisional shared purpose: reduce exclusion from concern, avoid severe harm, and cooperate to expand conditions for choosing one's life anew. It includes value premises and empirical conditions, not a uniquely derived cosmic command.
+
+## Hypotheses Not Required for the Conclusion
+
+**H1 Fundamental identity of subjects.** This book does not scientifically establish that all subjectivity belongs to one subject. V1 and V2 can support concern without it. See Chapter 6.[34]
+
+**H2 Cosmic self-transcendence.** Biological and cultural change do not entail one cosmic will or inevitable movement toward happiness. See Chapters 14 and 19.
+
+**H3 Artificial experience.** Capability and self-reports alone do not establish subjective suffering or joy. Theory, internal mechanisms, and calibrated evaluation remain issues. See Chapters 11 and 18.[36][39][40][41]
+
+**H4 Ultimate truth and purpose.** Whether existence has an ultimate purpose, and whether that question is well formed, remain open. This does not make every speculation equally likely. See Chapters 19 and 24.
+
+Changing one hypothesis does not erase every reason for everyday concern and research. Keeping grand hypotheses partly independent of practical reasons makes the book easier to revise.
+
+
+# Appendix B Small Calculations and Conditional Proofs
+
+## All Outcomes of the Public-Goods Example
+
+In Chapter 15, each of three people contributes zero or one. The total doubles, is divided equally, and one's contribution is subtracted for payoff. The order below is person 1, 2, 3.
+
+| Contributions | Person 1 payoff | Person 2 payoff | Person 3 payoff | Total |
+| --- | --- | --- | --- | --- |
+| 0 0 0 | 0 | 0 | 0 | 0 |
+| 0 0 1 | 2/3 | 2/3 | −1/3 | 1 |
+| 0 1 0 | 2/3 | −1/3 | 2/3 | 1 |
+| 1 0 0 | −1/3 | 2/3 | 2/3 | 1 |
+| 0 1 1 | 4/3 | 1/3 | 1/3 | 2 |
+| 1 0 1 | 1/3 | 4/3 | 1/3 | 2 |
+| 1 1 0 | 1/3 | 1/3 | 4/3 | 2 |
+| 1 1 1 | 1 | 1 | 1 | 3 |
+
+Total payoffs equal total contributions in every case, because original contributions are subtracted after doubling. Changing only one's own contribution from zero to one adds two-thirds to one's share and one to cost, reducing one's payoff by one-third.
+
+Local recalculation using rational arithmetic also checked the table. This checks calculation, not actual human behavior. It illustrates existing public-goods and social-dilemma research.[43]
+
+## Positive Weights and Pareto Efficiency
+
+The following explains a standard optimization principle in words, not an original ethical theorem.
+
+Assume a finite, nonempty candidate set and a finite population. Each person's evaluation of each candidate is a real number. Give each person a strictly positive weight and sum weighted evaluations.
+
+Choose a candidate maximizing that sum. No candidate in this set Pareto-improves it.
+
+To see why, suppose another candidate does. Every evaluation is at least as high, with one strictly higher. All weights are positive, so weighted terms are all at least as large and one strictly larger. Their sum is larger, contradicting the original choice as a maximum. Thus no such candidate exists.
+
+Only Pareto efficiency under the stipulated candidates, population, evaluations, and positive weights is guaranteed. Fair distribution, valid measurement, correct weights, and absence of unknown harm are not proved.
+
+Allowing zero weights can break the property. Compare evaluations (1,0) and (1,1), giving the second person weight zero. Both sums are equal, so the first can maximize while being Pareto-improved by the second. One changed condition changes the conclusion.
+
+## When No Candidate Remains
+
+Filtering candidates through rights and safety conditions may leave none. Maximizing over remaining candidates is then not solvable as stated.
+
+This does not permit silently dropping conditions. Examine whether more candidates are possible, estimates are mistaken, or constraints conflict. Unavoidable burdens require ethical judgment with responsibility and procedure.
+
+Models can locate where judgment is needed instead of concealing it.
+
+
+# Appendix C Designing Further Research
+
+These are unperformed plans illustrating testable questions. Read overlapping research first and assess whether replication or extension is necessary. Inclusion here is not authorization to conduct human-subject research.
+
+## Investigating Shared-Purpose Discussion
+
+Ask how jointly clarifying purposes, burdens, and objections affects task understanding and unequal burdens. A comparison might spend the same time explaining the same task without joint clarification. Specify what comparison defines the effect.
+
+A possible primary measure is the proportion accurately explaining purposes and roles, with scoring rules fixed beforehand. Record actual burden distribution, access, satisfaction, and disadvantages separately.
+
+Specify which outcomes should change over what period, not simply “improvement.” Record failure possibilities such as longer explanations with unequal burdens or reduced minority voice. Results contrary to prediction should revise the procedure or causal account.
+
+Assess appropriate randomization, group-level assignment, and information spillovers. Design sample size with effect detection, harm, and attrition in mind. Separate primary and exploratory analyses beforehand.
+
+## Expectations of Others and Cooperation
+
+Begin with the 2026 international experiment to examine expectations and cooperation.[37] In new settings, do not turn its conclusions into ready-made promotional claims.
+
+Information provided must be factual and suited to the setting. Never fabricate cooperation rates to elicit desired behavior. Measure understanding, changed expectations, and changed conduct separately.
+
+Do not rate noncooperators as morally inferior. Experimental choice, life constraints, and philosophical agreement differ. Do not repurpose data for employment or grades without consent.
+
+## Bringing Consciousness Hypotheses Closer to Research
+
+Scientifically testing whether all subjects are one requires observations predicted differently by that hypothesis and alternatives. Without such differences, observation cannot be claimed to support it.
+
+More concrete questions include which internal processes use representations for verbal reports, or when theory-derived indicators remain stable.[36][39][41] Distinguish functional research from establishing phenomenal experience.
+
+Before proposing research, state not only what a finding would show but what it would still fail to show. That sentence protects the boundary between inquiry and wish.
+
+## Minimum Reporting Requirements
+
+Report questions and prior predictions, selection and participants, comparison, measurement, duration, missingness and attrition, analysis, effect sizes and uncertainty, disadvantages, and limitations. Report changes to explanations after results.
+
+Do not report only significant findings. Preserve unsuccessful conditions. Share materials and analyses where possible without identification; explain withheld information. Do not advertise unperformed plans as achievements.
+
+The aim is not to determine final ethical truth in one experiment, but let others check what happens when shared purposes become actual procedures.
+
+
+# Appendix D A Guide to Reading Existing Research
+
+The literature cutoff is October 26, 2026. This is a relevance-led selective review, not an exhaustive systematic review or new meta-analysis. Publication date and journal name alone do not determine a claim's strength.
+
+## Well-Being and Good Lives
+
+Start with Chapter 5's measurement distinctions, then the OECD guidelines, the Global Flourishing Study's initial report, and its 2026 multidimensional comparison.[1][24][38] Separate conceptual choices from response and living-condition data. Read criticism of normative assumptions alongside them.[45]
+
+Group and national averages do not describe every member. Associations need not determine causes. Translation, sampling, timing, missingness, and attrition affect interpretation.
+
+## Cooperation and Institutions
+
+Check choices, payments, and information about partners in the 2026 international cooperation experiment.[37] Applying it to joint projects requires examining differences in duration, responsibility, resources, and relationships.
+
+Combining Ostrom's diagnostic institutional work with social-dilemma research separates feelings from incentive structures.[5][43] Avoid institutional panaceas.
+
+## Social Choice and Justification
+
+Read Arrow's assumptions separately from conclusions.[6] Sen then shows possibilities opened by changing information used in comparison.[25]
+
+Distinguish equality from priority, and consider arguments emphasizing justification to individuals.[32][33] This book does not claim complete unification. Compare units of evaluation and treatment of objections.
+
+## Moral Uncertainty
+
+Moral Uncertainty discusses incorporating uncertainty about what is right into decisions.[28] Critics question combining different theories' evaluations into expected values.[29]
+
+Read objections after proposals and ask what remains possible afterward. Neither title alone should become the final conclusion.
+
+## AI Learning and Value Aggregation
+
+Separate performance with assistance from understanding after withdrawal in Chapter 10's learning studies.[49][50][51] Different materials, populations, and testing intervals are not simple replications of one effect.
+
+Moving from the aggregation survey to original research, check definitions of utility and how comparisons were collected.[52] When assumptions differ, do not compare only the force of conclusions.[53][54] Keep mathematical guarantees distinct from choices of value.
+
+## AI Consciousness
+
+Distinguish the 2026 indicator paper, internal-mechanism preprint, calibration and transfer discussion, and skeptical commentary on digital AI.[36][41][39][40]
+
+Check systems, theoretical premises, observed functions, and inferences from functions to experience. Watch for headlines stronger than findings.
+
+## Stages of Compassion Research
+
+Read the 2026 multilevel framework as a proposal for perspectives and measurement.[46] Naming an indicator differs from establishing validity or effectiveness. Track conceptualization, measurement development, validation, and practical effects separately.
+
+## Research on the Universe
+
+Identify observations, assumed models, and constrained parameters. The 2026 DESI study in Chapter 19 compares observations and models in this way.[42]
+
+Unresolved model questions do not establish cosmic will or ultimate purpose. Do not turn ignorance into evidence for another grand assertion. Use it to formulate further questions.
+
+## Keeping Reading Notes
+
+Briefly record each source's question, method, findings, limits, and relation to this book. Record whether you examined the full text, abstract, publisher description, or only the title.
+
+For a cited claim, inspect the relevant original passage. Do not present another paper's account as though you read the original. An objection's existence does not invalidate a study by itself; identify the dispute.
+
+Such records let future readers and AI know what to recheck instead of inheriting this book blindly.
+
+
+# Appendix E Terms Used in This Book
+
+**Shared purpose.** An orientation enabling people with different lives to coexist without destroying one another and address problems cooperatively. It does not align everyone with one value system.
+
+**Happiness and well-being.** Broad terms concerning pleasant affect, life evaluation, meaning, and fulfillment. This book does not fix them to one score or one experience.
+
+**Pain and suffering.** Discussion includes distress such as anxiety and isolation as well as bodily pain, without implying identical causes or treatments.
+
+**Autonomy.** Participation in and reconsideration of life choices with adequate explanation and support, not independence from all assistance.
+
+**Self-transcendence.** Revising present understanding, relationships, institutions, and purposes for better reasons, not a duty of self-erasure or constant growth.
+
+**Intelligence.** Abilities to learn, understand, predict, solve problems, and correct mistakes, not a single numerical ranking of dignity or goodness.
+
+**Empirical findings.** Knowledge based on observation, experiment, and surveys, with scope determined by populations, methods, and error.
+
+**Value judgment.** Judgment about what to protect or regard as good. Factual information may revise it, but it is not identical to factual description.
+
+**Conditional reasoning.** Showing conclusions that follow if explicit premises hold. Whether premises fit reality requires separate examination.
+
+**Philosophical hypothesis.** A proposal about existence, subjectivity, or related matters. Distinguish observationally supported explanations from unverified imagination.
+
+**Model.** A limited organization of selected objects and relations, not reality itself. Omissions affect applicability.
+
+**Pareto improvement.** A change leaving everyone in the specified population at least as well off and someone better off. It depends on included people and evaluations and does not guarantee overall fairness.
+
+**Correlation and causation.** Covariation versus changes in one factor producing changes in another. Correlation alone settles neither direction nor alternative causes.
+
+**Conscious experience.** The subjective aspect of feeling something. Distinguish task capability, verbal self-report, and experience itself.
+
+**AGI and ASI.** AGI denotes general AI addressing broad intellectual tasks; ASI is used for intelligence greatly exceeding human abilities. Definitions vary, and neither term by itself implies consciousness or goodness.
+
+**Preprint.** A research document released, for example, before journal publication. It may contain valuable work; public availability alone does not establish peer review. Check later versions and publication status.
+
+**Commentary.** Interpretation, opinion, or theoretical argument about research. Examine reasons and objections rather than treat it as equivalent to experimental reporting.
+
+**CC BY-SA 4.0.** A public license allowing sharing and adaptation with attribution and same-license or compatible conditions when adaptations are shared. Its scope here is in the colophon.[48]
+
+**CC0.** A mechanism for waiving held copyright and related rights where legally possible. It differs from this book's CC BY-SA 4.0 and does not apply here.[23]
+
+
+# References
+
+The scope used here corresponds to numbered citations in the text. Theory, observation, experiments, preprints, commentary, and public norms are distinguished. This book does not endorse every position in its sources. Web materials were consulted on October 26, 2026.
+
+[1] OECD. 2025. OECD Guidelines on Measuring Subjective Well-being 2025 Update. https://doi.org/10.1787/9203632a-en
+
+Source type: Official measurement guidelines. Used here for: Dimensions of subjective well-being.
+
+[2] Ryan, R. M. and Deci, E. L. 2000. Self-determination theory and the facilitation of intrinsic motivation social development and well-being. American Psychologist 55 68–78. https://doi.org/10.1037/0003-066X.55.1.68
+
+Source type: Peer-reviewed synthesis of theory and research. Used here for: Environments supporting autonomy and related needs.
+
+[3] Simon, H. A. 1955. A Behavioral Model of Rational Choice. Quarterly Journal of Economics 69 99–118. https://doi.org/10.2307/1884852
+
+Source type: Peer-reviewed theory. Used here for: Informational and computational limits on judgment.
+
+[4] Nowak, M. A. 2006. Five rules for the evolution of cooperation. Science 314 1560–1563. https://doi.org/10.1126/science.1133755
+
+Source type: Peer-reviewed theoretical review. Used here for: Conditions supporting cooperation.
+
+[5] Ostrom, E. 2007. A diagnostic approach for going beyond panaceas. PNAS 104 15181–15187. https://doi.org/10.1073/pnas.0702288104
+
+Source type: Peer-reviewed framework. Used here for: Avoiding institutional panaceas.
+
+[6] Arrow, K. J. 1950. A Difficulty in the Concept of Social Welfare. Journal of Political Economy 58 328–346. https://doi.org/10.1086/256963
+
+Source type: Peer-reviewed mathematical theory. Used here for: Conditions of social choice.
+
+[7] United Nations. 1948. Universal Declaration of Human Rights. https://www.un.org/en/about-us/universal-declaration-of-human-rights/
+
+Source type: Public normative document. Used here for: Dignity and freedom.
+
+[8] Cogitate Consortium and colleagues. 2025. Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature 642 133–142. https://doi.org/10.1038/s41586-025-08888-1
+
+Source type: Peer-reviewed experiment. Used here for: Comparisons and limits of consciousness theories.
+
+[9] Andrews, K. Birch, J. Sebo, J. and signatories. 2024. The New York Declaration on Animal Consciousness. https://sites.google.com/nyu.edu/nydeclaration/declaration
+
+Source type: Researchers' declaration. Used here for: Evidence and concern for animal experience.
+
+[10] Butlin, P. and colleagues. 2023. Consciousness in Artificial Intelligence Insights from the Science of Consciousness. https://arxiv.org/abs/2308.08708
+
+Source type: Preprint report. Used here for: Earlier proposal of consciousness indicators.
+
+[11] Autio, C. and colleagues NIST. 2024. Artificial Intelligence Risk Management Framework Generative Artificial Intelligence Profile. NIST AI 600-1. https://doi.org/10.6028/NIST.AI.600-1
+
+Source type: Official technical report NIST AI 600-1. Used here for: Generative AI risks.
+
+[12] NASA Science. accessed 2026. Overview The Universe. https://science.nasa.gov/universe/overview/
+
+Source type: Official scientific explanation. Used here for: Cosmic history and observational scope.
+
+[13] OpenStax. 2016. University Physics Volume 2 Section 4.6 Entropy. https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy
+
+Source type: Open university textbook. Used here for: Entropy of systems and surroundings.
+
+[14] Gödel, K. 1931. Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik 38 173–198. https://doi.org/10.1007/BF01700692
+
+Source type: Original mathematics paper. Used here for: Conditions for incompleteness theorems.
+
+[15] Shannon, C. E. 1948. A Mathematical Theory of Communication. Bell System Technical Journal 27 379–423 and 623–656. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+
+Source type: Original communication-theory paper. Used here for: Information versus meaning.
+
+[16] Vaswani, A. and colleagues. 2017. Attention Is All You Need. NeurIPS 2017. https://arxiv.org/abs/1706.03762
+
+Source type: Peer-reviewed NeurIPS 2017 paper. Used here for: Computational mechanisms versus consciousness.
+
+[17] NHS. accessed 2026. Overview Obsessive compulsive disorder OCD. https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/overview/
+
+Source type: Official health information. Used here for: Unwanted thoughts, repetitive acts, and seeking help.
+
+[18] NHS. updated 2025. Hallucinations and hearing voices. https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/
+
+Source type: Official health information. Used here for: Hearing voices and seeking safety-related support.
+
+[19] Stanford Encyclopedia of Philosophy. accessed 2026. Ethics in Indian Buddhism. https://plato.stanford.edu/entries/ethics-indian-buddhism/
+
+Source type: Scholarly encyclopedia. Used here for: Nonself and diversity in ethics.
+
+[20] IPCC. 2023. Climate Change 2023 Synthesis Report Summary for Policymakers. https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/
+
+Source type: Official scientific assessment. Used here for: Future living conditions.
+
+[21] UNESCO. 2021. Recommendation on Open Science. https://www.unesco.org/en/legal-affairs/recommendation-open-science
+
+Source type: Official recommendation. Used here for: Sharing, ethics, and privacy.
+
+[22] UNESCO. 2021. Recommendation on the Ethics of Artificial Intelligence. https://www.unesco.org/en/legal-affairs/recommendation-ethics-artificial-intelligence
+
+Source type: Official recommendation. Used here for: Human rights and human oversight.
+
+[23] Creative Commons. accessed 2026. CC0 1.0 Universal. https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+
+Source type: Official rights document. Used here for: Glossary distinction from CC BY-SA.
+
+[24] VanderWeele, T. J. and colleagues. 2025. The Global Flourishing Study Study Profile and Initial Results on Flourishing. Nature Mental Health 3 636–653. https://doi.org/10.1038/s44220-025-00423-5
+
+Source type: Peer-reviewed observational study. Used here for: Multiple dimensions of life.
+
+[25] Sen, A. 1999. The Possibility of Social Choice. American Economic Review 89 349–378. https://doi.org/10.1257/aer.89.3.349
+
+Source type: Peer-reviewed journal lecture. Used here for: Information for comparison and possibilities.
+
+[26] Hadfield-Menell, D. and colleagues. 2016. Cooperative Inverse Reinforcement Learning. NeurIPS 2016. https://arxiv.org/abs/1606.03137
+
+Source type: Peer-reviewed NeurIPS 2016 paper. Used here for: Uncertainty about purposes and cooperation.
+
+[27] Hadfield-Menell, D. and colleagues. 2017. Inverse Reward Design. NeurIPS 2017. https://arxiv.org/abs/1711.02827
+
+Source type: Peer-reviewed NeurIPS 2017 paper. Used here for: Rewards are not complete objective specifications.
+
+[28] MacAskill, W. Bykvist, K. and Ord, T. 2020. Moral Uncertainty. Oxford University Press. https://doi.org/10.1093/oso/9780198722274.001.0001
+
+Source type: Research monograph. Used here for: Moral uncertainty.
+
+[29] Côté, N. 2023. There Is No Such Thing as Expected Moral Choice-Worthiness. Canadian Journal of Philosophy 53 1–20. https://doi.org/10.1017/can.2023.18
+
+Source type: Peer-reviewed philosophy. Used here for: Objection to aggregation across ethical theories.
+
+[30] Voelkel, J. G. and colleagues. 2024. Megastudy testing 25 treatments to reduce antidemocratic attitudes and partisan animosity. Science 386 eadh4764. https://doi.org/10.1126/science.adh4764
+
+Source type: Peer-reviewed experiment. Used here for: Interventions versus outcome measures.
+
+[31] Holliday, D. E. Lelkes, Y. and Westwood, S. J. 2025. Why depolarization is hard Evaluating attempts to decrease partisan animosity in America. PNAS 122 e2508827122. https://doi.org/10.1073/pnas.2508827122
+
+Source type: Peer-reviewed synthesis and experiment. Used here for: Limits of durability and spillovers.
+
+[32] Parfit, D. 1997. Equality and Priority. Ratio 10 202–221. https://doi.org/10.1111/1467-9329.00041
+
+Source type: Peer-reviewed philosophy. Used here for: Equality versus priority to the worse off.
+
+[33] Scanlon, T. M. 1998. What We Owe to Each Other. Harvard University Press. https://philosophy.fas.harvard.edu/publications/what-we-owe-each-other
+
+Source type: Research monograph. Used here for: Reasons and mutual justification.
+
+[34] Kolak, D. 2004. I Am You The Metaphysical Foundations for Global Ethics. Springer. https://doi.org/10.1007/978-1-4020-3014-7
+
+Source type: Philosophical monograph. Used here for: Precedents for open individualism.
+
+[35] Naccache, L. and colleagues. 2025. GNW theoretical framework and the adversarial testing of global neuronal workspace and integrated information theories of consciousness. Neuroscience of Consciousness 2025 niaf037. https://doi.org/10.1093/nc/niaf037
+
+Source type: Peer-reviewed journal theoretical response. Used here for: Interpretation of consciousness experiments.
+
+[36] Butlin, P. and colleagues. 2026. Identifying indicators of consciousness in AI systems. Trends in Cognitive Sciences 30 488–501. https://doi.org/10.1016/j.tics.2025.10.011
+
+Source type: Peer-reviewed methodological review. Used here for: Indicators for AI consciousness.
+
+[37] Andre, P. Boneva, T. Chopra, F. and Falk, A. 2026. Homo cooperans Understanding the nature of human cooperation. Science 392 eaec9483. https://doi.org/10.1126/science.aec9483
+
+Source type: Peer-reviewed international experiment. Used here for: Cooperation and expectations of others.
+
+[38] Lomas, T. and colleagues. 2026. A comparative report card wellbeing assessment of 22 countries in the Global Flourishing Study. Discover Global Society 4 Article 197. https://doi.org/10.1007/s44282-026-00502-7
+
+Source type: Peer-reviewed observational analysis. Used here for: Multidimensional comparison and measurement limits.
+
+[39] Koch, F. 2026. Calibration and transfer in indicator-based assessments of artificial consciousness. Neuroscience of Consciousness 2026 niag061. https://doi.org/10.1093/nc/niag061
+
+Source type: Peer-reviewed journal methodological discussion. Used here for: Indicator calibration and substrate transfer.
+
+[40] Seth, A. K. Block, N. and Tononi, G. 2026. Three reasons why AI is not conscious and perhaps never will be. Nature 658 866–868. https://doi.org/10.1038/d41586-026-03313-7
+
+Source type: Nature Comment, not an experiment. Used here for: Skeptical position on digital AI consciousness.
+
+[41] Gurnee, W. and colleagues. 2026. Verbalizable Representations Form a Global Workspace in Language Models. https://arxiv.org/abs/2607.15495
+
+Source type: Preprint on internal mechanisms. Used here for: Representations used in verbal reports.
+
+[42] DESI Collaboration. 2026. DESI DR2 Results IV Alcock Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints. https://arxiv.org/abs/2607.27410
+
+Source type: Preprint on observations and model constraints. Used here for: Observationally comparable cosmic models.
+
+[43] Dawes, R. M. 1980. Social Dilemmas. Annual Review of Psychology 31 169–193. https://doi.org/10.1146/annurev.ps.31.020180.001125
+
+Source type: Peer-reviewed review. Used here for: Divergence of individual and collective interests.
+
+[44] Bengio, Y. and colleagues. 2026. International AI Safety Report 2026. DSIT 2026/001. https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026
+
+Source type: International scientific assessment synthesizing research. Used here for: AI capability, reliability, and evaluation-use gaps.
+
+[45] Willen, S. S. Williamson, A. F. and Walsh, C. C. 2025. Who gets to define flourishing? Disentangling social science from theology in flourishing measurement and policy prescriptions. SSM Mental Health 7 Article 100377. https://doi.org/10.1016/j.ssmmh.2024.100377
+
+Source type: Peer-reviewed conceptual and normative criticism. Used here for: Norms within flourishing measures.
+
+[46] Ozawa-de Silva, B. R. and Mascaro, J. S. 2026. What’s next for compassion science? A multi-scalar framework for measurement and public health action. International Journal of Wellbeing 16(2) Article 5635 1–25. https://doi.org/10.5502/ijw.v16i2.5635
+
+Source type: Peer-reviewed theoretical framework proposal. Used here for: Concern across individuals, groups, and institutions.
+
+[47] Rosser, B. 1936. Extensions of Some Theorems of Gödel and Church. Journal of Symbolic Logic 1(3) 87–91. https://doi.org/10.2307/2269028
+
+Source type: Original mathematical-logic paper. Used here for: Strengthened consistency conditions for incompleteness.
+
+[48] Creative Commons. accessed 2026. Attribution-ShareAlike 4.0 International. https://creativecommons.org/licenses/by-sa/4.0/
+
+Source type: Official license terms. Used here for: Sharing and adapting this book.
+
+[49] Shen, J. H. and Tamkin, A. 2026. How AI Impacts Skill Formation. arXiv:2601.20245v2. https://arxiv.org/abs/2601.20245v2
+
+Source type: Preprint randomized experiment. Used here for: Task completion versus human skill acquisition.
+
+[50] Bastani, H. Bastani, O. Sungu, A. Ge, H. Kabakcı, Ö. and Mariman, R. 2025. Generative AI without guardrails can harm learning: Evidence from high school mathematics. PNAS 122(26) e2422633122. https://doi.org/10.1073/pnas.2422633122
+
+Source type: Peer-reviewed field experiment. Used here for: Assisted performance versus unsupported learning outcomes.
+
+[51] Kestin, G. Miller, K. Klales, A. Milbourne, T. and Ponti, G. 2025. AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting. Scientific Reports 15 Article 17458. https://doi.org/10.1038/s41598-025-97652-6
+
+Source type: Peer-reviewed randomized crossover experiment. Used here for: Conditions of effective designed AI learning materials.
+
+[52] Halpern, D. Micha, E. Procaccia, A. D. Schiffer, B. Shapira, I. and Zhang, S. 2026. AI Alignment From Social Choice Perspectives. ACM SIGecom Exchanges 24(1) 47–76; arXiv v2 October 15, 2026. https://arxiv.org/abs/2606.21550v2
+
+Source type: Journal survey, author-posted version consulted. Used here for: Human value disagreement and aggregation choices.
+
+[53] Gölz, P. Haghtalab, N. and Yang, K. 2025. Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?. Advances in Neural Information Processing Systems 38. https://papers.nips.cc/paper_files/paper/2025/hash/2526c5e8110bc6bc8b462ba95198161e-Abstract-Conference.html
+
+Source type: Peer-reviewed conference mathematical theory. Used here for: Guarantees and conditions for value aggregation.
+
+[54] Oko, K. Ulichney, A. Haghtalab, N. and Bao, H. 2026. Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner. arXiv:2609.12651v1 September 11, 2026. https://arxiv.org/abs/2609.12651v1
+
+Source type: Preprint mathematical theory. Used here for: Reassessing strong earlier conclusions through assumptions.
+
+[55] NISO. 2022. ANSI/NISO Z39.104-2022 CRediT Contributor Roles Taxonomy. https://www.niso.org/publications/z39104-2022-credit
+
+Source type: Research-contribution reporting standard. Used here for: Recording distinct contributions.
+
+[56] DataCite. accessed 2026. Connecting to Works. https://support.datacite.org/docs/connecting-to-works
+
+Source type: Official technical documentation on research relations. Used here for: Distinguishing originals, adaptations, and versions.
+
+Chapter 20 distinguishes Gödel’s 1931 original from Rosser’s 1936 strengthening and presents the first incompleteness theorem in a standard modern form. It does not reproduce the entire original proof.
+
+
+# Colophon and Terms of Use
+
+Title: Considering the Happiness of All Beings
+
+Subtitle: A Philosophy of Intelligence, Cooperation, and Self-Transcendence
+
+Production credit: oopdesc + AI
+
+Author's pen name: oopdesc
+
+First Japanese edition: October 26, 2026. First English translation: October 26, 2026.
+
+This book began with the human author's conception and source materials. AI was used for text generation, structure, editing, research assistance, and production of the cover and illustrations. The English translation was produced with ChatGPT under the author's publication project. “AI” discloses the production process; it does not designate a legal person responsible for the work. The human author decides what to retain and publish.
+
+© 2026 oopdesc
+
+For the original text and editorial work, rights held by oopdesc are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).[48] Copyright is not waived. Kindle and public download editions have the same terms.
+
+Copying, adaptation, translation, redistribution, and commercial use are permitted with appropriate attribution, a license link, and change disclosure. Shared adaptations must follow the same-license or compatible terms. Do not add restrictions or technological measures limiting permitted uses. These statements do not restrict uses requiring no permission under law, such as applicable quotation exceptions.
+
+Third-party works, trademarks, fonts, privacy, and other rights not held are outside this grant. Listing a reference does not authorize redistributing its full paper or figures. The official terms govern details.
+
+Official terms: https://creativecommons.org/licenses/by-sa/4.0/
+
+Removing the original author's name and redistributing the work as one's own is not permitted by these terms. Distinguish original and adapter contributions and preserve traceable sources. This does not impose restrictions beyond the license on ideas themselves or uses exempt under law.
+
+Attribution example: oopdesc, Considering the Happiness of All Beings, first edition, 2026, CC BY-SA 4.0. Identify changes if made. Do not imply endorsement of an adaptation by the original author or cited authors.
+
+The book contains philosophical proposals, research accounts, conditional arguments, and unverified hypotheses. It does not replace medical diagnosis or treatment. Research plans are unperformed; fictional calculations are not observed results.
+
+Errors and new findings should prompt revisions stating evidence and reasons for changes. The book's conclusions themselves remain open to review.
+
+## Tracing the Original and Changes
+
+Original author: oopdesc. Original publication: https://github.com/oopdesc/all-beings-flourishing . Japanese version v1.0.0, October 26, 2026. Original book identifier: urn:uuid:88111439-367a-43e2-8418-018a6345e289 . It tracks editions within this project; it is neither a DOI nor certification of academic review. This English edition translates that Japanese version; no new empirical findings are claimed through translation.
+
+Reuse example: oopdesc, Considering the Happiness of All Beings—A Philosophy of Intelligence, Cooperation, and Self-Transcendence, first edition (2026), original URL above, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Add changes, adapter's name, and date, for example “Chapter X summarized and expanded,” and preserve earlier change notices. A reasonable method appropriate to the medium is sufficient.
+
+NOTICE, CITATION.cff, and PROVENANCE.json in the public repository record the original and entry points to changes. They aid tracing but cannot completely prevent alteration or loss of attribution. Do not imply original-author approval of adaptations. The work is supplied without warranties except as the license provides.

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the original author and identify translation or adaptation."
+type: dataset
+title: "Considering the Happiness of All Beings"
+authors:
+  - family-names: "oopdesc"
+version: "1.0.0-en"
+date-released: "2026-10-26"
+url: "https://github.com/oopdesc/all-beings-flourishing/tree/main/translations/en"
+license: CC-BY-SA-4.0
+preferred-citation:
+  type: book
+  title: "Considering the Happiness of All Beings"
+  authors:
+    - family-names: "oopdesc"
+  year: 2026
+  url: "https://github.com/oopdesc/all-beings-flourishing/tree/main/translations/en"

@@ -17,5 +17,23 @@
   "relations": [],
   "registered_doi": null,
   "derivative_guidance": "For a derivative: retain the original author and license notices, prior changes, add a relation IsDerivedFrom to the source URL and version, and identify new contributors. A new original edition may use IsNewVersionOf. Relation labels are inspired by DataCite documentation; this file is not a DataCite registration or metadata validation.",
-  "guarantees": "No guarantee of tamper prevention, complete attribution, scientific truth or continuing hosting."
+  "guarantees": "No guarantee of tamper prevention, complete attribution, scientific truth or continuing hosting.",
+  "translations": [
+    {
+      "language": "en",
+      "source_version": "v1.0.0",
+      "source_commit": "9d3f050cbb7defbf6d2614e1693723684341ca4c",
+      "path": "translations/en",
+      "method": "ChatGPT-generated translation in the author-requested project",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "language": "zh-Hans",
+      "source_version": "v1.0.0",
+      "source_commit": "9d3f050cbb7defbf6d2614e1693723684341ca4c",
+      "path": "translations/zh-Hans",
+      "method": "ChatGPT-generated translation in the author-requested project",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
 }
