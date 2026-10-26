@@ -8,10 +8,53 @@
 
 ## 読む
 
-- [冒頭の結論と、この本の原点](manuscript/00_結論.md)
-- [短い結論](research/QUICK_CONCLUSIONS.md)
-- 第一版をダウンロード：[EPUB](editions/v1.0.0/book.epub)／[PDF](editions/v1.0.0/book.pdf)／[テキスト](editions/v1.0.0/book.txt)
-- [原稿の各章](manuscript)／[研究記録](research)／[出典一覧](research/REFERENCES.json)
+[**結論から読む**](read/00.md#s1) ｜ [**短い結論**](research/QUICK_CONCLUSIONS.md) ｜ [**参考文献**](read/30.md#s1)
+
+ブラウザでは下の目次から読めます。各章の上下に前後の章と結論へ戻るリンクがあります。本文の出典番号を押すと、その参考文献へ移動します。
+
+端末へ保存して読む場合：
+
+- [EPUBをダウンロード](https://github.com/oopdesc/all-beings-flourishing/releases/download/v1.0.0/book.epub) — 電子書籍アプリ向け。文字の大きさを変更できます。
+- [PDFをダウンロード](https://github.com/oopdesc/all-beings-flourishing/releases/download/v1.0.0/book.pdf) — 白黒の固定レイアウト、129ページ。
+- [全文テキストをダウンロード](https://github.com/oopdesc/all-beings-flourishing/releases/download/v1.0.0/book.txt) — 検索や引用の確認向け。
+- [第一版の配布ファイルと照合値](https://github.com/oopdesc/all-beings-flourishing/releases/tag/v1.0.0)
+
+## 目次
+
+- [結論を先に読む](read/00.md#s1)
+- [第1章 苦しみを配慮の出発点にする](read/01.md#s1)
+- [第2章 事実と価値をつなぐ](read/02.md#s1)
+- [第3章 すべての存在をどう考えるか](read/03.md#s1)
+- [第4章 目的が衝突するとき](read/04.md#s1)
+- [第5章 幸福を測ると何が見えるか](read/05.md#s1)
+- [第6章 自分と他者の境界を考える](read/06.md#s1)
+- [第7章 知性の限界と社会の問題](read/07.md#s1)
+- [第8章 協力できる条件をつくる](read/08.md#s1)
+- [第9章 共通目的と自由を両立させる](read/09.md#s1)
+- [第10章 AIを共通目的に結びつける](read/10.md#s1)
+- [第11章 AIの経験について何がわかるか](read/11.md#s1)
+- [第12章 生きる意味と目的の更新](read/12.md#s1)
+- [第13章 神のゲームという比喩と自律](read/13.md#s1)
+- [第14章 自己超越を更新の能力として考える](read/14.md#s1)
+- [第15章 協力を小さなモデルで確かめる](read/15.md#s1)
+- [第16章 公平な判断を数字だけで決めない](read/16.md#s1)
+- [第17章 理想を検証可能な問いに変える](read/17.md#s1)
+- [第18章 意識を研究することと主観を考えること](read/18.md#s1)
+- [第19章 宇宙を知ることと目的を問うこと](read/19.md#s1)
+- [第20章 数学が保証することと保証しないこと](read/20.md#s1)
+- [第21章 知識を共有しながら人を守る](read/21.md#s1)
+- [第22章 日常と共同の活動で試す](read/22.md#s1)
+- [第23章 この提案に反論する](read/23.md#s1)
+- [第24章 次の問いを生きる](read/24.md#s1)
+- [付録A 論証の見取り図](read/25.md#s1)
+- [付録B 小さな計算と条件つきの証明](read/26.md#s1)
+- [付録C 次の研究を設計する](read/27.md#s1)
+- [付録D 既存研究を読むための案内](read/28.md#s1)
+- [付録E 本書の用語](read/29.md#s1)
+- [参考文献](read/30.md#s1)
+- [奥付と利用条件](read/31.md#s1)
+
+[研究記録](research)・[出典のデータ](research/REFERENCES.json)・[編集用原稿](manuscript)も公開しています。読書用ページは日本語第一版と同じ本文です。Web上の移動リンクだけを補っています。
 
 ## 使う・直す
 
@@ -29,7 +72,7 @@
 
 本文の小さな計算例は架空で、研究計画は未実施です。科学的な知見と、本書が選ぶ価値を同一視しません。最終真理や、世界一という比較評価を認定する本でもありません。
 
-Kindle版の出版状況は[こちら](PUBLICATION_STATUS.md)。無料公開と同じ利用条件を適用し、KDPセレクトの独占配信は選びません。
+Kindle版の出版状況は[こちら](PUBLICATION_STATUS.md)。無料公開と同じ利用条件を適用する方針です。Kindleの申請・登録状態は出版状況ページに記録します。
 
 本名・住所・旧原稿・認証情報・第三者論文の全文PDFは、このリポジトリには含めません。
 
