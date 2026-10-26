@@ -1,0 +1,471 @@
+[
+  {
+    "id": "C01",
+    "status": "規範",
+    "conclusion": "誰も配慮から排除せず 生と自律を守り 避けられる深刻な苦しみを減らす",
+    "chapters": [
+      "第1章",
+      "第3章",
+      "第4章"
+    ],
+    "sources": [
+      "R07",
+      "R09"
+    ],
+    "limit": "価値としての提案であり 宇宙の命令や実験の結果ではない",
+    "update_condition": "他の価値を抑圧する運用が起きれば表現と手続を修正する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C02",
+    "status": "条件つき推論",
+    "conclusion": "すべての願いの無条件な同時実現は求めない",
+    "chapters": [
+      "第4章"
+    ],
+    "sources": [
+      "R06"
+    ],
+    "limit": "同じ条件で矛盾する要求や加害を含む要求がある",
+    "update_condition": "条件や意味を分けることで実は両立する場合を取りこぼさない",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "conditional",
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C03",
+    "status": "経験的な知見",
+    "conclusion": "幸福と良好な生活は複数の側面から調べる",
+    "chapters": [
+      "第5章"
+    ],
+    "sources": [
+      "R01",
+      "R02",
+      "R24",
+      "R38",
+      "R45"
+    ],
+    "limit": "指標や標本の選択に依存し 因果関係や唯一の幸福定義を決めない",
+    "update_condition": "測定の妥当性 文化差 欠測と脱落を追加確認する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C04",
+    "status": "哲学的仮説",
+    "conclusion": "主観の根底の同一性は未確定である",
+    "chapters": [
+      "第6章",
+      "第18章"
+    ],
+    "sources": [
+      "R19",
+      "R34"
+    ],
+    "limit": "科学的な証明としない また本書の倫理の成立条件にしない",
+    "update_condition": "競合仮説と異なる観測予測が示せるかを検討する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "unresolved"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C05",
+    "status": "経験と規範の区別",
+    "conclusion": "知的能力の向上だけでは目的の善さや公正さは決まらない",
+    "chapters": [
+      "第7章",
+      "第10章"
+    ],
+    "sources": [
+      "R03",
+      "R11",
+      "R26",
+      "R27"
+    ],
+    "limit": "能力 目的 制度 権力 資源を分ける",
+    "update_condition": "特定の能力と行動の関係について実証を追加するときは条件を限定する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical",
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C06",
+    "status": "経験的な知見",
+    "conclusion": "協力の可能性と他者への期待は実験で研究されている",
+    "chapters": [
+      "第8章",
+      "第15章"
+    ],
+    "sources": [
+      "R04",
+      "R05",
+      "R37",
+      "R43"
+    ],
+    "limit": "特定のゲームから現実のすべての対立へ一般化しない",
+    "update_condition": "2026年の原著方法と補足資料と再現性を重点確認する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C07",
+    "status": "規範",
+    "conclusion": "共通目的への批判と異議と退出の通路を残す",
+    "chapters": [
+      "第9章"
+    ],
+    "sources": [
+      "R06",
+      "R07",
+      "R25",
+      "R33"
+    ],
+    "limit": "全員同じ思想へ従わせる提案ではない",
+    "update_condition": "少数者の救済 専門家と当事者の権限の分担を実例で検討する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [
+      "C01"
+    ],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C08",
+    "status": "研究紹介",
+    "conclusion": "目的の記述が不完全であることを考慮するAI研究がある",
+    "chapters": [
+      "第10章"
+    ],
+    "sources": [
+      "R26",
+      "R27",
+      "R49",
+      "R50",
+      "R51",
+      "R52",
+      "R53",
+      "R54",
+      "R44"
+    ],
+    "limit": "人類全体の価値問題が解決した成果ではない",
+    "update_condition": "複数当事者や変化する価値を扱う後続研究を追加確認する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical",
+      "conditional"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C09",
+    "status": "未解決",
+    "conclusion": "AIの能力や自己報告だけでは主観的経験を確定できない",
+    "chapters": [
+      "第11章",
+      "第18章"
+    ],
+    "sources": [
+      "R08",
+      "R10",
+      "R35",
+      "R36",
+      "R39",
+      "R40",
+      "R41"
+    ],
+    "limit": "理論由来の指標 内部機能 経験そのものを区別する",
+    "update_condition": "2026年の指標論文 校正の批判 機構研究の原著を深く照合する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical",
+      "unresolved"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C10",
+    "status": "規範と実践",
+    "conclusion": "目的が明確でない人にも尊厳があり 目的を変える自由がある",
+    "chapters": [
+      "第12章"
+    ],
+    "sources": [
+      "R02",
+      "R07"
+    ],
+    "limit": "貢献度によって生の価値を決めない",
+    "update_condition": "自律を支える具体的な環境と不利益の実例を検討する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C11",
+    "status": "実践と医療情報",
+    "conclusion": "切迫した確信や命令に見える経験を 外界の事実と分けて確かめる",
+    "chapters": [
+      "第13章"
+    ],
+    "sources": [
+      "R17",
+      "R18"
+    ],
+    "limit": "個人の診断や治療を本だけで行わず 超自然的な命令を実在と認めない",
+    "update_condition": "健康に関する記述を更新する際は公的資料と専門的確認を使う",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical",
+      "normative"
+    ],
+    "related_claims": [
+      "C01"
+    ],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C12",
+    "status": "規範",
+    "conclusion": "自己超越を 更新可能性として捉える",
+    "chapters": [
+      "第14章"
+    ],
+    "sources": [
+      "R05"
+    ],
+    "limit": "宇宙全体の意志や幸福への必然的進歩の法則とはしない",
+    "update_condition": "成長を義務化したり休息を否定したりする含意がないか点検する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [
+      "C01"
+    ],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C13",
+    "status": "モデル内の結果",
+    "conclusion": "個別の利得と全体の利益がずれる有限モデルがある",
+    "chapters": [
+      "第15章",
+      "付録B"
+    ],
+    "sources": [
+      "R43"
+    ],
+    "limit": "架空の点数を使う説明例で 現実の行動の実証ではない",
+    "update_condition": "仮定と計算の整合を保ち 実測データと混ぜない",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "conditional"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C14",
+    "status": "モデル内の結果",
+    "conclusion": "正の重みの加重和の最大化は前提の下でパレート効率を持つ",
+    "chapters": [
+      "第16章",
+      "付録B"
+    ],
+    "sources": [
+      "R06",
+      "R32"
+    ],
+    "limit": "公平さ 妥当な測定 正しい重みは保証しない 形式検証未実施",
+    "update_condition": "証明の前提と反例を維持し 本文で過大な倫理的結論へ広げない",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "conditional"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false,
+    "source_role_note": "R06/R32は社会的選択と価値比較の背景資料。付録Bの加重和の性質そのものの出典として帰属させない。証明は本文の仮定を用いて提示する。"
+  },
+  {
+    "id": "C15",
+    "status": "方法論",
+    "conclusion": "理念の効果を調べるなら問い 対照 結果指標 期間を限定する",
+    "chapters": [
+      "第17章",
+      "付録C"
+    ],
+    "sources": [
+      "R30",
+      "R31",
+      "R37"
+    ],
+    "limit": "未実施の計画を成果にせず 好感 行動 制度を同一視しない",
+    "update_condition": "原著の測定と持続効果と外的妥当性を重点確認する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "conditional"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C16",
+    "status": "経験的な知見",
+    "conclusion": "宇宙論は観測量とモデルを比較する",
+    "chapters": [
+      "第19章"
+    ],
+    "sources": [
+      "R12",
+      "R13",
+      "R42"
+    ],
+    "limit": "宇宙の意志や最終目的を同じ観測で測ったとは言わない",
+    "update_condition": "観測の更新とプレプリントの刊行状況を追う",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "empirical"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C17",
+    "status": "適用範囲",
+    "conclusion": "数学の定理には対象と前提がある",
+    "chapters": [
+      "第20章"
+    ],
+    "sources": [
+      "R14",
+      "R15",
+      "R47"
+    ],
+    "limit": "数学の定理から宇宙の完全性や神の実在を直接決めない",
+    "update_condition": "原著の定式化と現代の標準形の違いを追加確認する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "conditional"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C18",
+    "status": "規範と権利",
+    "conclusion": "知識の共有と個人情報の保護を両立させる",
+    "chapters": [
+      "第21章",
+      "奥付"
+    ],
+    "sources": [
+      "R21",
+      "R48"
+    ],
+    "limit": "CC BY-SAは第三者の権利とプライバシーを消さない",
+    "update_condition": "公開する各版と付属資料を独立に点検する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C19",
+    "status": "未解決",
+    "conclusion": "最終真理も最終目的も完成したとは主張しない",
+    "chapters": [
+      "第19章",
+      "第24章"
+    ],
+    "sources": [
+      "R08",
+      "R36",
+      "R39",
+      "R42"
+    ],
+    "limit": "未知があることは あらゆる可能性の同程度の確からしさを意味しない",
+    "update_condition": "新しい証拠や反論が出た場合に結論の境界を更新する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "unresolved"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  },
+  {
+    "id": "C20",
+    "status": "編集方針",
+    "conclusion": "結論とその根拠と未解決点を一緒に引き継ぐ",
+    "chapters": [
+      "冒頭",
+      "付録A",
+      "付録D"
+    ],
+    "sources": [
+      "R01",
+      "R05",
+      "R11"
+    ],
+    "limit": "著者やAIの性能だけを信頼の根拠にしない",
+    "update_condition": "各版で結論の変更と根拠の増減を記録する",
+    "reviewed": "2026-10-26",
+    "basis_types": [
+      "normative"
+    ],
+    "related_claims": [],
+    "relation_note": "関連する主張への参照。形式的な論理含意・証明依存の認証ではない。",
+    "formal_verification": false
+  }
+]

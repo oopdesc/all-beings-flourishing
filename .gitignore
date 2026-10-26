@@ -1,0 +1,10 @@
+# Never commit private originals or local credentials.
+.DS_Store
+.env
+.env.*
+private/
+checkpoints/
+qa/
+*.pem
+*.key
+__pycache__/

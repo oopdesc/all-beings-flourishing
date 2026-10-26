@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Book claim record",
+  "type": "object",
+  "required": [
+    "id",
+    "basis_types",
+    "conclusion",
+    "sources",
+    "limit",
+    "update_condition",
+    "formal_verification"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^C[0-9]{2}$"
+    },
+    "basis_types": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "enum": [
+          "empirical",
+          "conditional",
+          "normative",
+          "unresolved"
+        ]
+      }
+    },
+    "conclusion": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sources": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^R[0-9]{2}$"
+      }
+    },
+    "limit": {
+      "type": "string",
+      "minLength": 1
+    },
+    "update_condition": {
+      "type": "string",
+      "minLength": 1
+    },
+    "formal_verification": {
+      "type": "boolean"
+    }
+  }
+}

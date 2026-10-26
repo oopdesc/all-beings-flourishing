@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Book reference record",
+  "type": "object",
+  "required": [
+    "id",
+    "number",
+    "title",
+    "kind",
+    "url",
+    "accessed",
+    "reading_scope",
+    "metadata_checked",
+    "independent_empirical_reanalysis"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^R[0-9]{2}$"
+    },
+    "number": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "kind": {
+      "type": "string",
+      "minLength": 1
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "reading_scope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "metadata_checked": {
+      "type": "boolean"
+    },
+    "independent_empirical_reanalysis": {
+      "type": "boolean"
+    }
+  }
+}

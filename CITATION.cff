@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "再利用する際は著者・書名・版・出典とライセンスを表示してください。"
+type: dataset
+title: "すべての存在の幸福を考える：知性と協力と自己超越の哲学"
+authors:
+  - family-names: "oopdesc"
+version: "1.0.0"
+date-released: "2026-10-26"
+license: CC-BY-SA-4.0
+url: "https://github.com/oopdesc/all-beings-flourishing"
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "oopdesc"
+  title: "すべての存在の幸福を考える：知性と協力と自己超越の哲学"
+  year: 2026
+  edition: "第一版"
+  url: "https://github.com/oopdesc/all-beings-flourishing"

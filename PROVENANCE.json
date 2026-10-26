@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "work_id": "urn:uuid:88111439-367a-43e2-8418-018a6345e289",
+  "original_author": "oopdesc",
+  "title": "すべての存在の幸福を考える",
+  "version": "v1.0.0",
+  "date": "2026-10-26",
+  "original_url": "https://github.com/oopdesc/all-beings-flourishing",
+  "license": "CC-BY-SA-4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "copyright_notice": "© 2026 oopdesc",
+  "attribution_notice": "NOTICE.md",
+  "citation_file": "CITATION.cff",
+  "contributors_file": "CONTRIBUTORS.json",
+  "changes_file": "CHANGELOG.md",
+  "integrity_file": "editions/v1.0.0/SHA256SUMS.txt",
+  "relations": [],
+  "registered_doi": null,
+  "derivative_guidance": "For a derivative: retain the original author and license notices, prior changes, add a relation IsDerivedFrom to the source URL and version, and identify new contributors. A new original edition may use IsNewVersionOf. Relation labels are inspired by DataCite documentation; this file is not a DataCite registration or metadata validation.",
+  "guarantees": "No guarantee of tamper prevention, complete attribution, scientific truth or continuing hosting."
+}

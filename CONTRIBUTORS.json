@@ -1,0 +1,27 @@
+{
+  "people": [
+    {
+      "name": "oopdesc",
+      "roles": [
+        "Conceptualization",
+        "Resources",
+        "Project administration"
+      ],
+      "description": "Core aims, philosophical source material, public pen name and publication policy. No academic credential asserted."
+    }
+  ],
+  "tools": [
+    {
+      "name": "AI",
+      "uses": [
+        "Literature search assistance",
+        "Draft generation",
+        "Editing",
+        "Software",
+        "Visualization"
+      ],
+      "description": "A production disclosure, not a person or legal author."
+    }
+  ],
+  "future_contributions": "Add agreed public pseudonym, actual contribution and affected version; use CRediT roles as a descriptive aid, not a test of authorship or scientific validity."
+}
