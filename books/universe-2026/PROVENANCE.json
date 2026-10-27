@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "work_id": "urn:uuid:a91479a1-c179-4bc6-8a48-7b1c7c562326",
+  "author": "oopdesc",
+  "title": "宇宙をどこまで知れるのか",
+  "version": "1.0.0",
+  "date": "2026-10-27",
+  "url": "https://github.com/oopdesc/all-beings-flourishing/tree/main/books/universe-2026",
+  "license": "CC-BY-SA-4.0",
+  "japanese_epub_sha256": "cc6b0991a2bf5a2d69b2f00151e58f54baa097832aa64184f96cf35a64130f19",
+  "translations": [
+    {
+      "language": "en",
+      "path": "en",
+      "source_language": "ja",
+      "source_version": "1.0.0",
+      "method": "AI-generated translation checked for chapter, heading, citation, and internal-link correspondence; no independent human language review",
+      "epub_sha256": "b8c4f82376cdcabe6d63a329867284b93b263764d07fdba5853d726c4ea56474"
+    },
+    {
+      "language": "zh-Hant",
+      "path": "zh-Hant",
+      "source_language": "ja",
+      "source_version": "1.0.0",
+      "method": "AI-generated translation checked for chapter, heading, citation, and internal-link correspondence; no independent human language review",
+      "epub_sha256": "ac51d3b3426193239438fc4a986cc16f408e821c980a2957287378e275b67c09"
+    }
+  ],
+  "browser_reading": "Navigation and citation backlinks added; Japanese source text retained. See ERRATA.md for original EPUB DOI link issues."
+}

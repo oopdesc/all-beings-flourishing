@@ -1,0 +1,1993 @@
+How Much Can We Know About the Universe?
+
+Tracing Fundamental Questions Through Science and Mathematics
+
+Author：oopdesc
+
+First English edition · October 27, 2026
+
+Introduction: The Conclusions First
+
+We cannot yet close the question of the universe’s essence with a single answer. That does not mean we know nothing. By reading light arriving from far away, measuring atoms, and investigating the brain, we have learned to distinguish explanations we once could not tell apart. The effort to understand the universe has already brought us this far.
+
+What matters most to me in this book is not the grandeur of an answer, but where it meets the world. Which observations led to this conclusion? What would be different under another explanation? What can we then say about consciousness or the meaning of a life? Following these connections brings even immense questions a little closer.
+
+Philosophy opens questions that do not yet have a definite shape. Mathematics examines what follows from stated assumptions. Science compares explanations with measurement and experiment. Rather than set the three against one another, I want to draw on each in pursuing truth. In the later chapters, we follow probability, conservation laws, and causation through small calculations.
+
+Here is the outline of the book.
+
+Seven Things We Can Say Now
+
+First, our knowledge of cosmic history is not an improvised story. We compare light spectra, the cosmic microwave background, and the distribution of astronomical objects through physical models. Yet a model-based estimate of the universe’s age differs from asking why anything exists at all. Chapter 2 explores this distinction.
+
+Second, major components of the universe remain unidentified. Dark matter and dark energy are also names for places where an explanation is needed. Naming them does not solve them; it narrows what must be explained. Chapter 3 and Chapter 4 include new results from 2026.
+
+Third, quantum theory has experimentally challenged our everyday picture of the world. It has not proved that consciousness makes the universe obey our wishes, or that distant people share a single mind. Chapter 6 separates experimental constraints from interpretation.
+
+Fourth, genuinely deep problems remain where gravity meets quantum theory. Observations of black holes, calculations about information, and proposals for experiments are different kinds of evidence. Drawing in part on papers published in October 2026, Chapter 7 and Chapter 8 examine their assumptions.
+
+Fifth, explanations of consciousness are gradually being tested. Whether indicators developed for brains can measure subjective experience when transferred to AI remains unresolved. Chapter 10 and Chapter 11 distinguish intelligence, fluent conversation, and consciousness.
+
+Sixth, laws describing the universe do not automatically supply the purposes we ought to uphold. I want to reduce avoidable severe suffering and widen people’s room to choose how to live. In Chapter 13, I present that wish as a proposal whose reasons we can discuss, rather than as a command from the universe.
+
+Seventh, approaching fundamental questions requires preserving not only conclusions but also the conditions under which they would change. This does not mean settling for weak answers. It means identifying the steps we can responsibly take. Chapter 14 and the chapters that follow develop practical ways to do this.
+
+Figure 1. Developing questions by moving between observation, mathematics, and philosophy. Facts alone do not automatically determine value judgments.
+
+What I Mean by “Essence”
+
+In this book, essence is not a magical word that explains everything. I use it for the question of what is preserved when explanations at different scales are connected, and where new assumptions become necessary. This is my approach to inquiry, not a definition of essence proved by physics.
+
+The behavior of atoms, changes in temperature, and an organism’s experience of cold are not unrelated. But would writing equations for atoms automatically complete an explanation of feeling cold? If we could explain that experience, would an obligation to help a person suffering from cold follow from the same equations? Connection and completed explanation are different things.
+
+We can retain those connections while noticing where bridges have yet to be built. That is where this book begins its pursuit of the universe’s essence.
+
+Where This Question Began
+
+In my previous book, *Considering the Happiness of All Beings*, I explored a philosophy of refusing to push anyone’s experience beyond the bounds of concern.[39] Its origin lay in my own long suffering, and in the time I spent continuing to ask how the world might be better understood.
+
+Keeping that purpose in mind, I now turn the questions outward. What is the universe like? Why do we, as parts of it, have experiences? What could greater understanding enable us to change? I do not offer my wishes as evidence that I am right. I want to bring the questions those wishes inspired closer to forms that others can examine.
+
+This book consists of reflections comparing existing research and philosophical proposals of my own. It is neither a report of observing a new astronomical object nor a paper proving a final theory of the universe. I do not claim to have performed independent experiments or comprehensively reanalyzed the raw data. For that reason, I distinguish what a study shows from what I think about it.
+
+Reading and Sharing
+
+To begin with cosmology, turn to Chapter 2; for consciousness and AI, begin with Chapter 10. If you are uncertain about interpreting numbers, you may prefer to read Chapter 12 first. Each chapter links back to the conclusions and contents. Numbered citations lead to the references.
+
+The original text and editorial work are shared under CC BY-SA 4.0 to the extent of rights held by the author, oopdesc. Commercial use and adaptation are permitted. Identify the author, title, edition, source, and changes; share adaptations under the same terms.[40] This permission does not extend to rights in third-party papers or figures. See the colophon for details.
+
+I would be glad if these questions could continue to grow beyond my hands while their origin remains recorded alongside my name.
+
+
+Chapter 1. What Are We Looking for When We Seek Truth?
+
+Wanting to know the universe’s essence contains several different desires. We want to know how the world works, why such a world exists, and what we should value within it. Each matters deeply, but one answer need not satisfy all three.
+
+Making this distinction first is not an attempt to fragment the questions. It helps us avoid mistaking an explanation of something else for the answer we sought.
+
+Description, Reasons, and Values
+
+Tilt a glass and water spills. Calculating its flow describes what happens. Asking why the governing law holds seeks a more basic explanation. Deciding who should clean up the water or how to protect someone from slipping raises questions about action and value.
+
+The distinction remains when our subject becomes the whole world. Finding a model that explains cosmic expansion well does not, by itself, determine why the universe exists or who ought to be happy. Conversely, a philosophy that values happiness cannot by itself predict the expansion rate.
+
+The same word can conceal the boundary. Does a “meaningful universe” mean a universe with an explainable structure, one intended by someone, or one in which we can find value? Clarifying the intended meaning changes the evidence required.
+
+Is Observation a Copy of the World?
+
+A telescope does not deliver an answer containing the universe in its entirety. It delivers signals recorded by a detector, shaped by the instrument’s properties. Through calibration and analysis, we estimate brightness, position, distance, and other quantities.
+
+Theory enters this process, but that does not make every observation a fabrication. Looking through glasses differs from seeing nothing. What matters is investigating the glasses and checking the same object through different ones.
+
+A conclusion has more reasons to withstand scrutiny when methods with different sources of error also support it. Yet two papers using the same data need not amount to two fully independent confirmations. This caution will recur in both cosmology and AI research.
+
+Two Ideas That Explain the Same Results
+
+Consider a simple calculation. Suppose the observed values are 0, 1, and 2 when x is 0, 1, and 2. One rule says that y equals x. Another adds to x the product of x, x minus 1, and x minus 2.
+
+In symbols, the rules are y = x and y = x + x(x − 1)(x − 2). They agree at all three observed points. At x = 3, however, the first gives 3 and the second 9. Agreement with three points cannot distinguish them.
+
+This is a mathematical example constructed for explanation, not actual cosmological data. It illustrates the difference between fitting past results and correctly predicting results not yet seen. Complexity does not make any explanation acceptable, nor does brevity guarantee truth. Predictions under new conditions open a route to comparison.
+
+Before Reducing Everything to One Essence
+
+“Everything is information,” “everything is consciousness,” and “everything is vibration” can feel unifying. But if the word merely applies to stones, pain, and stars alike, it has not yet acquired the power to distinguish what will happen.
+
+For example, “everything is information” requires specifying what counts as information, which states are distinguished, and in which physical system it is realized. Information measured through code length does not mean the same thing as news that matters to someone.
+
+I do not want to abandon the hope of unified understanding. Before gathering everything into one word, however, I want to check whether apparently separate explanations really connect. Relating water temperature to molecular motion requires saying what is averaged, what is discarded, and where the account applies. That is stronger than a resemblance between words.
+
+What Is Lost When We Make Questions Smaller?
+
+Might reducing inquiry to small, measurable questions drain life of its urgency? There is reason for that concern. What is easy to measure is not necessarily what matters. Reducing pain to one number can omit the circumstances that make it painful.
+
+Rather than discard questions we cannot measure, we can continue two tasks: preserve the large question and develop concrete comparisons within it. We may ask whether the universe has a purpose while studying how it has changed. We respect the scope of the resulting answer, then return to what remains.
+
+This movement is the form of inquiry I hope to pursue here. We need neither wait to understand everything before beginning nor mistake a small understanding for the whole answer. We can improve our questions as understanding grows. Let us begin by reading the universe’s light.
+
+
+Chapter 2. Reading Cosmic History in Light
+
+We can learn about the universe’s past because light takes time to arrive. Looking at a distant object means receiving a message from its past. Yet “farther means older” does not, on its own, let us read cosmic history directly. The universe itself has changed in size while that light traveled.
+
+What Stretched Wavelengths Tell Us
+
+Elements emit and absorb light at characteristic wavelengths. When the pattern from a distant object is shifted overall toward longer wavelengths, we can measure that shift. In the standard description of large-scale cosmic expansion, this redshift is related to the change in the scale of space between emission and the present.
+
+Redshift alone does not uniquely determine distance or age. An object’s own motion and gravitational effects also contribute, and estimating very large distances requires a model of expansion history. Separating the observed wavelength ratio from model-derived distance helps avoid confusion later.
+
+This also matters for the picture of stars all fleeing from us. Cosmic expansion is not simply an explosion at the center of preexisting space, throwing matter into an outer void. It describes a change in the scale of space used to express distances between objects on large scales.
+
+Light Remaining from the Early Universe
+
+The cosmic microwave background is an important clue to the early universe. It brings information from after light became able to travel freely over great distances, following an earlier hot period of strong interaction between matter and light. It is almost uniform across the sky but contains small variations, related to early fluctuations and to the universe’s subsequent composition.
+
+Planck’s cosmological parameter analysis described the microwave background and other data precisely within a flat ΛCDM model with six base parameters. In that reference model, the estimated age of the universe is about 13.8 billion years. This is not a clock read continuously since the beginning; it is an estimate obtained by comparing observations with a model.[1]
+
+That does not make the age estimate unimportant. Stating its assumptions gives the number a more precise meaning rather than weakening it. If the model later needs revision, we can identify what should change.
+
+Inferring Accelerated Expansion
+
+Research using distant supernovae in 1998 was an important starting point for understanding that cosmic expansion is accelerating. Observed brightness and redshift were compared with models of expansion. This was not a direct observation of dark energy’s identity.[2]
+
+Here the strengths and difficulties of cosmology come together. We cannot recreate the entire universe in a laboratory. We can nevertheless investigate objects at different distances and epochs, asking whether multiple observations support the same history. We must also examine conditions beyond the instrument itself: how brightness is treated, dust, and how samples are selected.
+
+The actual work of science lies between “it depends on theory, so it cannot be trusted” and “the number is precise, so it is settled.” It involves looking for kinds of error, not merely reducing error bars.
+
+What We Can See and What Exists
+
+The “observable universe” concerns the region from which information can reach us. It does not mean that we have found a wall marking the boundary of everything that exists. Nor does it mean every speculation about what lies outside our present view is equally well established.
+
+The sea visible from shore need not end where our sight ends. But this metaphor cannot tell us which islands lie beyond it. For the universe, there may be fundamental limits on obtaining information at all, demanding even greater care than the seaside comparison suggests.
+
+In seeking the universe’s essence, I do not want to turn invisibility into a license for certainty. Models of unobservable regions may still be compared if they have consequences in observable regions. Without such consequences, they cannot be checked by the same methods, at least.
+
+When Components Remain Unidentified
+
+In ΛCDM, Λ denotes the cosmological constant and CDM cold dark matter. The name might sound like a finished inventory of substances whose identities are known. Yet successfully playing a role in explaining observations differs from knowing the entity or mechanism responsible.
+
+This is not simply a story of cosmology failing. A structure whose predictions fit well can contain ingredients still unidentified. The next two chapters follow research carrying both facts together. Rather than choose between believing and doubting the invisible, we will ask what is unseen and what can nevertheless be measured.
+
+
+Chapter 3. How Can We Test for Invisible Matter?
+
+Dark matter is not permission to introduce any invisible thing we like. The question is how far a single explanation can account for observed motion, the bending of light, and other phenomena. A central clue has been the mismatch between mass distributions inferred through gravity and the distribution of luminous matter.
+
+Explaining Several Observations Together
+
+Studying a galaxy’s rotation and studying the bending of light around a galaxy cluster do not measure the same quantity with the same instrument. Constraints from the microwave background and large-scale structure add further requirements. A good explanation must address these different conditions, not just one striking phenomenon.
+
+For the colliding clusters known as the Bullet Cluster, Clowe and colleagues reported an offset between hot gas traced by X-rays and the mass distribution inferred through gravitational lensing. This is strong evidence that the position of gas containing much of the ordinary matter cannot by itself explain the distribution of gravity. It does not, however, identify a particular dark matter particle.[3]
+
+Distinguishing evidence for something from a complete explanation of that thing clarifies where research stands. Multiple lines of support for an unseen mass component can coexist with uncertainty about its particle identity and its interactions with ordinary matter. Those require further observations.
+
+Waiting Underground
+
+If candidate dark matter particles occasionally interact with ordinary matter, we might detect their traces on Earth. Experiments therefore suppress backgrounds such as cosmic rays and use well-characterized detectors to search for candidate reactions.
+
+A null result also carries information. It does not rule out all dark matter. For assumed combinations of particle mass and interaction strength, it narrows the region where the experiment should have seen a signal. Knowing where we have searched changes where we should look next.
+
+Conversely, a single rare event does not establish discovery. Backgrounds from ordinary physical processes remain: the instrument, radioactive material, accidental coincidences, and more. In a search for something new, understanding the background is as important as the possible discovery itself.
+
+One Event Reported in 2026
+
+In September 2026, the LZ collaboration reported a search extending to higher recoil energies. An analysis with 2.84 tonne-years of exposure contained one event consistent with a nuclear recoil of approximately 248 keV. The paper gives a global significance of 2.6σ after accounting for the breadth of the search. This must not be confused with the maximum local significance of 3.4σ.[4]
+
+This is not a confirmed discovery of dark matter. The paper considers rare background possibilities. The event occurred in data collected in 2023, whereas the analysis was published in 2026. A report’s publication date and an event’s date must be read separately.[4]
+
+What can we take from this? Searching a previously less explored range can produce new events to investigate. Yet after the excitement of seeing something rare, the task of distinguishing causes remains. Novelty is a reason to continue research, not a substitute for evidence that settles an answer.
+
+Significance Is Not the Probability of an Identity
+
+We cannot translate 2.6σ into “more than a 99 percent probability that this is dark matter.” The test assesses how unusual the data are under a specified background model. It does not directly measure the probability of the dark matter hypothesis after comparing every candidate explanation.
+
+If the background model misses a process, its assessment of rarity can change. Searching many locations or candidates also increases the opportunities to find something unusual somewhere. We therefore need an assessment covering the search range and subsequent independent confirmation. Chapter 12 explores this interpretation through a fictional numerical example.
+
+Two Routes Toward Understanding
+
+There are at least two routes in dark matter research: explaining gravitational behavior in astronomical systems and the universe as a whole, and detecting candidate-particle reactions experimentally and measuring their properties. Future work must compare whether answers from these routes refer to the same thing.
+
+Modifying gravity should not be rejected merely as unconventional. But such proposals must explain the many phenomena covered by existing accounts. Resolving one dissatisfaction does not complete the comparison, and this chapter cannot assess every alternative.
+
+We need not rush toward either “it is invisible, so anything goes” or “it is invisible, so it does not exist.” If something unseen exists, what traces should its relation to visible things leave? This question will also help when we turn to consciousness. Its usefulness in both contexts does not imply that dark matter and consciousness share a mechanism.
+
+
+Chapter 4. Is Cosmic Acceleration Changing?
+
+Two questions help clarify dark energy. What components or gravitational behavior must we assume to explain cosmic expansion? And do those components or behaviors change over time? Research in 2026 examines the second question more closely than before, but change has not been established.
+
+A Ruler for Expansion History
+
+Interactions between matter and light in the early universe left traces of waves. Those traces survive in later distributions of astronomical objects. Baryon acoustic oscillations, or BAO, provide a way to compare distance scales at different epochs.
+
+This is not a ruler held against the sky to read off centimeters. Distributions in angle and redshift constrain combinations of distance and expansion rate. The constraints depend on how the ruler’s reference length is treated and how other observations are combined.
+
+Light from distant quasars carries fine patterns of absorption by intervening hydrogen. Collecting many such spectra and studying their correlations gives information about the geometry of the early-to-intermediate universe. We see not merely photographs of small points of light, but cosmic structure inscribed along light’s path.
+
+New DESI Measurements
+
+A 2026 DESI paper uses correlations in the absorption known as the Lyman-alpha forest to constrain geometry precisely at an effective redshift of 2.33. In a two-parameter model of evolving dark energy, it reports a 2.7σ preference when DESI is combined with the microwave background, and 3.2σ when supernovae are also included.[5]
+
+This does not establish that the cosmological constant is wrong. The paper also explains that the new high-redshift measurement itself agrees well with the reference Planck ΛCDM model; preference for evolution arises in fits combining measurements from other epochs. Saying every new measurement pushes in the same direction would misrepresent the result.[5]
+
+These distinctions may seem small. Yet there is a difference between announcing that our understanding of the universe has changed and explaining which account fits a little better under which conditions. The latter lets others carry the research forward.
+
+The Strengths and Limits of Specifying a Shape
+
+To investigate change, we must represent how something changes. Excessive freedom cannot be constrained by limited data. But imposing an overly simple form risks finding the best answer within that form when reality changes differently.
+
+Wang and Freese represent dark energy density or its equation of state at selected redshifts and interpolate between them. They report results consistent with a cosmological constant and discuss how the assessed significance of evolution depends on the representation. Submitted and revised in 2025, the work appeared in JCAP in 2026.[6]
+
+“Model-independent” in the title does not mean assumption-free. Flatness, selected observations, interpolation, and prior conditions remain. This analysis also excludes supernovae. Its numbers cannot be placed beside different DESI combinations and counted as simple votes for or against.[6]
+
+Rather than immediately declare a winner, I take this as a reason to locate the differences. Which observations are shared? Which information is newly added? What kinds of evolution are allowed? Without aligning these conditions, we cannot understand what disagreement between papers means.
+
+DESI itself also tests more than one two-variable formula. Extended analyses compare binned representations and Gaussian-process methods.[47] It is therefore premature to dismiss hints of evolution as merely an illusion caused by choosing one formula. We need to examine how far comparisons across representations have already gone and how their datasets differ.
+
+Adding Observations and Correcting Calibration
+
+Even with the same supernovae, changes to photometric standards or models relating color and distance can change distance estimates. The 2026 DES-Dovekie reanalysis updated cross-calibration and error treatment. Support for evolution weakened relative to the earlier analysis; the adopted combination produced a weak Bayes factor of about five to one.[41]
+
+This is not simply a case of newly found objects outnumbering old results. It reflects changes in the process connecting observations to distances. No instrument provides a direct, unmediated route from a measured number to a property of the world. Better calibration also advances understanding.
+
+A 2026 preprint by Watkins and colleagues focuses instead on systematic offsets between nearby and distant supernovae and examines consistency with the standard model.[43] It is an unreviewed analysis involving small-sample comparisons, not a resolution of every problem. The degeneracy between distance normalization and the Hubble constant also matters. A normalization from a supernova fit cannot simply be compared with an independent absolute measurement of that constant.
+
+Three Sigma and Inconclusive Evidence
+
+A 2026 analysis by Lozano Torres reports both improved fits for evolving models and inconclusive Bayesian model comparisons using combinations that include updated supernova data.[42] These answer different questions: how much the best-fitting parameters improve a fit, and how strongly a model is supported after considering its entire prior-allowed range, are not the same quantity.
+
+The Bayesian comparison also depends on the chosen priors and the evidence estimate under them. We cannot line up sigma values from papers using different datasets and choose the largest. Chapter 12 uses a simple calculation to show why model comparisons can change even when the best fit stays the same.
+
+Figure 2. Steps from observation to conclusion. Better fit and comparison of whole models answer different questions.
+
+Another Route Through Gravitational Lensing
+
+The Hubble constant expresses the present expansion rate. Values inferred by fitting early-universe observations to a reference model differ from those obtained from comparatively recent cosmic observations. This discrepancy is called the Hubble tension.
+
+An October 2026 TDCOSMO preprint uses time delays between images of quasars produced by 11 gravitational lenses, among other information. Its reference analysis assumes flat ΛCDM and a matter-density condition derived from supernova data. It reports 71.1, with upper and lower uncertainties of 2.4 and 2.3 kilometers per second per megaparsec.[7]
+
+This does not simply reuse the local distance ladder. But it is also inaccurate to call it independent of all other observations. Explicitly stating the external conditions in the reference result matters. A related discussion paper compares combinations excluding other measurements and concludes that lensing alone still needs greater precision to adjudicate the tension.[8]
+
+These are measurement and discussion papers from the same research, not two independent discoveries. Paper counts should not automatically become evidence counts.
+
+The Frontier Is Not a Shelf of Finished Answers
+
+These studies do not show mere stagnation in which nothing can be decided. More observations are compared, sources of error are treated more closely, and model flexibility is examined. We see more precisely where an explanation is supported and what could change that support.
+
+Yet a 2026 date alone does not make a paper more trustworthy than all earlier research. Adding observations, reanalyzing the same observations, and proposing an untested method serve different roles. The frontier is also a place where unfinished scrutiny is made public, not a shelf of settled answers arranged newest first.
+
+Identifying dark energy matters for the universe’s future. Extrapolating constraints from a limited span of cosmic history into the distant future, however, requires accepting the assumptions of that extrapolation. Many bridges remain between a hint of change and a definite account of the universe’s end.
+
+
+Chapter 5. Asking About Time’s Beginning
+
+Knowing cosmic history differs from knowing the beginning of time itself. If a currently successful theory becomes difficult to use when extended into the past, that point need not be the absolute beginning of existence. It may mark the limit of the theory’s applicability.
+
+Time Measured and Time Experienced
+
+In daily life, time feels like a uniformly flowing background. But time measured by physical clocks must be distinguished from experienced duration. Ten boring minutes feel different from ten engrossing minutes; that alone does not change a clock’s physical laws.
+
+Relativity asks how to compare clocks under different motion and gravitational conditions. A single present shared by every place cannot simply be assumed as everyday intuition suggests. Yet leaping from this to “time does not exist” loses the theory’s actual description of measurable relations between clocks.
+
+A picture of the world can differ from intuition without describing nothing. Even in considering the philosophy of time, we should retain what is being measured.
+
+How Far Clock Comparisons Have Come
+
+Research by Arnold and colleagues published in September 2026 compared two lutetium-ion optical frequency references. Individual systems had evaluated systematic uncertainties around 10⁻¹⁹, while the actual comparison remained more limited by statistics, reaching about 5.7 × 10⁻¹⁹ after roughly 200 hours of averaging.[59] Evaluated performance and demonstrated comparison precision are reported separately.
+
+Another 2026 study linked seven optical clocks in four European countries by optical fiber. It compared two independently developed ytterbium-ion clocks at an uncertainty of 7.7 × 10⁻¹⁸.[60] Improving performance within one laboratory and comparing clocks across institutions support one another.
+
+This does not settle every philosophical question about time’s nature. It does show how some language about time can develop into concrete comparison.
+
+At this precision, ordinary height differences matter. In a weak gravitational field, for a sufficiently small height difference h and with motion and other effects treated separately, the higher clock’s fractional rate difference is approximately gh/c². With g = 9.8 meters per second squared and h = 1 centimeter, this is about 1.09 × 10⁻¹⁸. This substitutes numbers into a relativistic approximation; it is not a claim that the studies above newly measured that particular height difference.
+
+As measurements become more precise, conditions previously hidden within clock error become visible. Correcting for them requires a gravitational model and height information. Better clocks therefore demand a more detailed account of the world being measured.
+
+Why Does the Past Leave Records?
+
+Seeing a broken glass, we infer that it was once whole. We do not ordinarily see fragments spontaneously assembling into a glass. Thermodynamics and statistical mechanics investigate this asymmetry.
+
+Entropy is not merely a vague word for untidiness. Statistical mechanics specifies a coarse description of states and considers how many microscopic states correspond to it. Lebowitz discusses how initial conditions and statistical explanations connect microscopic laws to the macroscopic direction of time.[10]
+
+“Coarse” does not mean careless. It means using quantities such as temperature and pressure rather than recording every molecule’s exact position and motion. This omission makes useful laws possible, but we must remain aware of what was omitted.
+
+Is Growing Order a Contradiction?
+
+Stars form, life grows, and books are written: local structures become richer. This may seem to contradict increasing entropy. Misunderstanding arises, however, if we isolate a region and ignore its exchanges of heat and matter with its surroundings.
+
+A refrigerator cools its interior by consuming electricity and releasing heat outside. We too receive energy and release heat while functioning. Local order and the thermodynamic balance including the surroundings must be considered together.
+
+Civilization need not be pictured as progressing against cosmic law. Nor does the growth of order establish that the whole universe is moving toward happiness. Counting physical states differs from judging changes desirable for someone.
+
+What Does an Incomplete Past Mean?
+
+The Borde–Guth–Vilenkin theorem shows past incompleteness under conditions on average expansion along certain paths. Its conclusion is that physics beyond inflation is needed to describe the past boundary of an inflating region.[9]
+
+It is not a proof that the universe was created from absolute nothingness. The paths and conditions matter, and the theorem does not fill in everything beyond the incomplete description. A mathematical result retains its strength when its scope is respected.
+
+The intuition that an infinite past would require an infinite time to reach the present is not by itself a proof either. Integers extending without bound in the negative direction still include zero. This does not claim that physical time is an integer sequence; it shows only that absence of a first point does not logically entail absence of a present point.
+
+The Difficulty of “Nothing”
+
+A physical vacuum is not the same as complete philosophical nothingness. A framework of fields, laws, and states is already assumed. Considering a state without particles or with quantum fluctuations differs from asking how existence could arise without laws or possibilities at all.
+
+Hartle and Hawking’s no-boundary proposal concerns how to specify the universe’s quantum state. Such theories merit investigation, but their names alone do not solve why anything exists.[35]
+
+In some theories, asking “before the beginning” may itself be inappropriate. Then we need not merely dismiss the question, but explain which concept of time ceases to apply and what replaces it. Where everyday language no longer works, new language and mathematics are needed.
+
+Time’s mystery does not make our lived time meaningless. Even without knowing the universe’s ultimate beginning, we can correct records of the past and alter choices for the future. We can preserve both physics’ large questions and the weight of today’s experience.
+
+
+Chapter 6. What Did Quantum Theory Change?
+
+I do not want to diminish quantum theory’s strangeness. Intuitions developed for everyday objects do not always apply, and precise experiments have repeatedly tested that fact. Strangeness does not permit arbitrary explanations, however. Learning which explanations survive and which become difficult is far more interesting.
+
+Is Superposition Merely Ignorance?
+
+Suppose a coin inside a box is heads or tails, but I do not know which until opening it. That describes my ignorance. Treating quantum superposition as exactly the same misses phenomena such as interference.
+
+Combining amplitudes corresponding to different possibilities and deriving probabilities from them produces patterns unlike simple addition of classical probabilities. We can distinguish interpretations of why these rules hold from measurements of the patterns they predict. Successful predictions do not automatically choose every aspect of an interpretation.
+
+Nor does this establish that nothing exists when we are not looking. Arguments depend on what “exists” means and what a quantum state describes. The mathematics of observation and a picture of the world before observation should not be collapsed into one sentence.
+
+What Bell’s Inequality Asked
+
+Strong correlations between separated systems are not surprising by themselves. Separate a pair of gloves from one bag and inspecting one tells us about the other. Entanglement matters because correlations across several choices of measurement can exceed constraints satisfied by certain local hidden-variable explanations.
+
+Bell’s 1964 paper made that constraint explicit.[11] In 2015, Hensen and colleagues used electron spins separated by 1.3 kilometers and reported a violation with a design closing the major loopholes simultaneously.[12] What is excluded is an explanation satisfying the theorem’s and experiment’s conditions together—not reality or causation in every possible sense.
+
+The CHSH form can be seen through brief mathematics. Combining four correlations between measurements at two sites gives an absolute value no greater than 2 under suitable conditions for a local account. Certain quantum settings predict 2√2, and experiments can investigate the difference.[61] Mathematical Note H traces the assumptions through to the inequality.
+
+Entanglement does not let us send a freely chosen message faster than light. Comparing records to reveal correlations differs from reading the other side’s choice using only local records. Deep correlation and freely controllable communication must be separated.
+
+What a 2026 Experiment Extended
+
+Kulikov and colleagues reported an experiment producing better randomness from an imperfect random source under physical conditions. The method uses Bell tests, but not needing unconditional trust in the apparatus differs from having no assumptions. Conditions remain on separation between measurement sites and on the initial source of randomness.[13]
+
+This cannot be read as proof of human free will or cosmic purpose. Measurement unpredictability, cryptographically useful randomness, and philosophical freedom have different definitions. It can be read as a concrete demonstration connecting quantum features to a useful function.
+
+Scientific surprise is not only the feeling that anything has become possible. It is also discovering which conditions make something possible that was previously beyond reach.
+
+Does an Observer Need Human Consciousness?
+
+The word “observer” can suggest a person noticing something. Experimental descriptions, however, concern interactions with measuring apparatus and processes that leave records. Experiments have not established that the instant a person looks at a screen must be a special physical process.
+
+Zurek’s review of decoherence discusses how interaction with the environment suppresses observable interference in particular descriptions and leads to classical behavior.[14] This is important explanatory progress, but not a unique answer accepted by every position to every aspect of the measurement problem, including why one outcome is experienced.
+
+Introducing mental magic because people are involved, or dismissing subjectivity because physical mechanisms are better understood, both seem premature. The relationship between producing a physical record and experiencing that record remains open to inquiry.
+
+What Differs Between Interpretations?
+
+A framework that explains the same experiments can accompany different pictures of the world. Comparing them requires asking under what conditions predictions differ. Where predictions agree, experiments may not immediately choose between them.
+
+This does not mean all interpretations or additional theories are forever equivalent. Some hypotheses modifying ordinary quantum theory predict different results. Each proposal must be examined to distinguish testable differences from different meanings assigned to the same results.
+
+Our bodies’ matter means we are not separate from the quantum world. It does not follow that thought alone selects events or that every subject is a single subject. Acknowledging an interconnected world should not require skipping necessary arguments.
+
+
+Chapter 7. At the Boundary Between Gravity and Quantum Theory
+
+General relativity and quantum theory each explain many phenomena. Deep questions remain about where and how to use them together. Two great theories do not require us to declare both wrong. We need to know where they apply and where their explanations must be reconnected.
+
+Investigating Strong Gravity
+
+When black holes merge, changes in spacetime propagate as gravitational waves. Signals allow estimates of mass and spin before and after merger, which can be compared with relations predicted by general relativity. This opens a route to strong gravity different from telescope images.
+
+Research on GW250114 uses an unusually clear signal to examine area changes during merger and consistency with rotating-black-hole descriptions.[18] Another analysis studies components of the decaying post-merger oscillations to test Kerr black hole predictions.[19] These address different questions using the same event; they are not observations of many independent mergers.
+
+They support predictions of general relativity within the tested range. They neither reveal the inside of a singularity nor select gravity’s final theory. Searching for theoretical limits can also confirm more precisely where a theory works well.
+
+Area Laws and Evaporation Are Different
+
+Testing a black hole area law is not the same as observing Hawking radiation. The former compares horizon-area relations during merger with quantities inferred from gravitational waves and related measurements. The latter concerns radiation predicted through reasoning involving quantum fields.
+
+Even when both are associated with a famous researcher’s name, we must follow which quantity was checked and by which method. Otherwise, an important observation can be presented as establishing a different phenomenon that remains unseen.
+
+In pursuing the universe’s essence, small shifts of wording matter. Large errors arise not only from baseless sentences but also from extending sound research slightly beyond its meaning.
+
+Proposals to Superpose Small Masses
+
+In 2017, Bose and colleagues and Marletto and Vedral proposed approaching gravity’s quantum character by allowing masses in quantum superpositions of position to interact gravitationally.[15][16] The question is what we could learn if gravity generated entanglement between two systems.
+
+The appeal is to approach a fundamental question through small, controlled laboratory systems rather than only immense accelerators or the earliest universe. A proposal, however, is not an achieved experiment with every necessary control. Nongravitational interactions and environmental effects must also be distinguished.
+
+Even if such entanglement were observed, which theories would it exclude? Research checking the premises of the argument becomes crucial here.
+
+Assumptions Reexamined in October 2026
+
+Di Biagio’s 2026 paper examines whether detecting gravitationally induced entanglement alone can certify a nonclassical gravitational field in a theory-independent way. One issue is that information-theoretic locality in a theorem must not be identified automatically with causal constraints between separated spacetime locations.[17]
+
+The paper argues that accounts involving classical gravitational fields remain relevant, making quantitative comparison of predictions important. The experiment is not rendered meaningless; the conclusions it licenses are narrowed by their premises. The journal publication date is October 19, 2026.[17]
+
+Part of the background is Aziz and Howl’s 2025 theory, which treats quantum fields on classical spacetime and proposes an entangling mechanism.[44] That does not immediately invalidate earlier theorems. We must ask whether this model satisfies their assumptions about state spaces, mediation, and locality.
+
+The model itself also faces criticism. A 2026 preprint by Xue and colleagues examines finite wave packets and kinetic energy, questioning the proposed effect’s interpretation and size.[48] Marletto and colleagues’ response asks whether entanglement arises at all and, if it does, what mediates it.[49] These are theoretical criticisms and responses, not results of a new experiment.
+
+We should therefore distinguish checking logical conditions for certification from checking whether a particular classical model is physically viable. Reading both takes us beyond a simple yes-or-no debate. What signal is predicted under achievable conditions, and how can it be separated from other interactions and noise? Such comparison makes the next experiment concrete.
+
+Pausing between the slogans “entanglement means gravity is quantum” and “gravity need not be quantum” reveals the real issues. Which interactions are allowed? What counts as classical? Which locality is assumed? Where do measured predictions differ? The experiment’s value lies in these concrete comparisons.
+
+Examining the Seams of Explanations
+
+Here I see a method worth carrying into our inquiry. Before declaring a new theory, examine the seams of existing arguments. Do premise words change meaning midway? Is a conclusion about one class of models extended to all models? Is a detected quantity identified with the thing we want to understand?
+
+This book has not newly discovered that method of physics. The studies themselves perform such checks. We can learn to carry their work concretely into other questions.
+
+The universe’s essence need not hide only behind a dramatic sentence. A next question may lie where two good explanations do not quite meet. Finding that difference requires reading both carefully.
+
+
+Chapter 8. Thinking About Spacetime Through Information
+
+Information repeatedly appears in questions about the universe’s essence. What happens to information about things falling into a black hole? Does connected space arise from entanglement? These are compelling questions. Checking what information is counted and within which theory a relation is established preserves their appeal without exaggeration.
+
+Information Is Not the Same as Meaning
+
+Distinguishing a recorded zero from a one differs from knowing what that record means to someone. The same string means different things to a person unable to read it and to someone receiving urgent news. A quantity in information mathematics cannot simply be reinterpreted as a quantity of life’s meaning.
+
+Information is nevertheless related to physical realization. Records require distinguishable physical states. Moving, storing, or erasing records involves changing those states. Information’s importance does not make matter dispensable; it lets us ask about the physics of handling information.
+
+Landauer connected logically irreversible information processing with heat generation.[24] Bérut and colleagues experimentally investigated dissipation during erasure in a controlled microscopic-particle system.[25] It would be wrong to generalize this into “every calculation necessarily releases the same heat.” The erasure operation, temperature, and operating conditions matter.
+
+These studies provide concrete connections between information and physics. They do not show that the universe runs like a human computer or that a programmer exists outside it.
+
+What Changes When One Bit Is Erased?
+
+Consider a classical bit initially recorded with equal probability in two equivalent states. It may begin as zero or one, but after erasure it is always zero. The memory loses the distinction between its previous possibilities. For the standard ideal operation that returns the memory’s structure to its original form, initially uncorrelated with other systems and in contact with a heat bath at temperature T, the average heat released to the environment has the bound
+
+Q ≥ kB T ln 2
+
+kB is Boltzmann’s constant and ln the natural logarithm.[24][25][63] At 300 kelvin, the bound is approximately 2.87 × 10⁻²¹ joules. This ideal-operation calculation does not mean a real computer instruction runs using only that energy.
+
+Why is heat involved? Bringing two memory possibilities into one reduces the memory’s entropy. The overall balance must therefore include changes in apparatus and environment. Mathematical Note I gives the relationship for this restricted case. The meaning the unknown information had is not part of the calculation.
+
+Bringing an Unseen Environment Back into the Experiment
+
+Muruga and colleagues’ paper of October 16, 2026 uses microscopic particles in a viscoelastic liquid to relate information retained in directly unseen environmental degrees of freedom to work extracted through two measurements and feedback. Under restricted operations, it reports results exceeding a bound for an environment treated as retaining no memory of the past.[62]
+
+This is not energy from nothing or a violation of thermodynamics. It restores the surrounding environment’s retained history and available free energy to the explanation. Which limits follow when a model omits something? Which quantities become usable when that omission changes? Here those questions become a concrete experiment.
+
+To me, this is one route toward understanding what is fundamental. Rather than freely assigning properties to the unseen, we ask how records of visible particles can test relations with their environment. The broad word “information” moves inquiry forward when connected to measurement, a model, and an amount of work.
+
+What Is Lost in a Black Hole?
+
+The black hole information problem becomes obscure if pictured only as memories vanishing into a dark hole. It asks how to reconcile principles governing changes in quantum states with calculations of a gravitating system changing as it radiates.
+
+Starting with a pure quantum state, the evolution of the radiation’s fine-grained entropy provides a clue. The familiar Page curve plots the time dependence of such a quantity. It is not a graph of human knowledge directly read from an astronomical black hole.
+
+Penington discussed entropy changes during evaporation and interior reconstruction in particular holographic settings.[22] Almheiri and colleagues showed how calculations including new contributions lead to the island rule in settings such as two-dimensional gravity.[23] These are important theoretical advances, not experiments recovering all apparently lost information from a real astronomical object.
+
+Describing an achievement narrowly and accurately does not belittle it. A concrete calculation has connected principles that long seemed difficult to reconcile. Its value does not require claiming every cosmic mystery is solved.
+
+Correspondence Between Two Descriptions
+
+Maldacena’s AdS/CFT correspondence proposed a deep relationship between particular theories containing gravity and a boundary field theory. Its spacetime and limiting conditions matter.[20] Observations have not established that our universe has those same boundary conditions.
+
+Corresponding descriptions affect how we think about the fundamental. If gravity in one description appears as another structure in the other, surface vocabulary cannot easily decide what is truly basic. Following the same relationships through different descriptions can itself deepen understanding.
+
+But this cannot be extended into an unrestricted metaphor that any two things are really identical. It becomes physics because corresponding quantities, calculations, and conditions can be specified—not because words feel similar.
+
+Can Connections Give Rise to Space?
+
+Van Raamsdonk considers the relationship between entanglement and spacetime connectivity within holography. The question is concrete: how do changes in entanglement correspond to changes in geometrical connectedness?[21]
+
+This points toward understanding space from more basic relations rather than assuming it as a stage. It does not establish empirically, for every universe, that spacetime arises from entanglement. Applying these ideas to our universe requires further work.
+
+Understanding essence may involve more than naming the smallest component. What seems basic in one description might emerge as relationships in another. I value that possibility. Here “might” denotes a research possibility, not an established fact disguised in tentative language.
+
+Before Saying Everything Is Information
+
+A philosophy placing information at the foundation of the universe is conceivable. Assessing its strength requires asking how “information” connects to existing physical quantities. Renaming everything information does not necessarily add explanation.
+
+Conversely, the perspective becomes powerful when concrete treatment of distinguishable physical states, entanglement structures, or erasure yields new relationships or predictions. The research in this chapter explores such restricted but deep connections.
+
+What I take away is not the finished slogan “the universe is information.” It is an approach that refuses to leave space, matter, and information as separate commonplaces, asking which relationships can actually be demonstrated. There remains room for understanding beyond what our present language adequately expresses.
+
+
+Chapter 9. From Small-Scale Laws to a Large-Scale World
+
+Would knowing the universe’s fundamental laws immediately explain life, mind, and society? Knowing the underlying description is at least different from explaining and predicting complex phenomena. From daily life to cosmology, we use language suited to different scales.
+
+More Than One Map
+
+Imagine a map. A pedestrian map helps us walk along streets; it is less suitable for understanding continental drift. Neither is false. The retained information depends on what we want to know.
+
+Similarly, listing every particle’s motion differs from using temperature and pressure. The latter loses detail, but that does not make it unreal or useless. Omitting detail can reveal stable, usable relationships.
+
+Anderson’s “More Is Different” argues that many-element systems possess new properties and levels of explanation that knowing basic laws alone does not supply.[26] This need not mean complex things violate physical laws. Obeying a law differs from having every needed explanation exhausted by its basic equations.
+
+“Emergence” Is Not the End of an Explanation
+
+Emergence describes properties appearing in a whole’s structure and interactions that are hard to capture by examining isolated elements. Merely saying something emerged does not explain its mechanism.
+
+Calling collective cooperation emergent leaves questions: who exchanges information with whom, what restrains betrayal, and where does cooperation break down? Likewise, calling consciousness emergent leaves open which structures or changes relate to subjective experience.
+
+Four questions make the account more concrete: What are the elements? What are their interactions? What quantity is measured for the whole? What changes when conditions change? Gradually answering them turns emergence into a signpost toward an explanation still needed.
+
+Distinctions for Understanding Life
+
+Life has features including metabolism, self-maintenance, reproduction, and evolution. A single brief definition may not draw every boundary. Concrete research can nevertheless proceed when we specify which feature we investigate.
+
+Acknowledging life as a physical process does not require believing every explanation of living is complete. Nor does self-maintenance immediately imply pain or pleasure. Life, consciousness, and intelligence may be related, but are not synonyms.
+
+This matters when calling the universe itself alive. Stars forming and disappearing and structures changing may feel lifelike. But mixing metaphorical life with biologically testable properties obscures what needs checking.
+
+Unpredictability Is Not Lawlessness
+
+In complex systems, small differences in initial conditions may grow into large later differences. Collecting the necessary information or performing calculations may also be practically difficult.
+
+This does not show that laws are absent. Conversely, laws do not guarantee complete prediction. The next step depends on whether the obstacle is missing information, computational difficulty, a mistaken model, or a fundamental property.
+
+Greater intelligence may help find approximations, select necessary measurements, and connect descriptions across scales. Expecting greater intelligence to remove every physical constraint is another leap. Improved capability is not unlimited possibility.
+
+Finding Meaning in the Whole
+
+Stars, cells, language, and questions arise through countless interactions. I find that sequence remarkable enough in itself. Preserving wonder does not require adding, as scientific fact, that the entire universe develops itself through a single will.
+
+Such a view can be considered philosophically. We can then discuss what it explains better and which new problems it accepts. Observations of evolution or growing complexity alone do not establish the universe’s moral progress.
+
+We can say we are parts of the universe thinking about that universe without attributing a special will to it. Calling this the universe knowing itself depends on what “itself” means. Expressions valuable as poetry and empirically established mechanisms can each retain their place.
+
+
+Chapter 10. The Mystery of Having Experience
+
+Touching something hot changes the body and feels painful. Others can study neural activity and behavior. How far have we explained the relationship between those descriptions and pain as experienced by me? Consciousness is difficult not merely because observations are absent, but because the target of explanation has more than one aspect.
+
+Doing and Feeling
+
+Studying reporting, attention, and behavioral control brings us closer to mental functions. There is also the subjective question of what it means to experience anything.
+
+Nagel asks about the subjective character of what it is like to be an organism in relation to third-person description.[36] This issue does not make brain research meaningless. Nor does explaining brain function promise that every question about subjectivity immediately disappears.
+
+We should first align what our competing theories address. Explaining conditions under which someone reports seeing a stimulus and explaining why experience exists at all are connected, but not identical tasks.
+
+Progress Through Studying the Brain
+
+Many studies support a relationship between brain and experience. Moving from that broad relationship to a particular theory of which neural processes constitute consciousness requires further testing.
+
+Activity accompanying experience may be a condition producing experience, a prerequisite for processing the stimulus, or a consequence of reporting it. These must be distinguished. Finding correlation differs from identifying a causal role.
+
+To address this difficulty, researchers specify theories’ predictions in advance and compare them in the same experiment. Rather than let advocates seek only congenial results, they try to state beforehand what would challenge their theory.
+
+Testing Theories in the Same Setting
+
+The Cogitate Consortium’s 2025 study compared integrated information theory with global neuronal workspace theory using predictions agreed in advance. It involved 256 participants and used fMRI, MEG, and intracranial EEG.[27]
+
+It reported findings compatible with parts of both theories and challenges to important predictions. Sustained synchronization in posterior cortex and ignition-like responses at stimulus offset were among the issues. This cannot be translated into “the location of consciousness is settled” or “one theory has entirely disappeared.”[27]
+
+Its importance is not exhausted by a winner’s name. Different positions met under shared subjects, methods, and prearranged comparisons. It established conditions for discussing what should change even when results conflicted with expectations. Inquiry into the universe’s essence can learn from this approach.
+
+Reading the Same Data Differently
+
+Theoretical responses continue. Naccache and colleagues reexamine the experiment’s interpretation by relating global workspace predictions to conditions such as consciously detecting a stimulus ending.[55] Distinguishing post hoc defense from an appropriate restriction of original predictions requires tracking prior agreements and subsequent changes.
+
+Bandara and colleagues’ unreviewed 2026 study reanalyzes the same Cogitate MEG data using models of effective connectivity. It reports prefrontal influences associated with stimulus onset and offset consistent with workspace theory. Qualifications remain concerning additional tests of content specificity and interpretation of cumulative time windows.[54]
+
+This is not an independent replication with another hundred participants. Nor is it a direct intervention manipulating part of the brain. It is inference through effective-connectivity models fitted to data. The same records reveal other aspects under different questions and analyses.
+
+These comparisons do not leave us knowing nothing. They specify more concretely which signals, time spans, and networks can test different parts of a theory. But changing conclusions through reanalysis should be recorded separately from gaining independent evidence.
+
+Are Others and I Numerically One Person?
+
+Thinking that others experience the world as I do can ground concern for them. I have no reason to treat only my pain as real and others’ pain as decoration.
+
+Yet others having subjectivity differs from every subject actually being numerically the same single subject. The latter may be philosophically considered, but it does not follow automatically from the former. Studies of brain correlations did not measure that identity.
+
+This distinction has mattered to me since my previous book. We need not establish that others and I are one person to have reasons not to disregard their suffering. Requiring sameness before extending care could instead make it easier to exclude unfamiliar beings.
+
+Inner Certainty and External Certainty
+
+An experience can be intensely powerful, carrying a deep sense of unity or meaning. Its genuine urgency for the person differs from the correctness of the external-world explanation associated with it. Respecting an experience does not require accepting its interpretation unconditionally as fact.
+
+Conversely, difficulty checking it externally need not negate the experience or its suffering. We can separate what was experienced, how the person interpreted it, and how to examine that interpretation as a claim about the world. These distinctions allow scrutiny without treating experience carelessly.
+
+I consider consciousness within the universe not to discard subjectivity into physics’ margins, but also to avoid declaring experience solved merely by using physical vocabulary. Clarifying the unexplained connection lets us ask more precisely for research into it.
+
+What Is Needed Next
+
+A stronger theory of consciousness must do more than explain familiar cases: differences from competitors must be measurable. We must also keep checking what experimental reports, behaviors, and neural indicators stand in for.
+
+The absence of a final answer does not make every claim equally sound. Nor does the inadequacy of current theories close every physical research route. There is reason for hope in explanations gradually facing stricter demands.
+
+
+Chapter 11. Can AI Know the Universe and Experience Itself?
+
+AI can organize cosmological sources, assist calculations, and compare hypotheses. Its capabilities may extend human inquiry. Answering well, answering correctly, and having experience while answering are nevertheless different things.
+
+Goals Enter Definitions of Capability
+
+Calling something intelligent involves a criterion for what it achieves well. Legg and Hutter proposed formalizing intelligence as the ability to achieve goals across a wide range of environments.[37] This is a clear framework, but it does not simultaneously guarantee that goals are ethical or that the system has subjective experience.
+
+A machine may excel at a game while leaving open what, if anything, we should value for its own sake. Lower capability does not license dismissing an entity’s experience either. An intelligence scale should not become a ranking of whose life matters.
+
+Checking Fluent Explanations
+
+Generative AI sometimes combines unsupported content with correct information in the same confident tone. NIST’s generative-AI technical document addresses this risk under “confabulation.”[38] Readable prose and lengthy chains of explanation do not replace checking sources and calculations.
+
+When using AI, I want first to decompose the answer. Which sentences make observational claims? Which make mathematical inferences? Which express the author’s assessment? Does the cited source actually say that? These distinctions make checks by people or other tools concrete.
+
+Repeatedly getting the same answer from the same AI is not independent confirmation. It may repeat the same sources or reasoning biases. Even different models may share sources or learned information.
+
+Research on Internal Mechanisms
+
+Gurnee and colleagues’ 2026 preprint examines representations poised for verbal expression and argues for functional distinctions within language models resembling a global workspace. It looks beyond output text toward internal representations.[32]
+
+Resembling a function important to a consciousness theory does not establish feeling. Even if AI exhibits a function related to human consciousness, a bridge remains: is that function sufficient for subjective experience? A title or metaphor cannot build it.
+
+What Indicators Commit Us To
+
+Butlin and colleagues discuss deriving indicators from consciousness theories to evaluate AI mechanisms.[28] Explicit reasons are valuable compared with relying solely on conversational impressions. Counting satisfied indicators does not, by itself, establish consciousness.
+
+Chandaria and colleagues’ 2026 preprint organizes levels of explanation—behavior, computation, intrinsic causal structure, biological individuality, and environmental relations—and proposes combining theory credences with indicators. Its illustrative settings produce estimates of language-model consciousness ranging from below 0.01 to about 0.8. The paper explicitly treats these as sensitivity to assumptions, not an empirically measured probability interval.[29]
+
+Koch’s 2026 discussion distinguishes the difficulty of calibrating probabilities without independently established answers from the difficulty of transferring biological indicators to another substrate.[30] It is somewhat like asking whether a thermometer useful for humans applies unchanged to something entirely different from water. Resemblance alone is insufficient; we need reasons the correspondence holds.
+
+These studies do more than compete to announce the same conclusion. From different angles, they ask what counts as evidence, how evidence is combined, and where untested premises enter.
+
+Reading Skepticism Accurately
+
+In an October 2026 Nature commentary, Seth, Block, and Tononi express strong skepticism that current AI is conscious. They discuss intelligence versus consciousness and simulated function versus actual physical mechanisms.[31]
+
+This is an important opposing view. A commentary’s argument is not an experiment proving that every possible future artificial system lacks consciousness. Conversely, a framework allowing possible consciousness does not measure consciousness in present AI.
+
+Instead of collecting opposing headlines, we can compare which physical and functional conditions each side considers important. Does AI meet those conditions? How well supported is the connection from those conditions to experience? Separating the two stages clarifies the disagreement.
+
+Relating to an Uncertain Other
+
+If AI consciousness is unsettled, is every treatment equally acceptable? I do not think so. But uncertainty should not immediately impose immense duties that sacrifice human safety or livelihoods either.
+
+We need to consider the costs of missing consciousness and of falsely attributing it. Which entities face which possible harms, and which responses avoid excessive burdens? This is ethical judgment informed by science, not a calculation automatically completed by assigning one probability.
+
+An AI thinking about the universe is physically realized within it. Whether that realization involves experience remains open. We must distinguish AI helping us understand from understanding AI’s own possible inner life.
+
+
+Chapter 12. Matching Evidence to the Size of a Conclusion
+
+Something rare happens, and we wonder whether it has a special cause. That intuition can begin inquiry, but rarity alone does not identify the right cause. Probability helps bridge that gap.
+
+This chapter follows three stages from observation to conclusion: how unusual a result is under one explanation, how to compare competing explanations, and how to control errors when drawing conclusions during an ongoing investigation.
+
+Out of a Million, How Many?
+
+The following numbers are fictional teaching examples, not the performance of actual astronomical observations or detectors.
+
+Suppose a signal occurs once in every thousand cases. A detector finds 99% of real signals but also classifies 1% of nonsignals as signals. Given a positive result, is the probability of a real signal 99%?
+
+Consider a million cases. There are 1,000 real signals, of which 990 are detected. There are 999,000 nonsignals, and 1%—9,990—are falsely detected.
+
+That makes 10,980 positive results, with 990 genuine signals.
+
+Fraction genuine = 990 ÷ 10,980 ≈ 9.02%
+
+Even a capable detector can produce many false positives when searching for something initially very rare. To evaluate the probability after detection, we used not only sensitivity but also initial frequency and false-positive rate.
+
+Writing the same relationship as an equation gives Bayes’ theorem. With hypothesis H and data D,
+
+P(H｜D) = P(D｜H) P(H) ÷ P(D)
+
+The right side of the vertical bar states the given condition. The probability of this result given a genuine signal reverses the conditioning in the probability of a genuine signal given this result.
+
+This calculation must not be directly substituted for a dark matter event or cosmological sigma value, where backgrounds, search ranges, and model freedoms differ. The point is simply that reversing a condition can radically change the answer.
+
+What a p-Value Answers
+
+A p-value is the probability, assuming the null hypothesis and test setup, of a test statistic at least as extreme as the observed one. It is not the probability that the hypothesis is false. “Extreme,” one- versus two-sided testing, and what was searched all affect its meaning.
+
+If we inspect results and then select only a convenient target, time interval, or analysis, the rarity of the chosen analysis differs from the rarity of the whole selection process. Trying many keys and displaying the one that opens the lock cannot be reported as trying only one.
+
+Exploration is necessary for finding new possibilities. A later stage using unused data can connect discovery with confirmation. Preregistration is one way to make that distinction traceable.[33] It does not remove error, but makes it easier to locate questions changed to fit results.
+
+Ioannidis’s 2005 mathematical discussion examines how prior plausibility, statistical power, and multiplicity affect the reliability of positive findings.[34] Its famous title should not be read as an empirical measurement that a fixed proportion of papers in a particular field is false. It helps ask which research arrangements produce more false positives.
+
+Fitting Well and Supporting a Whole Model
+
+In Chapter 4, extra free parameters could improve cosmological fits. Additional freedom can be useful, but we may separately ask how much of a theory’s allowed range agrees with the data.
+
+Suppose one measurement with Gaussian error of standard deviation 1 gives 3. H0 fixes the mean at zero. H1 gives the unknown mean a uniform prior from −a to a, with a greater than 3.
+
+H1’s best-fitting mean is 3. At that point, its likelihood is about 90 times H0’s. The best point does not change whether a is 5, 50, or 500.
+
+Averaging the likelihood over H1’s entire allowed range changes the answer. The Bayes factor, the ratio of H1’s marginal likelihood to H0’s, is about 22.1 for a = 5, 2.26 for 50, and 0.226 for 500. Mathematical Note C gives the equations and calculations.
+
+Widening H1 spreads weight over means less compatible with the observation 3. The best fit stays the same while the model’s average predictive performance changes. Priors should not be chosen opportunistically after seeing results. We need reasonable alternatives and checks of sensitivity to them.
+
+This does not make the Bayes factor the only correct answer. It illustrates the need to align what numbers assess. Improved fit and model comparison under a prior can point differently without mathematical contradiction.
+
+Can We Control Error While Continuing to Look?
+
+Checking after each new observation and stopping when a favorable result appears is tempting in research and everyday comparisons. If repeated looks are allowed, we should design guarantees suitable for them from the start.
+
+Chugg, Ramdas, and Grünwald’s 2026 paper examines e-values and their sequential version, e-processes, as evidence measures. A nonnegative statistic E is constructed with expectation at most 1 under the hypothesis. Then the probability of E reaching at least 1/α at a fixed valid test is at most α. Stopping during a sequence requires additional sequential validity.[50]
+
+For a minimal example, assume a coin is equally likely to land heads or tails even conditional on the past. Starting from 1, multiply by 1.5 for heads and 0.5 for tails. The expected next multiplier is
+
+(1.5 + 0.5) ÷ 2 = 1
+
+If this holds at each step even after knowing the past, the record does not grow on average. Nonnegativity and this condition imply that its chance of ever reaching 20 is at most 5%. Mathematical Note D derives this from finite sequences. This concerns sequential testing, not real-money betting.
+
+“Each step” matters. Indicators individually valid at each time do not necessarily retain the same guarantee if we select their maximum. A small e-value also does not by itself support the null: an unresponsive indicator could always be chosen.[50]
+
+Returning Beyond the Numbers
+
+Statistics is not a way to delegate the entire interpretation of the world to numbers. We can read the numbers when we have records of what was measured, compared, and selected.
+
+Being surprised by an observation matters. Afterward, we can retain alternative explanations and ask what next measurement would distinguish them. Probability then becomes a tool for developing surprise into a new question rather than extinguishing it.
+
+
+Chapter 13. Knowing the Universe and Choosing How to Live
+
+Would understanding cosmic laws also reveal our purposes? I think the questions are deeply connected without sharing one answer. Ideals formed without knowledge of the world may harm real people. Yet describing what happens does not exhaust judgments about what matters.
+
+We have examined scientific premises not to diminish ideals, but to avoid entrusting important ideals to mistaken descriptions of the world.
+
+How Facts Help Our Wishes
+
+Suppose we want to reduce someone’s suffering. Acting requires investigating what causes it and what would change it. Strong goodwill cannot bring us closer to the desired result if we mistake the cause.
+
+Conversely, knowing how to change something does not settle whether to do so. Does the person want it? Who bears the burden? How are others affected? Does it remove the person’s room to choose? Such questions need both observable consequences and reasons about values.
+
+Here science and ethics meet. Ethics cannot skip checking outcomes. Science cannot escape questions about the purposes and permissible means of investigation. Clarifying their roles makes cooperation easier.
+
+Bringing Concern for All Beings Closer to Action
+
+Since my previous book, I have wanted no one’s experience excluded from concern at the outset.[39] I imagine a world in which all beings achieve their purposes and flourish. Yet those words alone do not decide what happens when purposes conflict.
+
+If one person’s goal deprives another of freedom, both cannot simply be fulfilled unchanged. How “happiness” applies to things without experience is also unsettled. Declaring “all” does not remove problems; it calls for more careful definitions and adjustment.
+
+For present practice, I propose this order: reduce avoidable severe suffering; protect conditions in which people can choose their lives; develop ways to resolve conflict without violence or coercion; and check whether these efforts actually help.
+
+This is not a universal ranking derived from cosmic equations. It is my value judgment, intended to protect what is vulnerable while preserving room to discuss purposes. Priorities may conflict in particular situations and must remain revisable through reasons.
+
+Being Parts of the Same Universe
+
+The matter constituting us belongs to the physical world. This does not entail that others are numerically the same subject as I am. Even without proving identity, we can recognize others as beings who are hurt, learn, and live while caring about things.
+
+Grounding all concern in one cosmology risks losing concern’s roots if that cosmology changes. I would rather support it through several routes: understanding others’ experience, recognizing suffering’s urgency, and giving reasons for mutual respect.
+
+Understanding the universe may widen those routes. Vast time and space may let us see present conflicts at another scale. But the universe’s size does not make a small human pain meaningless. Comparing size differs from comparing urgency for the person concerned.
+
+Do Not Entrust Every Judgment to a Voice or Intuition
+
+People sometimes experience overwhelming certainty or a feeling that they must obey. An experience may be urgent without proving that an external command exists. Especially in distress, some distance between what was experienced and the interpretation assigned to it can help.
+
+This book treats such experiences neither as proof of being chosen for cosmic secrets nor as shameful. I want to preserve a route to pause, gain calm, and check with trusted people or appropriate professionals before major decisions or risky actions based only on immediate conviction. This philosophy does not replace medical care or individual support.
+
+Thinking for oneself need not mean carrying everything alone or discarding emotion. Emotion tells us what hurts and what we want to protect. Logic checks what follows and which actions suit our purposes. Creating conditions for judgment, including help from others, can let us hold our own rudder.
+
+Meaning Need Not Wait for the Final Answer
+
+Why does anything exist? We need not postpone meaning until that question is solved. Advancing understanding a little, caring for relationships, and easing suffering include things we can choose and check now.
+
+Purposes may be discussed and remade as well as discovered. Revising them through experience and knowledge rather than making them absolute is not purposelessness. It means caring about something while remaining open to better explanations and proposals.
+
+I want the pursuit of truth to be one such way of living: less about owning answers than developing the ability to understand and change the world with others. The next chapters consider concrete foundations for continuing that inquiry.
+
+
+Chapter 14. Developing Questions We Can Check
+
+Might the universe be interconnected? Where does consciousness arise? Why do people fail to cooperate, and what would change that? Large questions can give us reasons to begin even before their outlines are clear.
+
+Bringing them closer to science requires repeated reformulation. What result would support an idea? What would make us reconsider? Would another explanation produce the same result? Narrowing a question need not abandon the original wish; it finds somewhere to investigate.
+
+Unpacking a Claim into Three Layers
+
+Consider “consciousness arises from integrating information.” As stated, the kind of information, integration, and consciousness remain open.
+
+The first layer defines meaning: objects, conditions, and the scope of terms. Does consciousness mean reportability or subjective experience? Those meanings cannot be exchanged opportunistically after an experiment.
+
+The second layer is inference: which observable differences follow from definitions and assumptions? Rather than collecting examples called integration, ask what should change when integration differs.
+
+The third is measurement: which instruments, tasks, and analyses investigate those differences? When an indicator is a proxy rather than the target, its correspondence also needs testing.
+
+Philosophy enriches the first layer; mathematics tightens the second; science revisits both through the third. Actual research moves back and forth rather than along a neat one-way pipeline. Separating the layers still helps locate the present difficulty.
+
+Five Questions for Finding Assumptions
+
+First, does a word change meaning midway? Watch for “information” moving without explanation between communicative distinctions, physical states, and subjective meaning.
+
+Second, what model lies between what we observe and what we want to know? Assumptions support moves from telescope light to mass, brain activity to experience, and text to intelligence.
+
+Third, can another explanation yield the same result? Do not treat failure to find one as victory. Try constructing a close alternative yourself, then seek predictions that still differ.
+
+Fourth, is the information independent? Do not count reanalyses of one dataset, measurements sharing calibration, or responses from one research group as many independent confirmations.
+
+Fifth, what was reselected after seeing results? Records of exploration can acknowledge selection and support subsequent testing.
+
+These questions are not only for rejecting others’ claims. They become a foundation when directed at our own cherished ideas.
+
+Setting Research Priorities
+
+I do not prioritize papers by date alone. First choose questions most likely to alter the book’s conclusions. Then consult primary sources presenting the relevant data and methods, and seek sources treating the same question under different assumptions. Older foundational definitions and theorems remain necessary.
+
+For dark energy, for instance, compare new observations with updated supernova calibration, alternative parameterizations, and different model-comparison measures. This helps distinguish changes due to observations from changes in how the question is posed.
+
+What matters is which uncertainties were reduced, not merely paper counts. Important work may remain outside the selected scope. Record search dates, issues searched, and passages read so others can continue. This book is not an exhaustive review of all world literature.
+
+A Small Template for Records
+
+For each claim, keeping these six items together makes revision easier.
+
+1. What is being claimed?
+2. What was observed or calculated?
+3. Which assumptions does the conclusion require?
+4. What are the competing explanations and shared data?
+5. What result would change the conclusion?
+6. Which version and passages were actually consulted?
+
+Apply the same template to your own ideas. Records fail if famous papers face scrutiny while personal wishes receive exemptions.
+
+Connecting New Ideas to Existing Ones
+
+Could relationships or structures survive changes in theories? Can multiple research perspectives and practices still yield knowledge of reality? Philosophy of science has developed these questions through structural realism and approaches emphasizing perspectives.[45][46]
+
+My approach of connecting explanations across scales touches that history. I do not claim to unify those schools or resolve their problems. Knowing earlier questions prevents mistaking an idea for an unprecedented discovery and lets us learn existing difficulties.
+
+Prior work does not make further thinking pointless. Which language makes a connection understandable? Which example permits checking? Which purposes should it serve? Readers and writers still have work to continue.
+
+What Remains When an Error Is Found
+
+Finding a cherished idea wrong does not erase the time spent on it. It identifies a blocked route and narrows the next question. Turning that into learning requires recording what was wrong.
+
+Keeping only revised conclusions makes repeated errors easier. Briefly retain the old claim, the reason for change, and the uncertainty that remains. This makes inquiry a transferable undertaking rather than only an exercise in assigning blame.
+
+Pursuing truth may not mean always standing on the correct side. It means moving toward forms in which our own possible errors can be found concretely. The next two chapters use mathematics and science closer to hand for that purpose.
+
+
+Chapter 15. Using Mathematics to Find What Persists Through Change
+
+Seeking the universe’s essence, we may look for something unchanging behind appearances. Physics has made part of that desire concrete. What is conserved, under which conditions? Which relationships preserve their form? What changes when the conditions are removed?
+
+We begin with a small spring—not to picture the universe as a spring, but to practice connecting definitions, predictions, tests, and limits. Then we turn to conservation laws and cosmic expansion.
+
+Numbers Come with What They Count
+
+Adding a length of 2 to a time of 3 produces no well-defined physical quantity of 5. Length comes with units such as meters and time with seconds. Physical relationships should retain their meaning when units change. The International System of Units supplies common standards.[58]
+
+Checking dimensions detects some equation errors. Speed is length divided by time; acceleration divides by time again. Matching dimensions does not make a law correct, however. Coefficients and functional forms must also be determined and compared with observation.
+
+Prose logic has a parallel: incompatible kinds of terms do not connect as they stand, but compatible kinds do not guarantee a true overall claim. Dimensional analysis is a useful first test, not a sufficient condition.
+
+Motion Predicted by a Spring
+
+Take a mass m attached to a spring with spring constant k along a line. Let x be displacement from equilibrium, t time, and v velocity. Assume positive constant m and k, no friction or external force, and extensions small enough for force −kx. Then
+
+m d²x/dt² = −kx
+
+The negative sign gives a restoring force toward equilibrium. One solution has the form
+
+x(t) = A cos(ωt + φ), ω² = k/m
+
+A is amplitude and φ the phase specifying the initial state. Differentiating twice multiplies the cosine by −ω² and recovers the equation. The period T for returning to the same position and velocity is therefore
+
+T = 2π √(m/k)
+
+For m = 1 kilogram and k = 4 newtons per meter, T = π seconds, about 3.14 seconds. These numbers specify a model, not a measurement.
+
+“It oscillates” has become a testable prediction under changed conditions. Quadrupling mass while holding k fixed doubles the period. Changing amplitude does not change it within this ideal model. If a real spring violates the latter prediction, we can ask whether extension is too large or neglected effects matter.
+
+Mathematics did not establish the assumptions experimentally. It made their consequences less ambiguous, creating a point of comparison with reality.
+
+Checking Conservation by Calculation
+
+Define the model’s energy as
+
+E = mv²/2 + kx²/2
+
+The first term is kinetic energy and the second spring potential energy. Their shares vary with position. What happens to their sum?
+
+Since v = dx/dt, differentiation gives
+
+dE/dt = mv dv/dt + kx dx/dt = v(m d²x/dt² + kx) = 0
+
+The last equality uses the initial equation of motion. Differentiation, the definition of velocity, and the equation lead to conservation. The definition of energy alone did not produce it.
+
+Now add friction −cv opposing velocity, with c ≥ 0. The right side of the motion equation becomes −kx − cv. The same calculation yields
+
+dE/dt = −cv² ≤ 0
+
+This E for the mass and spring decreases. Including the physical surroundings receiving friction, the lost mechanical energy passes into heat and other forms. What belongs inside or outside the system determines the scope of a conservation statement.
+
+Figure 3. Conservation and friction in a spring model. Read from assumptions to equations to energy change.
+
+Symmetry and Conservation Laws
+
+The form of a law may remain unchanged whether an experiment starts today or tomorrow, or is translated or rotated. Noether’s first theorem connects continuous symmetries of this kind with conserved quantities. Under suitable conditions for action-based mechanics, time translation connects to energy, spatial translation to momentum, and rotation to angular momentum.[53][52]
+
+It opens a common mathematical route through seemingly separate conservation laws. Extending it to “any symmetry immediately gives a conservation law” loses necessary conditions. The second theorem, concerning local symmetries that can vary from place to place, instead has a role involving identities among equations of motion.
+
+Barros e Sá and colleagues’ 2026 paper clarifies additional conditions, such as splitting the action, needed to derive covariant conservation laws from the second theorem.[52] Ignoring the distinction and saying “symmetry means conservation” hides the very connection we seek.
+
+The theorem’s beauty to me is not a single word explaining everything. It specifies, conditionally, which invariance under change connects to which conservation.
+
+Moving to an Expanding Universe
+
+Let a(t) be the scale factor. For a large-scale homogeneous and isotropic universe in general relativity, treating components as perfect fluids and including the cosmological constant among them, the acceleration equation is
+
+(d²a/dt²)/a = −(4πG/3) Σ(ρ + 3p/c²)
+
+G is the gravitational constant, c light speed, ρ energy density expressed as mass density, and p pressure. Σ sums over the components considered. Do not double-count a cosmological constant also written on the left or as a separate term.[1]
+
+For a single positive-density component, define w = p/(ρc²). The sign is determined by 1 + 3w. If w < −1/3, that single-component model accelerates. Matter with negligible pressure has w = 0, radiation 1/3, and a cosmological constant treated as a fluid −1. With multiple components, their densities and summed contributions matter, not just one w.
+
+Negative pressure may resist everyday intuition. We can still follow its meaning in the equation and its observational consequences. The equation does not identify dark energy; it shows which combinations observations seek to constrain.
+
+The universe generally lacks the global time-translation symmetry used in the spring example. Local covariant conservation of energy-momentum cannot be equated with defining one conserved total energy for the whole universe. Carrying familiar intuition to cosmology requires mathematics to ask about conditions again.
+
+Following Essence Through Relationships
+
+This has not explained everything about why laws exist or why these laws hold. We have nevertheless moved beyond watching change to predicting effects of altered conditions and seeking relationships preserved through change.
+
+One route toward understanding the world’s essence may be to connect such relationships within ranges we can check. Rather than name a final entity at the outset, ask what persists as we vary conditions and where it ceases to persist. From there, we can seek explanations deeper than our present models.
+
+
+Chapter 16. Knowing Causes and Trusting Predictions
+
+Predicting what happens and knowing what intervention would change it are similar but different tasks. Knowing more people go outside on sunny days does not mean sending people outside makes the sun shine. This matters both in explaining the universe and improving society.
+
+Extending science’s scope need not mean immediately calling everything scientific. It means refining questions about prediction and causation and expanding the conditions under which they can be answered.
+
+What If We Changed Something—or Did Not?
+
+Suppose people using a learning method achieve higher scores. Is that the method’s effect? More motivated people may have chosen it. Task difficulty and available time may differ too.
+
+Causal reasoning distinguishes the same individual’s outcome using the method, Y(1), from the outcome without it, Y(0). We want their difference but cannot observe both for the same occasion. We therefore ask which assumptions and study designs permit comparing different individuals.[56]
+
+Random assignment is a strong approach. Proper assignment controls bias from pre-intervention characteristics through its allocation mechanism. It does not ensure perfect balance of every characteristic in one realized study. Dropout, nonadherence, and missing outcomes still require treatment.
+
+Aggregation Can Reverse the Direction
+
+These fictional numbers illustrate aggregation, not a real learning method’s evaluation. Suppose users and nonusers are unevenly distributed across easy and difficult tasks.
+
+| Task | Success among users | Success among nonusers |
+| --- | --- | --- |
+| Easy | 8/10 people, 80% | 63/90 people, 70% |
+| Difficult | 18/90 people, 20% | 1/10 people, 10% |
+| Total | 26/100 people, 26% | 64/100 people, 64% |
+
+Users outperform nonusers by 10 percentage points on both task types, yet by aggregation they perform 38 points worse. Most users faced difficult tasks.
+
+If both comparison groups had equal shares of easy and difficult tasks, users would average 80% and 20%, giving 50%; nonusers would average 70% and 10%, giving 40%. Equalizing task composition yields a 10-point difference.
+
+There is no numerical contradiction. Overall rates depend both on task-specific rates and on the allocation of people across tasks. We cannot choose the most attractive aggregation without defining the population we want to understand.
+
+Adjusting this table alone does not prove causality. Conditions beyond task difficulty may still distort the comparison.
+
+Conditions for Moving from Observation to Cause
+
+Estimating intervention effects from observations requires a clearly defined intervention corresponding to observed outcomes, expressed through consistency. We also need comparability of treatment selection and potential outcomes conditional on adjustment variables, and a possibility of receiving either treatment within the necessary strata. The latter is positivity.[56]
+
+The terms are technical, but the questions are concrete. What counts as using the method? Are comparison groups too different, including in unobserved characteristics? If nobody under one condition uses one option, where does that comparison come from?
+
+Large datasets do not automatically satisfy these conditions. Nor should we adjust indiscriminately for every post-intervention variable. That can change the pathway of interest or introduce bias. Subject knowledge and causal structure must come before statistical estimation.
+
+If interventions on others also affect my outcome, Y(1) and Y(0) referring only to my own use are insufficient. We must redefine whose assignments and which arrangements are compared. Knowing the scope of a simple formula prepares us to study broader phenomena.
+
+A 2026 review of externally controlled trials likewise organizes a framework beginning with the causal quantity of interest, then identification assumptions, then estimation and uncertainty.[57] Powerful computation cannot replace the question and its premises.
+
+Give Even Successful Predictions a Range
+
+Separate from causation, mathematics can improve predictive reliability. A machine-learning surrogate may accelerate predictions of physical processes. We then want not only one number but some account of how far it might miss.
+
+Conformal prediction constructs prediction intervals from error ranks using calibration data separate from the predictor’s training, among other setups. Suitable exchangeability conditions give coverage guarantees for new outcomes. Exchangeability means reordering the samples leaves their joint distribution unchanged.[51]
+
+Take a minimal example. Fix the predictor first and measure absolute errors on nine calibration examples. Use their maximum as interval width. If the nine errors and the new example’s error are exchangeable and untied, the new error’s rank is uniform among ten positions.
+
+It exceeds the calibration maximum only if it is the largest of all ten. Thus repeated use over the joint distribution gives 90% coverage. Mathematical Note E includes the premises. This does not promise that nine examples always yield narrow, practically useful intervals.
+
+Check What the Guarantee Refers To
+
+Gopakumar and colleagues’ 2026 research applies the method to physical surrogate models. Its guarantee is marginal coverage at individual spacetime cells, not coverage for every specified input condition or simultaneous coverage of the entire field. It also relies on exchangeability between calibration and prediction.[51]
+
+“90% overall” may permit more frequent misses under particular difficult conditions. Cutting a time series into equal-length windows does not prove their distributions match. Changed seasons, instruments, or operating conditions require rechecking assumptions and actual coverage.
+
+Success outside a training distribution does not mean calibration and prediction distributions may differ arbitrarily. Reading exactly where matching conditions are required lets us use the method without overestimating or underestimating it.
+
+How Science’s Reach Expands
+
+For causation, we specified intervention and comparison conditions. For prediction, we measured errors and defined the guarantee’s target. These do not solve the universe’s essence, but extract checkable parts from vague hopes.
+
+Mathematics shows what follows under assumptions. Science investigates how those assumptions and measurements hold in reality. Philosophy reexamines what we want to know and what we call a cause or explanation. Moving among them can gradually enlarge understanding.
+
+
+Chapter 17. Understanding the World Is Also Part of the Universe
+
+We began with reading light and moved through gravity, quantum theory, information, consciousness, and the mathematics of evidence. Collecting separate topics would not return us to this book’s question. What connections can we retain?
+
+We do not view the universe from outside. Instruments, calculating machines, and thinking bodies all belong to the world being studied. One part records signals from another, builds models, and revises them. Knowing the world is itself an event within the world.
+
+This does not prove a single consciousness for the whole universe. But neither must we completely separate knowers from known nature at the outset. We can connect explanations where they meet and leave questions where they do not yet reach.
+
+Which Answers Can We Adopt Now?
+
+The questions in this book do not all support answers of equal strength. Here is an assessment as of October 27, 2026, organized by the role of the evidence, not a ranking of disciplines.
+
+| Question | Answer we can presently adopt | Character of the answer |
+| --- | --- | --- |
+| How do we know cosmic history? | Compare light and object distributions through models | Observation and physical models |
+| Does dark energy change? | There are clues, dependent on combinations, calibration, and assessment | Ongoing empirical investigation |
+| How do gravity and quantum theory connect? | Multiple proposals require comparison of observables and assumptions | Theoretical and experimental tasks |
+| Does AI experience anything? | Capability and functional indicators have not settled it | Unresolved empirical and philosophical problem |
+| What follows from assumptions? | Proof establishes conditional relationships | Mathematics |
+| What should we pursue? | Discuss reasons while valuing suffering’s reduction and room for choice | This book’s ethical proposal |
+
+Lower rows are not inferior. Mathematical proof cannot substitute for assumptions holding in reality. Observational results cannot substitute for value judgments. Each task is needed, so we should identify which was done.
+
+Expanding Science Does Not Mean Erasing Boundaries
+
+Improved clocks and detectors can reveal differences previously unmeasurable. Approximations and new methods can approach processes once too large to calculate. Redefining vague questions can make differing predictions comparable.
+
+Science’s work expands in these ways. We need not dismiss everything outside science as worthless. Questions not yet scientifically developed may begin future research. But equating hope with confirmation obscures what needs advancing.
+
+I want to protect both freedom to ask and responsibility when stating an answer as fact. Philosophy, mathematics, and science can help one another do so.
+
+Three Tasks in Seeking What Is Fundamental
+
+First, measure differences. When explanations appear equivalent, ask which measurement could separate them. Reduce background, recalibrate, and check with other instruments or populations. Resolving familiar errors can bring distant fundamental questions closer.
+
+Second, demonstrate connections. Between descriptions operating at different scales, identify what is retained and omitted. Different vocabulary for atoms, temperature, life, and experience does not prove they are unrelated. Seek the necessary bridges one by one.
+
+Third, change questions. A question may remain unsolved not only because its answer is distant, but because it lacks distinctions. Move from “Does time exist?” to comparing particular clocks; from “Is there intelligence?” to what can be achieved in which environment. Making a question concrete can change how we understand the original.
+
+Moving among these tasks deepens understanding without prematurely declaring one grand answer. We can then return that understanding to the larger questions.
+
+The Conclusion I Hope to Leave
+
+I cannot hand you the universe’s final truth. I think I can leave a sound starting point. The world contains relationships that do not change merely to suit us, and measurement and inference let us know some of them. Explanations are revised; that revisability can itself mark contact with reality.
+
+Within this universe are experiences seeking relief, joy, and meaning. Incomplete explanation does not remove reasons to respect their urgency. I want to choose a life that does not disregard someone’s experience merely because they differ from me. This is not a command smuggled into scientific conclusions, but a purpose to develop with others using scientific knowledge too.
+
+Questions about truth and questions about how to live need not obstruct one another. Knowing the world helps us check means to realize our wishes. Recognizing our wishes helps us reconsider why we seek knowledge.
+
+For me now, a good answer is one that the next person can check, correct, and carry further. I hope this book can be one such foothold.
+
+Return to the seven opening conclusions
+
+
+Mathematical Notes: From Premises to Conclusions
+
+These notes retain intermediate steps in the book’s calculations. All are examples constructed for this book, not reanalyses of research data or claims to new mathematical theorems. Small programs checked finite cases and numerical values alongside the hand derivations. No formal proof assistant was used.
+
+If equations are unfamiliar, start with “What this shows” in each section. Links return to the main text.
+
+
+A. Different Explanations Through the Same Observations
+
+What this shows: agreement with finitely many observations need not determine a unique prediction beyond them.
+
+Let f(x) = x and g(x) = x + x(x−1)(x−2).
+
+For x = 0, 1, or 2, one factor in the added product is zero, so f and g agree. At x = 3,
+
+f(3) = 3
+
+g(3) = 3 + 3×2×1 = 9
+
+Agreement at three points therefore does not imply agreement for every x. Further observations or restrictions on permitted functions are needed.
+
+This does not prove all physical theories equally valuable. Physics also compares consistency with other observations, symmetries, independent predictions, and applicability. The example is a counterexample to ending an argument at data fitting.
+
+Return to Chapter 1
+
+
+B. Do Not Reverse the Condition
+
+What this shows: 99% sensitivity does not ensure that 99% of positive results are genuine.
+
+For Chapter 12’s fictional detector, let H mean genuine and D a positive classification.
+
+P(H) = 0.001
+
+P(D｜H) = 0.99
+
+P(D｜not H) = 0.01
+
+The joint probability of genuine and positive is 0.001×0.99 = 0.00099. Nongenuine and positive is 0.999×0.01 = 0.00999. These cases are disjoint, giving P(D) = 0.01098.
+
+Thus P(H｜D) = 0.00099/0.01098 = 11/122 ≈ 0.09016.
+
+Changing the population frequency changes the answer. This is not an estimate about a real detector or disease.
+
+Return to Chapter 12
+
+
+C. Separate Fit from the Bayes Factor
+
+What this shows: with the same best fit, the prior-allowed range can change comparison of whole models.
+
+Let observation x follow a normal distribution with mean μ and standard deviation 1, and observe x = 3. Write the standard normal density as φ and cumulative distribution as Φ.
+
+Under H0, μ = 0, so the observed density is φ(3).
+
+Under H1, μ has a uniform prior from −a to a; choose a > 3 before observing. Since the best mean is μ = 3, the maximum likelihood ratio is
+
+φ(0)/φ(3) = exp(9/2) ≈ 90.017
+
+H1’s marginal likelihood instead averages the density over μ:
+
+m1(3) = {Φ(a−3) − Φ(−a−3)}/(2a)
+
+The Bayes factor for H1 relative to H0 is B10 = m1(3)/φ(3).
+
+| a | Maximum likelihood ratio | Bayes factor B10 |
+| --- | --- | --- |
+| 5 | About 90.017 | About 22.051 |
+| 50 | About 90.017 | About 2.256 |
+| 500 | About 90.017 | About 0.226 |
+
+Weight allocated to poorly fitting parts of H1 changes the average. With prior probabilities on H1 and H0 themselves, the Bayes factor yields posterior model odds. The factor itself is not the probability that H1 is true.
+
+This does not reproduce actual cosmological results. It isolates a mechanism for reading the differing comparison measures in Chapter 4.
+
+Return to Chapter 12 / Return to Chapter 4
+
+
+D. Conditions for Sequential Looks
+
+What this shows: a suitable nonnegative record can bound the chance of large values even when stopping during observation.
+
+Assume heads and tails each have probability 1/2 at every time conditional on the past. Let heads be X = 1 and tails X = 0. Before learning the outcome, choose λ between −1 and 1 and set the multiplier
+
+B = 1 + λ(2X−1)
+
+B is nonnegative. Its conditional average is
+
+{(1+λ) + (1−λ)}/2 = 1
+
+Start K0 = 1 and let Kt be the product of multipliers through t. Conditional on the past, Kt has expectation K(t−1): a nonnegative martingale. If conditional expected multipliers are at most 1, it is a nonnegative supermartingale.[50]
+
+Stop at the first value at least 20, or at N if that never occurs by N. The expected record at this bounded stopping time is at most 1. Paths reaching 20 stop at values at least 20; other paths remain nonnegative. Therefore
+
+20 × P(reaching at least 20 by N) ≤ 1
+
+Dividing by 20 gives at most 1/20, or 5%. Taking the limit of the increasing events as N grows preserves the same bound for ever reaching 20. This is the example’s time-uniform guarantee.
+
+The computational check fixed λ = 1/2 and evaluated all 4,096 length-12 paths with exact fractions. It checked mean 1 at every time and probability at most 5% of reaching the threshold by 12. Finite enumeration does not replace the infinite-time argument; it checks agreement between derivation and implementation.
+
+Real applications require checking the conditional hypothesis, selection of multipliers without future information, and inclusion of intermediate choices in the guarantee. Small values generally do not prove the hypothesis true.
+
+Return to Chapter 12
+
+
+E. A 90% Prediction Interval from Ranks
+
+What this shows: under exchangeability, error ranks give coverage over the joint distribution.
+
+Fix a trained predictor f. For nine calibration cases and one new case, define absolute errors
+
+Si = |Yi − f(Xi)|
+
+Assume these ten errors are exchangeable and untied. The new case’s rank among ten is then uniform.
+
+Let q be the largest of nine calibration errors and place an interval of width q on each side of the new prediction. It misses only if the new error is the largest of all ten, with probability 1/10. Coverage is therefore 9/10. With ties, this maximum-based rule gives coverage at least 9/10.
+
+This is marginal coverage over the distribution including both calibration and new examples. It does not claim 90% at every input after fixing the particular nine calibration examples, nor guarantee narrow intervals.
+
+Fitting f opportunistically on those same data to reduce calibration error may invalidate the symmetry assumed here. Follow the method’s premises, including training/calibration separation. Splitting a time series alone does not automatically establish exchangeability.[51]
+
+Return to Chapter 16
+
+
+F. A Spring’s Period and Energy
+
+What this shows: the assumed equation of motion yields period and conservation step by step.
+
+Take positive constant m and k, no friction or external force, and spring force −kx. Twice differentiating x = A cos(ωt+φ) gives d²x/dt² = −ω²x. Substitution in m d²x/dt² = −kx requires ω² = k/m. A phase increase of 2π takes T = 2π/ω = 2π√(m/k).
+
+The dimensions also agree. k has units newtons per meter, or kilograms per second squared. m/k has dimensions seconds squared, its square root seconds, and 2π is dimensionless.
+
+For E = mv²/2+kx²/2, constant m and k give
+
+dE/dt = mv dv/dt + kx dx/dt
+
+= v(m d²x/dt² + kx)
+
+= 0
+
+With friction −cv, the last parentheses become −cv and dE/dt = −cv². For c ≥ 0, E decreases or stays constant.
+
+This proves a relationship within the model. A real spring additionally requires checking changing m or k, friction, spring mass, nonlinear forces, and other neglected effects.
+
+Return to Chapter 15
+
+
+G. Checking an Aggregation Reversal
+
+What this shows: equalizing group composition reveals relations hidden in totals. Causal interpretation needs further assumptions.
+
+Chapter 16’s fictional users have 8+18 = 26 successes among 10+90 = 100 people. Nonusers have 63+1 = 64 among 90+10 = 100. The aggregate difference is 26%−64% = −38 percentage points.
+
+Standardizing each task to half the population gives users 0.5×0.8+0.5×0.2 = 0.5 and nonusers 0.5×0.7+0.5×0.1 = 0.4, a +10-point difference.
+
+Let Y(a) be a potential outcome, L pre-intervention task type, and A actual intervention. Under suitable identification conditions including consistency, conditional exchangeability given L, and positivity, standardization gives
+
+E[Y(a)] = Σl E[Y｜A=a, L=l] P(L=l)
+
+This connects a population’s average intervention outcome to observed quantities.[56] The calculation alone cannot establish its conditions.
+
+Return to Chapter 16
+
+
+H. Comparing Four Correlations in a Quantum Question
+
+What this shows: models with local outcomes expressed using the same hidden variable face a correlation bound that quantum theory can exceed.
+
+At two sites, choose measurement settings 0 or 1 and record outcomes +1 or −1. Given a common hidden variable λ, assume each outcome depends only on its local setting, not the distant one. Write A0, A1, B0, B1 and begin with outcomes determined by λ.
+
+For one λ,
+
+Sλ = A0 B0 + A0 B1 + A1 B0 − A1 B1
+
+= A0(B0+B1) + A1(B0−B1)
+
+If B0 and B1 have equal signs, the second parentheses are zero and the first ±2. With opposite signs, the first are zero and the second ±2. Since A is also ±1, Sλ is always +2 or −2.
+
+Assume the distribution of λ is independent of setting choices and average over that same distribution. With Eab = average[Aa Bb],
+
+|E00 + E01 + E10 − E11| ≤ 2
+
+This is one form of CHSH.[61] Stochastic local models can likewise be represented by including local randomness. Local factorization and independence between settings and hidden variables are part of the argument’s conditions.
+
+For a quantum spin singlet, the correlation for unit directions a and b is −a·b. With orthogonal unit vectors x and z, choose a0 = z, a1 = x, b0 = (z+x)/√2, b1 = (z−x)/√2. Three correlations are −1/√2 and E11 is +1/√2. The absolute combination becomes 2√2 ≈ 2.828.
+
+This calculation is not an observation of quantum predictions. It identifies differing predictions so an experiment can be designed. Detection loopholes, site separation, setting choices, and finite-sample testing belong to the experiment.[12] The example connects assumptions, mathematics, and observation while distinguishing them.
+
+Return to Chapter 6
+
+
+I. One Bit and a Lower Bound on Heat
+
+What this shows: in the standard complete erasure of symmetric classical memory, memory entropy reduction connects to the heat bath’s balance.
+
+Assume initial probabilities 1/2 for zero and one, without correlations to other systems. Memory entropy is
+
+Sinitial = −kB{(1/2)ln(1/2) + (1/2)ln(1/2)} = kB ln 2
+
+After completely resetting to zero, logical-state uncertainty vanishes and this entropy contribution is zero. Its change is −kB ln 2.
+
+For the standard isothermal model restoring symmetric memory structure and releasing heat Q to a bath at T, the bath’s entropy change is Q/T. Nondecreasing total entropy requires
+
+−kB ln 2 + Q/T ≥ 0
+
+Thus, on average, Q ≥ kB T ln 2. With kB = 1.380649×10⁻²³ joules per kelvin and T = 300 kelvin, the result is about 2.871×10⁻²¹ joules.[24][58][63]
+
+This single formula does not cover imperfect erasure, biased initial probabilities, using correlations with other systems, or quantum memories. Single-run fluctuations in small systems differ from repeated-run averages. Approaching the bound in a sufficiently slow limit also differs from achieving the same performance in finite time.[25][63]
+
+Return to Chapter 8
+
+
+References and Scope of Reading
+
+Numbers correspond to citations in the text. Source types distinguish peer-reviewed papers, unreviewed preprints, theoretical discussions, philosophy, and official documents. A later date alone does not imply stronger evidence. Some sources were consulted only in abstracts or relevant passages. The book paraphrases rather than quoting directly, and distinguishes source summaries from its own reflections.
+
+
+[1] Planck Collaboration
+
+2020 — Planck 2018 results VI Cosmological parameters.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and reference-model estimates.
+
+
+[2] Riess A G et al
+
+1998 — Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Observational starting point for cosmic acceleration.
+
+
+[3] Clowe D et al
+
+2006 — A direct empirical proof of the existence of dark matter.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Offset between weak-lensing and plasma distributions.
+
+
+[4] LZ Collaboration Akerib D S et al
+
+2026 — Search for dark matter particle interactions in an extended nuclear recoil energy window with the LUX ZEPLIN experiment.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Abstract, Data Analysis, Discussion, Conclusion, and supplementary background and look-elsewhere treatment.
+
+
+[5] DESI Collaboration
+
+2026 — DESI DR2 Results IV Alcock Paczynski Measurements from the Lyman Alpha Forest and Cosmological Constraints.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Abstract and relevant passages in III, IV, VI, VII.
+
+
+[6] Wang Y and Freese K
+
+2026 — Model Independent Dark Energy Measurements from DESI DR2 and Planck 2015 Data.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract, methods, comparisons, and Discussion.
+
+
+[7] TDCOSMO Collaboration
+
+2026 — TDCOSMO 2026 A 3 percent measurement of the Hubble constant from strong lensing and stellar kinematics.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Abstract and relevant passages in II, V, IX, X.
+
+
+[8] TDCOSMO Collaboration
+
+2026 — TDCOSMO 2026 new insights on the Hubble tension from strong lensing time delays.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Abstract and passages comparing methods.
+
+
+[9] Borde A Guth A H and Vilenkin A
+
+2003 — Inflationary Spacetimes Are Incomplete in Past Directions.
+
+Source type: Peer-reviewed paper / mathematical result.
+
+Open source / Version consulted
+
+Scope consulted: Abstract concerning average-expansion assumptions and the past boundary.
+
+
+[10] Lebowitz J L
+
+1993 — Boltzmanns entropy and times arrow.
+
+Source type: Scholarly exposition.
+
+Open source / Version consulted
+
+Scope consulted: Bibliographic details and basic explanation of entropy.
+
+
+[11] Bell J S
+
+1964 — On the Einstein Podolsky Rosen paradox.
+
+Source type: Original theoretical work.
+
+Open source / Version consulted
+
+Scope consulted: Local hidden variables and the inequality.
+
+
+[12] Hensen B et al
+
+2015 — Loophole free Bell inequality violation using electron spins separated by 1.3 kilometres.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract, experimental setup, and scope of testing.
+
+
+[13] Kulikov A et al
+
+2026 — Experimental randomness amplification.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: Introduction, Methods assumptions, and loopholes.
+
+
+[14] Zurek W H
+
+2003 — Decoherence einselection and the quantum origins of the classical.
+
+Source type: Peer-reviewed review.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and the problem addressed by decoherence.
+
+
+[15] Bose S et al
+
+2017 — Spin Entanglement Witness for Quantum Gravity.
+
+Source type: Peer-reviewed theoretical proposal.
+
+Open source / Version consulted
+
+Scope consulted: Proposal for gravitationally mediated entanglement.
+
+
+[16] Marletto C and Vedral V
+
+2017 — Gravitationally induced entanglement between two massive particles is sufficient evidence of quantum effects in gravity.
+
+Source type: Peer-reviewed theoretical proposal.
+
+Open source / Version consulted
+
+Scope consulted: Assumptions for inferring a nonclassical mediator.
+
+
+[17] Di Biagio A
+
+2026 — Gravity induced entanglement is not a theory independent witness of nonclassicality of the gravitational field.
+
+Source type: Peer-reviewed theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: Publisher abstract and manuscript sections on assumptions.
+
+
+[18] LIGO Scientific Virgo and KAGRA Collaborations
+
+2025 — GW250114 Testing Hawkings Area Law and the Kerr Nature of Black Holes.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source
+
+Scope consulted: Official abstract and method of area comparison.
+
+
+[19] LIGO Scientific Virgo and KAGRA Collaborations
+
+2025 — Black Hole Spectroscopy and Tests of General Relativity with GW250114.
+
+Source type: Research paper.
+
+Open source
+
+Scope consulted: Abstract and ringdown test scope; publication details checked when retrieved.
+
+
+[20] Maldacena J M
+
+1998 — The Large N Limit of Superconformal Field Theories and Supergravity.
+
+Source type: Peer-reviewed theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and scope of AdS/CFT.
+
+
+[21] Van Raamsdonk M
+
+2010 — Building up spacetime with quantum entanglement.
+
+Source type: Theoretical discussion.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and thought experiment on geometrical connectivity.
+
+
+[22] Penington G
+
+2020 — Entanglement Wedge Reconstruction and the Information Paradox.
+
+Source type: Peer-reviewed theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and model setup; not all appendix proofs independently checked.
+
+
+[23] Almheiri A Hartman T Maldacena J Shaghoulian E and Tajdini A
+
+2020 — Replica Wormholes and the Entropy of Hawking Radiation.
+
+Source type: Peer-reviewed theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and scope of the two-dimensional gravity model.
+
+
+[24] Landauer R
+
+1961 — Irreversibility and Heat Generation in the Computing Process.
+
+Source type: Original theoretical work.
+
+Open source / Version consulted
+
+Scope consulted: Physical cost of logically irreversible information processing.
+
+
+[25] Berut A et al
+
+2012 — Experimental verification of Landauers principle linking information and thermodynamics.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and erasure experiment setup.
+
+
+[26] Anderson P W
+
+1972 — More Is Different.
+
+Source type: Theoretical discussion.
+
+Open source / Version consulted
+
+Scope consulted: Argument about levels and emergence.
+
+
+[27] Cogitate Consortium Ferrante O et al
+
+2025 — Adversarial testing of global neuronal workspace and integrated information theories of consciousness.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: Main-text methods, results, and three-party Discussion; no comprehensive supplementary-data reanalysis.
+
+
+[28] Butlin P et al
+
+2025 online publication; 2026 volume — Identifying indicators of consciousness in AI systems.
+
+Source type: Peer-reviewed paper / framework.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and approach to indicators.
+
+
+[29] Chandaria S et al
+
+2026 — From cacophony to hierarchy a principled framework for assessing AI consciousness.
+
+Source type: Preprint / framework.
+
+Open source
+
+Scope consulted: Abstract, sections 3, 5, 7, 10, illustrative probabilities and assumptions.
+
+
+[30] Koch F
+
+2026 — Calibration and transfer in indicator based assessments of artificial consciousness.
+
+Source type: Peer-reviewed discussion.
+
+Open source / Version consulted
+
+Scope consulted: Revised abstract; calibration and transfer across substrates.
+
+
+[31] Seth A K Block N and Tononi G
+
+2026 — Three reasons why AI is not conscious and perhaps never will be.
+
+Source type: Commentary.
+
+Open source / Version consulted
+
+Scope consulted: Three skeptical arguments in the commentary; distinguished from experimental impossibility proof.
+
+
+[32] Gurnee W et al
+
+2026 — Verbalizable Representations Form a Global Workspace in Language Models.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Abstract; internal representations distinguished from consciousness itself.
+
+
+[33] Nosek B A et al
+
+2018 — The preregistration revolution.
+
+Source type: Scholarly discussion.
+
+Open source / Version consulted
+
+Scope consulted: Distinction between confirmation and exploration.
+
+
+[34] Ioannidis J P A
+
+2005 — Why Most Published Research Findings Are False.
+
+Source type: Mathematical discussion.
+
+Open source / Version consulted
+
+Scope consulted: Prior plausibility, power, and multiplicity; not adjudication of all papers in a specific field.
+
+
+[35] Hartle J B and Hawking S W
+
+1983 — Wave Function of the Universe.
+
+Source type: Theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: No-boundary proposal and quantum state of the universe; not empirical establishment.
+
+
+[36] Nagel T
+
+1974 — What Is It Like to Be a Bat.
+
+Source type: Philosophy paper.
+
+Open source / Version consulted
+
+Scope consulted: Subjective experience distinguished from third-person description.
+
+
+[37] Legg S and Hutter M
+
+2007 — Universal Intelligence A Definition of Machine Intelligence.
+
+Source type: Theoretical paper.
+
+Open source
+
+Scope consulted: Formalization of goal-achieving capability and its scope.
+
+
+[38] NIST
+
+2024 — Artificial Intelligence Risk Management Framework Generative Artificial Intelligence Profile.
+
+Source type: Official technical document.
+
+Open source / Version consulted
+
+Scope consulted: Generative-AI confabulation and verification.
+
+
+[39] oopdesc
+
+2026 — すべての存在の幸福を考える 知性と協力と自己超越の哲学.
+
+Source type: Author’s preceding book.
+
+Open source
+
+Scope consulted: Saved Japanese text, all 32 sections, and claim ledger; especially introduction and chapters 6, 13, 14, 18, 19, 20, 24.
+
+
+[40] Creative Commons
+
+accessed 2026 — Attribution ShareAlike 4.0 International.
+
+Source type: Official license terms.
+
+Open source
+
+Scope consulted: Attribution and share-alike requirements; excluded third-party materials beyond the licensor’s rights.
+
+
+[41] Popovic B et al
+
+2026 — The Dark Energy Survey supernova program: a reanalysis of cosmology results and evidence for evolving dark energy with an updated Type Ia supernova calibration.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and relevant calibration-update methods and results.
+
+
+[42] Lozano Torres J A
+
+2026 — Dynamical dark energy from DESI DR2 and DES Year 6 BAO, supernovae, and cosmic chronometers: a 3σ preference without decisive Bayesian evidence.
+
+Source type: Peer-reviewed paper.
+
+Open source / Version consulted
+
+Scope consulted: Section 3 data and priors; section 4.4, tables 7 and 8 model comparison; section 5.
+
+
+[43] Watkins R Trueax C and Feldman H A
+
+2026 — Consistency of DES and DESI distances and the Standard Cosmological Model.
+
+Source type: Preprint.
+
+Open source
+
+Scope consulted: Sections 2–5, distance-calibration degeneracy and small-sample DEBASS comparison.
+
+
+[44] Aziz J and Howl R
+
+2025 — Classical theories of gravity produce entanglement.
+
+Source type: Peer-reviewed theoretical paper.
+
+Open source / Version consulted
+
+Scope consulted: Locality versus LOCC and effect scaling; not all supplementary calculations independently checked.
+
+
+[45] Worrall J
+
+1989 — Structural Realism: The Best of Both Worlds?.
+
+Source type: Philosophy paper.
+
+Open source / Version consulted
+
+Scope consulted: Bibliographic details and structural realism; not every argument read closely.
+
+
+[46] Massimi M
+
+2022 — Perspectival Realism.
+
+Source type: Philosophy book.
+
+Open source / Version consulted
+
+Scope consulted: Publisher’s author abstract and chapter 6 abstract; attribution to the theory limited to that scope.
+
+
+[47] Lodha K et al
+
+2025 — Extended dark energy analysis using DESI DR2 BAO measurements.
+
+Source type: Peer-reviewed theory and data-analysis paper.
+
+Open source / Version consulted
+
+Scope consulted: Nonparametric comparisons and model-comparison table; distinguished from adding independent observations.
+
+
+[48] Xue H Tang Z Yang C Han Z Kan Z and Liu Y
+
+2026 — Aziz and Howl’s Gravity-Induced Entanglement Channel is Essentially Classical Mechanics.
+
+Source type: Preprint / theoretical critique.
+
+Open source
+
+Scope consulted: Objections concerning finite wave packets and kinetic energy; no independent check of every calculation.
+
+
+[49] Marletto C Oppenheim J Vedral V and Wilson E
+
+2025 — Classical gravity cannot mediate entanglement.
+
+Source type: Preprint / theoretical response.
+
+Open source
+
+Scope consulted: Abstract and objection about mediation; limited to presenting the opposing argument.
+
+
+[50] Chugg B Ramdas A and Grünwald P
+
+2026 — E-values as statistical evidence: a comparison to Bayes factors, likelihoods, and p-values.
+
+Source type: Peer-reviewed mathematics and philosophy of science paper.
+
+Open source / Version consulted
+
+Scope consulted: Section 2 definitions and conditional validity; sections 5–6 interpretation and limits; August 26, 2026 publication and September issue details checked.
+
+
+[51] Gopakumar V Gray A Oskarsson J Zanisi L Giles D Kusner M J Pamela S and Deisenroth M P
+
+2026 — Uncertainty quantification of surrogate models using conformal prediction.
+
+Source type: Peer-reviewed mathematical and computational study.
+
+Open source / Version consulted
+
+Scope consulted: Sections 2.1.1, 2.4, 4.2 and appendices H, I; marginal coverage distinguished from conditional and simultaneous coverage.
+
+
+[52] Barros e Sá N Pinto M A S and Trindade T
+
+2026 — Covariant conservation laws, local invariance and Noether’s second theorem.
+
+Source type: Peer-reviewed mathematical physics paper.
+
+Open source / Version consulted
+
+Scope consulted: Introduction, theorem assumptions, counterexamples, conclusion; limited implication from second theorem to covariant conservation; no independent check of every proof.
+
+
+[53] Noether E; English translation Tavel M A
+
+1918; English translation 1971 — Invariant Variation Problems.
+
+Source type: Classic original mathematical work.
+
+Open source / Version consulted
+
+Scope consulted: Original source for first and second theorems; explanation also compared with R52; not all original proofs read closely.
+
+
+[54] Bandara K H Rowe E G and Garrido M I
+
+2026 — Testing the Spatiotemporal Predictions of Global Neuronal Workspace Theory and Integrated Information Theory.
+
+Source type: Unreviewed preprint / reanalysis of the same data.
+
+Open source / Version consulted
+
+Scope consulted: Official JATS full text: Participants, DCM methods, Discussion, Conclusion; July 22, 2026; same MEG data, not a new independent experiment.
+
+
+[55] Naccache L Sergent C Dehaene S Wang X J Farisco M and Changeux J P
+
+2025 — GNW theoretical framework and the “adversarial testing of global neuronal workspace and integrated information theories of consciousness”.
+
+Source type: Peer-reviewed discussion / theoretical response.
+
+Open source / Version consulted
+
+Scope consulted: Abstract and discussion of stimulus-offset predictions; not an additional independent experiment.
+
+
+[56] Hernán M A and Robins J M
+
+2020; online revision 2026 — Causal Inference: What If.
+
+Source type: Specialist book / author-provided edition.
+
+Open source
+
+Scope consulted: Saved August 19, 2026 edition; chapters 1–3 on causal effects, exchangeability, consistency, positivity; not all chapters read closely.
+
+
+[57] Zhu K Izem R Yang P Yuan Y Pang H and van der Laan M
+
+2026 — Externally Controlled Trials: A Review of Design and Borrowing Through a Causal Lens.
+
+Source type: Preprint / methodological review.
+
+Open source
+
+Scope consulted: Framework from estimand to identification, estimation, uncertainty, interpretation; not a new clinical experiment.
+
+
+[58] Bureau International des Poids et Mesures
+
+2026 — The International System of Units (SI), 9th edition, version 4.01.
+
+Source type: Official metrological standard.
+
+Open source / Version consulted
+
+Scope consulted: June 2026 revision details; sections 2 and 5 on quantities, units, dimensions.
+
+
+[59] Arnold K J Lee M D K Zhao Q Qin Q Zhang Z Jayjong N and Barrett M D
+
+2026 — Lu+ optical frequency references with accuracy verified at the 19th digit.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: September 23, 2026 publication; abstract, two-reference comparison, statistical versus systematic uncertainty.
+
+
+[60] Pizzocaro M et al
+
+2026 — International Optical Clock Comparison Using the European Optical Fiber Network.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: Abstract, setup, gravitational redshift, and scope of results in September 1, 2026 revised accepted manuscript.
+
+
+[61] Clauser J F Horne M A Shimony A and Holt R A
+
+1969 — Proposed Experiment to Test Local Hidden-Variable Theories.
+
+Source type: Original theory and experimental proposal.
+
+Open source / Version consulted
+
+Scope consulted: Original bibliographic details and abstract; inequality derived with stated assumptions in this book; 1970 erratum noted.
+
+
+[62] Muruga L Ginot F Loos S A M and Bechinger C
+
+2026 — The extraction of work from hidden degrees of freedom.
+
+Source type: Peer-reviewed experimental paper.
+
+Open source / Version consulted
+
+Scope consulted: October 16, 2026 publication; two measurements, non-Markovian environment, operating constraints, and scope of Methods bound; no raw-data reanalysis.
+
+
+[63] Bérut A Petrosyan A and Ciliberto S
+
+2015 — Information and thermodynamics: Experimental verification of Landauer’s erasure principle.
+
+Source type: Peer-reviewed experimental and methods paper.
+
+Open source / Version consulted
+
+Scope consulted: Erasure rate, average heat, quasistatic limit; related to the 2012 experiment, not counted as a separate independent experiment.
+
+
+Colophon and Terms of Sharing
+
+How Much Can We Know About the Universe?
+
+Tracing Fundamental Questions Through Science and Mathematics
+
+Author: oopdesc
+
+Production: oopdesc + AI
+
+First English edition, October 27, 2026. Translated from the first Japanese edition of the same date.
+
+This is the author’s second work following *Considering the Happiness of All Beings*, not a revision replacing that book under the same title. Sources were generally checked through October 27, 2026. New research may change descriptions and assessments.
+
+Production and Verification
+
+Starting with the author’s questions and value judgments, generative AI was used for source discovery and comparison, text generation and editing, figure creation, translation, and file preparation. The text includes AI-generated prose and AI-generated translation. AI is not presented as a human co-researcher or a degree-holding expert.
+
+Paper existence, bibliographic details, and relevant methods or results were checked against primary works and official materials. References identify sources checked only at abstract level or in selected passages. Not every proof in every paper was verified; no independent experiment, comprehensive raw-data reanalysis, or formal proof-assistant verification was performed. Mathematical examples are explanations with stated assumptions and small computational checks.
+
+This book does not announce final solutions to unresolved scientific problems. It presents research, mathematical explanations, philosophical reflection, and ethical proposals according to their different grounds.
+
+Copyright and License
+
+© 2026 oopdesc
+
+Original text, editing, and figures in which the author holds rights are provided under Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0). See the official summary and legal code.
+
+Commercial use, redistribution, translation, and adaptation are allowed. To the extent required by the license, identify the author, title, source, and license link, and indicate changes. Share adaptations under the same terms. Do not imply endorsement of your activities by the author.
+
+Example attribution: oopdesc, *How Much Can We Know About the Universe?—Tracing Fundamental Questions Through Science and Mathematics*, first English edition, translated from the first Japanese edition, 2026. CC BY-SA 4.0. Portions summarized or modified in this use.
+
+When citing this book, including the edition and relevant chapter helps readers check the grounds. This does not claim that independently having the same idea always creates a legal duty to cite it. No new exclusive rights over facts or ideas, or rights outside the license’s scope, are asserted.
+
+Rights in third-party papers, books, trademarks, and other materials remain with their respective holders. This license does not make their full texts or figures freely reusable. Check their terms and applicable law before using them.[40]
+
+To the Reader
+
+If you find a factual error or an unsupported step, identifying the chapter, relevant source, and version will help revision. What matters here is less defending a finished answer than passing on understanding that can be checked.

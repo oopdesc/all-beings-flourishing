@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "著者、書名、版、出典とライセンスを表示してください。"
+type: book
+title: "宇宙をどこまで知れるのか：科学と数学で本質をたどる"
+authors:
+  - family-names: "oopdesc"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: CC-BY-SA-4.0
+url: "https://github.com/oopdesc/all-beings-flourishing/tree/main/books/universe-2026"

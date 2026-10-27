@@ -1,3 +1,20 @@
+# oopdescの本
+
+幸福、知性、宇宙について考えた本を公開しています。結論から本文の根拠へ、参考文献から引用箇所へ、行き来しながら読めます。
+
+<a id="books"></a>
+
+## 本の一覧
+
+| 本 | 日本語 | English | 中文 |
+| --- | --- | --- | --- |
+| 宇宙をどこまで知れるのか | [読む](books/universe-2026/ja/README.md) | [Read](books/universe-2026/en/README.md) | [繁體中文](books/universe-2026/zh-Hant/README.md) |
+| すべての存在の幸福を考える | [このページの下へ](#すべての存在の幸福を考える) | [Read](translations/en/README.md) | [简体中文](translations/zh-Hans/README.md) |
+
+著者 **oopdesc**。本文は [CC BY-SA 4.0](LICENSE.md) で共有します。新しい本も、このリポジトリの中へ追加していきます。[出版状況](PUBLICATION_STATUS.md) · [訂正・研究の提案](CONTRIBUTING.md)
+
+---
+
 # すべての存在の幸福を考える
 
 [**日本語**](README.md) · [**English 全文**](translations/en/README.md) · [**简体中文 全文**](translations/zh-Hans/README.md)

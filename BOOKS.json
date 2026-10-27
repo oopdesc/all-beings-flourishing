@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "author": "oopdesc",
+  "books": [
+    {
+      "id": "all-beings-2026",
+      "title": "すべての存在の幸福を考える",
+      "date": "2026-10-26",
+      "version": "1.0.0",
+      "languages": {
+        "ja": "README.md#すべての存在の幸福を考える",
+        "en": "translations/en/README.md",
+        "zh-Hans": "translations/zh-Hans/README.md"
+      }
+    },
+    {
+      "id": "universe-2026",
+      "title": "宇宙をどこまで知れるのか",
+      "date": "2026-10-27",
+      "version": "1.0.0",
+      "languages": {
+        "ja": "books/universe-2026/ja/README.md",
+        "en": "books/universe-2026/en/README.md",
+        "zh-Hant": "books/universe-2026/zh-Hant/README.md"
+      }
+    }
+  ]
+}
