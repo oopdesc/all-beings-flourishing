@@ -2,7 +2,7 @@
 
 A Philosophy of Intelligence, Cooperation, and Self-Transcendence. Author **oopdesc**. Produced and translated with ChatGPT; AI use is disclosed in the colophon.
 
-[日本語](../../README.md) · **English** · [简体中文](../zh-Hans/README.md)
+[日本語](../../books/all-beings-2026/README.md) · **English** · [简体中文](../zh-Hans/README.md)
 
 This book begins with the author's long experience of suffering and sustained reflection. It proposes excluding no one from concern, reducing avoidable severe suffering, and expanding conditions for autonomous lives. Empirical findings, value commitments, conditional reasoning, and unverified hypotheses remain distinct.
 
