@@ -1,11 +1,14 @@
 # 出版状況
 
-2026年10月27日更新。
+2026年11月9日にKDP本棚で確認。
 
-『すべての存在の幸福を考える』は、日本語・英語・中国語（繁体字）版をKindleで出版しました。GitHubでは日本語・英語・中国語（簡体字）の全文を公開しています。
+## Kindle版
 
-『宇宙をどこまで知れるのか』は、日本語版の出版申請が済み、KDPで審査中です。英語・中国語（繁体字）の翻訳をGitHubで公開しました。翻訳版のKindle出版は準備中です。
+| 書籍 | 日本語 | English | 繁體中文 |
+| --- | --- | --- | --- |
+| [宇宙をどこまで知れるのか](books/universe-2026/README.md) | [Amazon.co.jpで販売中](https://www.amazon.co.jp/dp/B0HPMLP5N3) | Amazonで審査中 | Kindle販売ページは準備中 |
+| [すべての存在の幸福を考える](books/all-beings-2026/README.md) | [Amazon.co.jpで販売中](https://www.amazon.co.jp/dp/B0HPKQ4H21) | [Amazon.comで販売中](https://www.amazon.com/dp/B0HPL4S681) | [Amazon.comで販売中](https://www.amazon.com/dp/B0HPL2SCCY) |
 
-著者名は **oopdesc**。本文はCC BY-SA 4.0です。
+『宇宙をどこまで知れるのか』の[日本語](books/universe-2026/ja/README.md)・[英語](books/universe-2026/en/README.md)・[繁體中文](books/universe-2026/zh-Hant/README.md)の全文はGitHubで無料公開しています。『すべての存在の幸福を考える』のGitHub中国語版は簡体字、Kindle中国語版は繁体字です。
 
-[本の一覧へ](README.md#books)
+著者 **oopdesc**。[本の一覧へ](README.md#books)

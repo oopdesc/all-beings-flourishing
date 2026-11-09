@@ -8,6 +8,8 @@
 
 [本の一覧へ](../../README.md#books)
 
+**Amazon Kindle版**　[日本語](https://www.amazon.co.jp/dp/B0HPKQ4H21) · [English](https://www.amazon.com/dp/B0HPL4S681) · [繁體中文](https://www.amazon.com/dp/B0HPL2SCCY)
+
 ## 読む
 
 [**結論から読む**](../../read/00.md#s1) ｜ [**短い結論**](../../research/QUICK_CONCLUSIONS.md) ｜ [**参考文献**](../../read/30.md#s1)

@@ -12,7 +12,7 @@
 
 結論、17章、数理ノートA〜I、参考文献63件、奥付を収録しています。文献の確認範囲は各項目に記しました。
 
-**[結論から読む](read/00_conclusions.md#h-1)** · [本の一覧](../../../README.md#books)
+**[結論から読む](read/00_conclusions.md#h-1)** · [Kindle版をAmazonで見る](https://www.amazon.co.jp/dp/B0HPMLP5N3) · [本の一覧](../../../README.md#books)
 
 ## 保存して読む
 

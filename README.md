@@ -11,6 +11,11 @@
 
 各書籍のページから、目次・本文・ダウンロードへ進めます。
 
+## Kindle版
+
+- 『宇宙をどこまで知れるのか』 [日本語版をAmazonで見る](https://www.amazon.co.jp/dp/B0HPMLP5N3) · [英語・繁體中文版の状況](books/universe-2026/README.md#各言語の版)
+- 『すべての存在の幸福を考える』 [日本語](https://www.amazon.co.jp/dp/B0HPKQ4H21) · [English](https://www.amazon.com/dp/B0HPL4S681) · [繁體中文](https://www.amazon.com/dp/B0HPL2SCCY)
+
 本文はすべて [CC BY-SA 4.0](LICENSE.md) で共有しています。出典と変更内容を示し、同じライセンス等の条件に従って、商用利用や改変もできます。
 
 [出版状況](PUBLICATION_STATUS.md) · [訂正・提案](CONTRIBUTING.md) · [利用条件](LICENSE.md)
