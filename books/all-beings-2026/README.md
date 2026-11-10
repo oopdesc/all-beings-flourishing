@@ -1,14 +1,18 @@
 # すべての存在の幸福を考える
 
-[**日本語**](README.md) · [**English 全文**](../../translations/en/README.md) · [**简体中文 全文**](../../translations/zh-Hans/README.md)
-
 知性と協力と自己超越の哲学。著者 **oopdesc**。制作にAIを使用しています。
 
 この本は、著者が長い苦しみの中で考え続けてきた経験と思索を出発点にしています。誰も配慮から排除せず、避けられる深刻な苦しみを減らし、それぞれが生を選び直せる条件を広げる。その提案を、研究でわかったこと、価値の選択、条件つきの推論、未解決の問いに分けて考えます。
 
 [本の一覧へ](../../README.md#books)
 
-**Amazon Kindle版**　[日本語](https://www.amazon.co.jp/dp/B0HPKQ4H21) · [English](https://www.amazon.com/dp/B0HPL4S681) · [繁體中文](https://www.amazon.com/dp/B0HPL2SCCY)
+## 各言語の版
+
+| 言語 | GitHubで無料で読む | Kindleで読む |
+| --- | --- | --- |
+| 日本語 | [**日本語**](../../read/00.md#s1) | [**日本語**](https://www.amazon.co.jp/dp/B0HPKQ4H21) |
+| English | [**English**](../../translations/en/README.md) | [**English**](https://www.amazon.com/dp/B0HPL4S681) |
+| 中国語 | [**简体中文**](../../translations/zh-Hans/README.md) | [**繁體中文**](https://www.amazon.com/dp/B0HPL2SCCY) |
 
 ## 読む
 
