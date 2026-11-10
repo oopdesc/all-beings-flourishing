@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | <img src="ja/cover.webp" alt="日本語版の表紙" width="104"> | [日本語で読む](ja/README.md) | [Amazon.co.jpで見る](https://www.amazon.co.jp/dp/B0HPMLP5N3) |
 | <img src="en/cover.webp" alt="Cover of the English edition" width="104"> | [Read in English](en/README.md) | [Amazon.comで見る](https://www.amazon.com/dp/B0HR1B66YP) |
-| <img src="zh-Hant/cover.webp" alt="繁體中文版封面" width="104"> | [閱讀繁體中文](zh-Hant/README.md) | Kindle販売ページは準備中 |
+| <img src="zh-Hant/cover.webp" alt="繁體中文版封面" width="104"> | [閱讀繁體中文](zh-Hant/README.md) | KDP審査中（2026年11月10日提出） |
 
 表紙 © 2026 oopdesc。掲載用に縮小し、WebPに変換しました。[原著と利用条件](NOTICE.md)
 
